@@ -21,12 +21,15 @@
 - [설치 비용·견적 비교](https://starichdog-collab.github.io/solar-guide/solar-installation-cost.html)
 - [태양광 용량 계산기](https://starichdog-collab.github.io/solar-guide/solar-capacity-calculator.html)
 
+- [구조계산서 확인법](https://starichdog-collab.github.io/solar-structural-review/structural-calculation-report.html)
+- [태양광공사 인수인계](https://starichdog-collab.github.io/solar-guide/solar-construction-handover.html)
+
 ## 유지보수
 
 - 기존 URL, canonical 주소와 Google·네이버 소유확인 태그를 유지합니다.
 - 내용을 수정하면 본문의 수정일, 구조화 데이터의 dateModified, 사이트맵 lastmod를 함께 갱신합니다. 실제 수정이 없는 날짜 갱신은 하지 않습니다.
-- 페이지를 추가·삭제하면 이 저장소의 sitemap.xml과 루트 저장소 starichdog-collab.github.io의 sitemap.xml을 함께 수정합니다. 루트 사이트맵은 현재 전체 11개 페이지를 포함합니다.
-- 루트 저장소의 feed.xml은 상세 글 8개의 본문 전체을 제공합니다. 제목·설명 변경 시 RSS 본문도 갱신합니다.
+- 페이지를 추가·삭제하면 이 저장소의 sitemap.xml과 루트 저장소 starichdog-collab.github.io의 sitemap.xml을 함께 수정합니다. 루트 사이트맵은 현재 전체 13개 페이지를 포함합니다.
+- 루트 저장소의 feed.xml은 상세 글 10개의 본문 전체를 제공합니다. 제목·설명 변경 시 RSS 본문도 갱신합니다.
 - 검색로봇이 사용하는 robots.txt는 https://starichdog-collab.github.io/robots.txt 입니다. 하위 프로젝트의 robots.txt만으로 수집 정책을 변경할 수 없습니다.
 - 문서의 내부 링크, HTML 제목·설명, JSON-LD와 사이트맵의 URL 일치를 확인하고 GitHub Pages 배포 성공을 확인합니다.
 - 검색 노출과 순위는 검색엔진이 결정합니다. 기술 설정이나 소유확인만으로 색인 또는 상위 노출이 보장되지는 않습니다.
@@ -36,8 +39,13 @@
 
 ## 페이지 이미지
 
-- 2026-10-22: 주제에 맞는 이미지 3종을 전체 11개 페이지에 배치했습니다.
+- 2026-10-22: 주제에 맞는 이미지 3종을 전체 13개 페이지에 배치했습니다.
 - 공용 이미지와 CSS는 루트 사이트의 `/assets/images/`, `/assets/solar-images.css`에서 제공합니다.
 - 본문은 640·1024·1600px WebP를 반응형으로 사용하며, 공유용 대표 이미지는 1200px JPEG입니다.
 - 이미지 설명, 대체 텍스트, 대표 이미지 메타데이터, ImageObject 및 이미지 사이트맵을 함께 관리합니다.
 - 이미지는 설명용 예시이며 실제 두자 시공 실적이나 개별 현장의 시공 상세로 표시하지 않습니다.
+
+## 2026-10-22 추가 보강
+
+- 기존 URL과 소유확인 태그를 보존하고 문서 대조·인수인계 콘텐츠를 추가했습니다.
+- GitHub Pages는 기술정보와 계산 예시를 제공하는 문서 사이트로 유지합니다. 계약·결제·개인정보 입력 기능은 두지 않습니다. 영업·서비스 내용은 공식 도메인에서 관리합니다.
