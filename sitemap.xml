@@ -1,47 +1,46 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"><url>
     <loc>https://starichdog-collab.github.io/</loc>
     <lastmod>2026-10-22</lastmod>
-  </url>
+  <image:image><image:loc>https://starichdog-collab.github.io/assets/images/factory-rooftop-solar-1600.webp</image:loc></image:image></url>
   <url>
     <loc>https://starichdog-collab.github.io/solar-guide/</loc>
     <lastmod>2026-10-22</lastmod>
-  </url>
+  <image:image><image:loc>https://starichdog-collab.github.io/assets/images/factory-rooftop-solar-1600.webp</image:loc></image:image></url>
   <url>
     <loc>https://starichdog-collab.github.io/solar-guide/solar-generation-factors.html</loc>
     <lastmod>2026-10-22</lastmod>
-  </url>
+  <image:image><image:loc>https://starichdog-collab.github.io/assets/images/factory-rooftop-solar-1600.webp</image:loc></image:image></url>
   <url>
     <loc>https://starichdog-collab.github.io/solar-guide/solar-installation-checklist.html</loc>
     <lastmod>2026-10-22</lastmod>
-  </url>
+  <image:image><image:loc>https://starichdog-collab.github.io/assets/images/solar-structural-planning-1600.webp</image:loc></image:image></url>
   <url>
     <loc>https://starichdog-collab.github.io/solar-guide/solar-roof-structure.html</loc>
     <lastmod>2026-10-22</lastmod>
-  </url>
+  <image:image><image:loc>https://starichdog-collab.github.io/assets/images/solar-module-mounting-1600.webp</image:loc></image:image></url>
   <url>
     <loc>https://starichdog-collab.github.io/solar-guide/solar-installation-cost.html</loc>
     <lastmod>2026-10-22</lastmod>
-  </url>
+  <image:image><image:loc>https://starichdog-collab.github.io/assets/images/solar-structural-planning-1600.webp</image:loc></image:image></url>
   <url>
     <loc>https://starichdog-collab.github.io/solar-guide/solar-capacity-calculator.html</loc>
     <lastmod>2026-10-22</lastmod>
-  </url>
+  <image:image><image:loc>https://starichdog-collab.github.io/assets/images/solar-module-mounting-1600.webp</image:loc></image:image></url>
   <url>
     <loc>https://starichdog-collab.github.io/solar-structural-review/</loc>
     <lastmod>2026-10-22</lastmod>
-  </url>
+  <image:image><image:loc>https://starichdog-collab.github.io/assets/images/solar-structural-planning-1600.webp</image:loc></image:image></url>
   <url>
     <loc>https://starichdog-collab.github.io/solar-structural-review/roof-solar-review.html</loc>
     <lastmod>2026-10-22</lastmod>
-  </url>
+  <image:image><image:loc>https://starichdog-collab.github.io/assets/images/solar-structural-planning-1600.webp</image:loc></image:image></url>
   <url>
     <loc>https://starichdog-collab.github.io/solar-structural-review/snow-load.html</loc>
     <lastmod>2026-10-22</lastmod>
-  </url>
+  <image:image><image:loc>https://starichdog-collab.github.io/assets/images/factory-rooftop-solar-1600.webp</image:loc></image:image></url>
   <url>
     <loc>https://starichdog-collab.github.io/solar-structural-review/wind-load.html</loc>
     <lastmod>2026-10-22</lastmod>
-  </url>
+  <image:image><image:loc>https://starichdog-collab.github.io/assets/images/solar-module-mounting-1600.webp</image:loc></image:image></url>
 </urlset>

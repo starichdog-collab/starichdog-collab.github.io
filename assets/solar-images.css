@@ -1,0 +1,8 @@
+/* Responsive editorial imagery. Shared across the three guides. */
+.solar-figure{display:block;margin:28px 0 32px;min-width:0}
+.solar-figure img{display:block;width:100%;max-width:100%;height:auto;border-radius:14px;background:#e6edf1;box-shadow:0 8px 28px #17334712}
+.solar-figure figcaption{margin-top:10px;font-size:13px;line-height:1.65;color:#526776;text-align:left}
+.hero .solar-figure{margin:34px 0 0}
+.hero .solar-figure img{border:1px solid #ffffff26;box-shadow:0 16px 38px #071b3328}
+.hero .solar-figure figcaption{color:#d8eef0}
+@media(max-width:700px){.solar-figure{margin:22px 0 26px}.solar-figure img{border-radius:10px}.hero .solar-figure{margin-top:26px}.solar-figure figcaption{font-size:12px}}
