@@ -28,8 +28,8 @@
 
 - 기존 URL, canonical 주소와 Google·네이버 소유확인 태그를 유지합니다.
 - 내용을 수정하면 본문의 수정일, 구조화 데이터의 dateModified, 사이트맵 lastmod를 함께 갱신합니다. 실제 수정이 없는 날짜 갱신은 하지 않습니다.
-- 페이지를 추가·삭제하면 이 저장소의 sitemap.xml과 루트 저장소 starichdog-collab.github.io의 sitemap.xml을 함께 수정합니다. 루트 사이트맵은 현재 전체 14개 페이지를 포함합니다.
-- 루트 저장소의 feed.xml은 상세 글 11개의 본문 전체를 제공합니다. 제목·설명 변경 시 RSS 본문도 갱신합니다.
+- 페이지를 추가·삭제하면 이 저장소의 sitemap.xml과 루트 저장소 starichdog-collab.github.io의 sitemap.xml을 함께 수정합니다. 루트 사이트맵은 현재 전체 17개 페이지를 포함합니다.
+- 루트 저장소의 feed.xml은 상세 글 14개의 본문 전체를 제공합니다. 제목·설명 변경 시 RSS 본문도 갱신합니다.
 - 검색로봇이 사용하는 robots.txt는 https://starichdog-collab.github.io/robots.txt 입니다. 하위 프로젝트의 robots.txt만으로 수집 정책을 변경할 수 없습니다.
 - 문서의 내부 링크, HTML 제목·설명, JSON-LD와 사이트맵의 URL 일치를 확인하고 GitHub Pages 배포 성공을 확인합니다.
 - 검색 노출과 순위는 검색엔진이 결정합니다. 기술 설정이나 소유확인만으로 색인 또는 상위 노출이 보장되지는 않습니다.
@@ -67,3 +67,15 @@
 - 세 안내의 제목·본문·내부 링크와 JSON-LD를 맞췄습니다. 기존 URL·이미지·소유확인 태그는 유지했습니다.
 - 루트와 설치 가이드의 사이트맵·RSS에 새 페이지를 추가했습니다. 기존 글의 발행일과 변경하지 않은 페이지의 수정일은 보존합니다.
 - 검색 결과에 기존 가이드가 확인되더라도 특정 검색어의 순위나 새 페이지의 색인을 보장하지 않습니다.
+
+
+## 2026-10-23 실무 자료 3종
+
+- [태양광 현장사진 체크리스트](https://starichdog-collab.github.io/resources/solar-site-photo-checklist.html)
+- [태양광 견적 비교표](https://starichdog-collab.github.io/resources/solar-quote-comparison.html)
+- [태양광 설계변경 기록표](https://starichdog-collab.github.io/resources/solar-design-change-log.html)
+
+- 새 페이지는 기존 개념 안내와 연결되는 기록 도구입니다. 입력은 브라우저 메모리에서만 처리하고 CSV로 내려받습니다. 서버 전송·자동 저장·사진 업로드 기능은 없습니다.
+- 빈 CSV 3종은 UTF-8 BOM 형식입니다. 작성한 CSV의 수식 시작 문자는 텍스트로 보호합니다.
+- 검색 제목·설명·canonical·Article/BreadcrumbList 데이터, 홈의 발견 링크, 사이트맵과 RSS를 함께 갱신했습니다.
+- 기존 문서와 소유확인 자료는 보존합니다. 공식 도메인 dooja.co.kr은 수정하지 않았습니다.
