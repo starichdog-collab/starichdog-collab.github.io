@@ -5,312 +5,389 @@
     <link>https://starichdog-collab.github.io/</link>
     <description>두자건설 태양광 기술정보의 설치 준비와 구조안전 정보를 본문 전체로 제공합니다.</description>
     <language>ko-kr</language>
-    <lastBuildDate>Fri, 23 Oct 2026 13:44:58 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 14:06:57 +0900</lastBuildDate>
     <atom:link href="https://starichdog-collab.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
+    <item><title>태양광 검토 가이드 | 설치 조건·발전량·구조안전 | 두자건설</title><link>https://starichdog-collab.github.io/solar-guide/solar-review.html</link><guid isPermaLink="true">https://starichdog-collab.github.io/solar-guide/solar-review.html</guid><pubDate>Fri, 23 Oct 2026 14:06:57 +0900</pubDate><description><![CDATA[<article>
+<h1>태양광 검토, 어떤 자료를 누구에게 확인해야 할까요?</h1>
+<p class="byline">운영: <a href="https://dooja.co.kr/">두자건설(DOOJA)</a> · 작성·내용 업데이트: <time datetime="2026-10-23">2026년 10월 23일</time></p>
+<p><strong>태양광 검토는 설치 목적과 현장 조건을 바탕으로 배치, 예상 발전량, 구조안전, 전기 연결, 공사 범위를 확인하는 과정입니다.</strong> 이 안내에서는 처음 상담할 때 서로 다른 검토 내용을 구분하고, 확인된 조건과 남은 질문을 정리하는 방법을 설명합니다.</p>
+<p>건물주는 준비할 자료를, 시공사는 분야별 담당자에게 전달할 정보를 찾아볼 수 있습니다. 개별 현장의 설치 가능 여부나 구조안전 결과를 이 글만으로 결정하지 않습니다.</p>
+<figure class="solar-figure"><img src="https://starichdog-collab.github.io/assets/images/solar-structural-planning-1600.webp" srcset="https://starichdog-collab.github.io/assets/images/solar-structural-planning-640.webp 640w, https://starichdog-collab.github.io/assets/images/solar-structural-planning-1024.webp 1024w, https://starichdog-collab.github.io/assets/images/solar-structural-planning-1600.webp 1600w" sizes="(max-width: 700px) calc(100vw - 96px), (max-width: 1050px) calc(100vw - 112px), 940px" width="1600" height="900" alt="태양광 지붕을 바라보는 창가 책상에 놓인 건축 도면과 안전모, 측정 도구" loading="eager" decoding="async" fetchpriority="high" style="max-width:100%;height:auto"><figcaption>태양광 설치·구조검토 준비자료를 설명하기 위한 예시 이미지.</figcaption></figure>
+<nav class="note" aria-label="이 글의 목차"><strong>필요한 내용부터 확인하세요</strong><ul>
+<li><a href="https://starichdog-collab.github.io/solar-guide/solar-review.html#scope">태양광 검토의 여섯 가지 범위</a></li>
+<li><a href="https://starichdog-collab.github.io/solar-guide/solar-review.html#structural">태양광 구조검토와의 차이</a></li>
+<li><a href="https://starichdog-collab.github.io/solar-guide/solar-review.html#stage">현재 준비 단계에 맞는 자료</a></li>
+<li><a href="https://starichdog-collab.github.io/solar-guide/solar-review.html#coordination">검토 결과를 함께 맞춰 보는 방법</a></li>
+<li><a href="https://starichdog-collab.github.io/solar-guide/solar-review.html#record">검토 현황 기록 항목</a></li>
+<li><a href="https://starichdog-collab.github.io/solar-guide/solar-review.html#questions">자주 묻는 질문</a></li>
+</ul></nav>
+
+<h2 id="scope">1. 어떤 내용을 검토하려는지 구분하세요</h2>
+<p>‘태양광을 설치할 수 있나요?’라는 질문에는 서로 다른 확인이 필요합니다. 견적서나 상담 회신에 어느 범위가 포함됐는지 표시하면 미확인 항목을 찾기 쉽습니다.</p>
+<div class="table-scroll" tabindex="0" role="region" aria-label="태양광 검토 범위와 준비자료"><table>
+<caption>상담에서 구분할 검토 분야</caption><thead><tr><th scope="col">분야</th><th scope="col">담당자에게 할 질문</th><th scope="col">함께 확인할 자료</th></tr></thead><tbody>
+<tr><th scope="row">설치 목적·공간</th><td>어느 구역에 어떤 목적으로 설치하나요? 점검·배수 공간은 어떻게 확보하나요?</td><td>현장 주소, 건물 용도, 전기 사용 현황, 배치 초안</td></tr>
+<tr><th scope="row">발전량</th><td>어떤 배치와 기상자료, 음영·손실 조건을 사용했나요?</td><td>월별·연간 예측값, 입력 조건과 사용한 도면 버전</td></tr>
+<tr><th scope="row">구조안전</th><td>지지대·고정부와 기존 건물 또는 기초 중 어디까지 검토하나요?</td><td>구조도면, 설비 중량과 배치, 접합 상세, 보수·변경 기록</td></tr>
+<tr><th scope="row">전기 연결·관련 절차</th><td>전기 설계 담당자와 관계 기관에 확인할 내용과 미결 사항은 무엇인가요?</td><td>보유 전기 도면, 설비 계획, 문의·협의 내용과 기준일</td></tr>
+<tr><th scope="row">공사·비용</th><td>설계·구조검토·보강·방수·전기 공사는 각각 포함인가요, 별도인가요?</td><td>항목별 견적, 제외 사항, 변경 시 협의 조건</td></tr>
+<tr><th scope="row">운영·인수인계</th><td>설치 후 누가 점검하고 어떤 자료를 받나요?</td><td>관리 동선, 준공도면, 장비 자료, 점검·연락 체계</td></tr>
+</tbody></table></div>
+<p>발전량은 <a href="https://starichdog-collab.github.io/solar-guide/solar-generation-factors.html">발전량 예측 조건</a>, 비용은 <a href="https://starichdog-collab.github.io/solar-guide/solar-installation-cost.html">견적 비교 항목</a>, 공사 완료 후 자료는 <a href="https://starichdog-collab.github.io/solar-guide/solar-construction-handover.html">인수인계 목록</a>에서 자세히 확인할 수 있습니다. 계통 연계와 인허가의 실제 요건·가능 여부는 해당 현장과 시점을 기준으로 담당 기관에 확인하세요.</p>
+
+<h2 id="structural">2. 태양광 검토와 태양광 구조검토는 어떻게 다른가요?</h2>
+<p><strong>태양광 구조검토는 전체 설치 검토 중 구조안전에 관한 업무입니다.</strong> 모듈과 지지대의 무게, 바람·눈 등의 하중이 고정부를 거쳐 기존 지붕이나 기초에 전달되는 조건을 검토합니다. 발전량 예측이나 견적 비교는 확인 대상과 결과물이 다릅니다.</p>
+<p>구조계산서를 받았다면 적용한 도면, 검토 대상과 조건을 확인합니다. 구조검토 결과만으로 예상 발전량이나 전체 공사 비용까지 확인된 것은 아닙니다. <a href="https://starichdog-collab.github.io/solar-structural-review/">태양광 구조검토 항목·준비자료</a>와 <a href="https://starichdog-collab.github.io/solar-structural-review/structural-calculation-report.html">구조계산서 확인법</a>을 함께 살펴보세요.</p>
+
+<h2 id="stage">3. 현재 단계에 맞게 자료를 준비하세요</h2>
+<h3>용량과 도면이 아직 정해지지 않았다면</h3>
+<p>설치 장소, 사용 목적, 현재 보유한 건물 자료와 확인하지 못한 사항을 정리합니다. 사진은 촬영 위치와 날짜를 붙여 전달하고, 현장 접근이 필요한 조사는 안전한 절차를 갖춘 담당자와 협의합니다. <a href="https://starichdog-collab.github.io/solar-guide/solar-installation-checklist.html">설치 전 상담 체크리스트</a>로 시작할 수 있습니다.</p>
+<h3>발전량 제안이나 견적을 받았다면</h3>
+<p>제안별 모듈 사양·배치와 공사 범위를 나란히 놓고 비교합니다. 서로 다른 배치로 계산된 발전량과 다른 공사 범위의 총액은 직접 비교하기 어렵습니다. 구조검토·보강·방수와 추가 확인 항목이 어디에 포함됐는지도 표시하세요.</p>
+<h3>설치 계획이 바뀌었다면</h3>
+<p>변경 전후 도면, 제품 사양과 변경 이유를 모읍니다. 발전량 예측, 구조검토, 견적이 각각 어느 계획을 기준으로 작성됐는지 확인하고, 영향 범위는 분야별 담당자에게 묻습니다. <a href="https://starichdog-collab.github.io/solar-structural-review/structural-calculation-report.html#change-examples">설계 변경자료 정리 예시</a>를 참고하세요.</p>
+
+<h2 id="coordination">4. 분야별 결과가 같은 설치 계획을 기준으로 하는지 확인하세요</h2>
+<p>자료를 모으는 것만큼 중요한 것은 서로 같은 조건을 다루고 있는지 확인하는 일입니다. 배치도를 수정했다면 이전 도면으로 작성한 예측값이나 검토서가 남아 있는지 살펴보세요.</p>
+<ol>
+<li><strong>기준 자료 표시:</strong> 검토에 사용할 배치도 번호·작성일·개정번호와 제품 사양을 함께 전달합니다.</li>
+<li><strong>범위 구분:</strong> 각 담당자가 확인한 대상, 사용한 자료와 제외한 항목을 적습니다.</li>
+<li><strong>미결 사항 분리:</strong> 현장 조사, 제품 확정, 기관 협의 등 아직 끝나지 않은 내용을 별도 목록으로 남깁니다.</li>
+<li><strong>변경 영향 확인:</strong> 변경된 부분을 관련 담당자에게 전달하고 기존 결과의 적용 여부와 추가 확인 범위를 회신받습니다.</li>
+</ol>
+<div class="note"><strong>예를 들어 확인해 볼 상황</strong><p>옥상 설비의 그림자를 피하려고 모듈 위치를 옮겼다면, 발전량 예측에 반영한 배치와 구조검토 도면의 지지 위치가 함께 바뀌었는지 확인해야 합니다. 이는 확인 방법을 설명하는 가상 상황이며 실제 두자 현장의 검토 결과가 아닙니다.</p></div>
+
+<h2 id="record">5. 검토 현황을 한 문서에 정리하세요</h2>
+<p>메일·견적서·도면에 흩어진 회신은 아래 항목으로 묶어 두면 후속 협의가 편해집니다. ‘확인 완료’라는 표시에는 근거 자료와 적용 범위를 함께 적습니다.</p>
+<ul>
+<li><strong>현장과 목적:</strong> 대상 건물·설치 구역, 사용 목적, 현재 단계</li>
+<li><strong>기준 자료:</strong> 배치도·제품 사양의 파일명, 작성일과 개정번호</li>
+<li><strong>검토 분야와 담당:</strong> 확인을 요청한 업무, 담당자, 요청·회신 날짜</li>
+<li><strong>확인된 조건:</strong> 적용 범위와 결과 문서, 후속 작업에 반영할 사항</li>
+<li><strong>미확인 내용:</strong> 필요한 추가 자료, 다음 확인 담당자와 협의 일정</li>
+</ul>
+<p>구조검토를 의뢰할 때 사용할 빈 양식은 <a href="https://starichdog-collab.github.io/solar-structural-review/roof-solar-review.html#request-template">구조검토 상담 준비 양식</a>에서 내려받을 수 있습니다. 이 목록이나 양식은 담당자의 검토 결과서를 대신하지 않습니다.</p>
+
+<h2 id="questions">자주 묻는 질문</h2>
+<details><summary>설비 용량이 같으면 검토 결과도 같나요?</summary><p>같은 kW라도 제품 크기·무게, 모듈 배치, 지지 위치와 현장 조건이 다를 수 있습니다. 용량 수치만으로 발전량과 구조안전 결과가 같다고 판단하지 않습니다.</p></details>
+<details><summary>자료가 모두 있어야 상담할 수 있나요?</summary><p>현재 보유한 자료와 없는 자료를 구분해 전달할 수 있습니다. 부족한 자료를 임의로 추정하지 말고, 추가 조사와 자료 준비 범위를 담당자와 협의하세요.</p></details>
+<details><summary>태양광검토나 태양광구조검토를 문의할 때 무엇을 알려야 하나요?</summary><p>현장 주소·설치 형식·현재 단계와 함께 궁금한 항목을 알려주세요. 발전량, 공사 범위, 기존 건물 구조안전 등 필요한 업무를 구분하면 알맞은 자료와 결과물 범위를 협의할 수 있습니다.</p></details>
+
+<h2 id="sources">참고 자료와 적용 범위</h2>
+<ul class="source">
+<li><a href="https://www.energy.gov/cmei/systems/homeowners-guide-solar" target="_blank" rel="noopener">미국 에너지부 — 태양광 설치 전 지붕·음영·발전량 확인 안내</a></li>
+<li><a href="https://pvwatts.nlr.gov/" target="_blank" rel="noopener">PVWatts — 발전량 예측 입력 조건과 결과 해석 시 주의사항</a></li>
+</ul>
+<p class="source">해외 자료는 설치 조건과 발전량 예측의 일반 개념을 참고하기 위한 자료입니다. 국내 현장의 적용 기준·행정 절차나 개별 설계 결과를 대신하지 않습니다. 구체적인 설계·구조안전 판단은 현장 자료와 관련 전문가의 검토를 바탕으로 진행합니다.</p>
+<section class="cta" aria-labelledby="contact-title"><h2 id="contact-title">두자건설에 필요한 업무 범위를 알려주세요</h2>
+<p>두자(DOOJA)는 태양광 설치·시공과 구조검토를 수행합니다. 현장 정보, 보유 자료와 확인할 질문을 정리해 상담해 주세요.</p>
+<p><a href="https://dooja.co.kr/services/solar-installation">설치·시공 안내</a> · <a href="https://dooja.co.kr/services/solar-structural-review">구조검토·구조계산서 안내</a></p>
+<p>문의: <a href="tel:0222132634">02-2213-2634</a> · <a href="mailto:doojakorea@naver.com">doojakorea@naver.com</a></p></section>
+<aside class="related" aria-label="관련 가이드"><h2>다음으로 확인할 안내</h2><ul><li><a href="https://starichdog-collab.github.io/solar-guide/">태양광 발전 원리와 설치 기초</a></li><li><a href="https://starichdog-collab.github.io/solar-structural-review/roof-solar-review.html">공장 지붕 구조검토 준비자료</a></li><li><a href="https://starichdog-collab.github.io/solar-guide/solar-installation-cost.html">설치 견적 비교 방법</a></li></ul></aside>
+</article>]]></description></item><item>
       <title>태양광 발전량과 효율 | 일사량·음영·예측 확인법 | 두자건설</title>
       <link>https://starichdog-collab.github.io/solar-guide/solar-generation-factors.html</link>
       <guid isPermaLink="true">https://starichdog-collab.github.io/solar-guide/solar-generation-factors.html</guid>
-      <description><![CDATA[<article><h1>태양광 발전량은 무엇에 따라 달라질까요?</h1><p class="byline">운영: <a href="https://dooja.co.kr/">두자건설(DOOJA)</a> · 내용 업데이트: <time datetime="2026-10-22">2026년 10월 22일</time></p>
-<p>같은 용량의 태양광 설비라도 장소와 배치, 운전 상태에 따라 발전량이 달라집니다. 견적에 적힌 연간 수치만 비교하기 전에 <strong>용량의 단위와 예측에 사용한 조건</strong>부터 확인해 보세요.</p><figure class="solar-figure"><img style="max-width:100%;height:auto" src="https://starichdog-collab.github.io/assets/images/factory-rooftop-solar-1600.webp" width="1600" height="900" alt="공장 금속 지붕 위에 통로를 두고 배치된 태양광 모듈 전경"><figcaption>공장 지붕 태양광의 배치와 주변 환경을 설명하기 위한 예시 이미지.</figcaption></figure>
-<h2 id="units">kW와 kWh는 어떻게 다른가요?</h2>
-<p><strong>kW는 전력 또는 설비 용량</strong>을, <strong>kWh는 일정 기간 생산하거나 사용한 전기에너지</strong>를 나타냅니다. 모듈의 표시 용량과 한 달 발전량은 서로 다른 값입니다. 모듈 측 직류 용량과 인버터 측 교류 용량 중 어떤 값을 제시했는지도 함께 확인합니다.</p>
-<h2 id="factors">발전량 예측에서 확인할 항목</h2>
-<div class="table-scroll"><table><caption>태양광 발전량 예측 조건을 읽는 방법</caption><thead><tr><th scope="col">항목</th><th scope="col">확인할 질문</th></tr></thead><tbody>
-<tr><th scope="row">위치와 기상자료</th><td>실제 현장 위치에 해당하는 자료인가요? 사용한 기간과 자료의 출처가 있나요?</td></tr>
-<tr><th scope="row">모듈 방향·경사</th><td>예측에 입력한 방향과 각도가 실제 배치도와 일치하나요?</td></tr>
-<tr><th scope="row">음영</th><td>주변 건물, 수목, 옥상 설비와 모듈 사이의 그림자를 반영했나요?</td></tr>
-<tr><th scope="row">시스템 손실</th><td>인버터, 배선, 오염, 가동 중단 등의 가정을 설명했나요?</td></tr>
-<tr><th scope="row">출력 결과</th><td>연간 합계 외에 월별 예상 발전량과 산정 조건을 받을 수 있나요?</td></tr>
-</tbody></table></div>
-<h2 id="prediction">예상 발전량은 보장값인가요?</h2>
-<p>예측 도구는 입력한 현장 정보와 기상자료를 바탕으로 발전량을 계산합니다. 실제 날씨와 운전 조건이 달라질 수 있으므로 결과에는 불확실성이 있습니다. PVWatts도 입력으로 표현하지 않은 현장의 특성을 모두 반영하지는 못한다고 안내합니다.</p>
-<p>월별 자료를 함께 받아두면 한 해의 합계뿐 아니라 계절에 따른 변화도 비교할 수 있습니다. 이후 운영 자료와 비교할 때에는 설비 용량, 비교 기간, 정지 이력과 기상 조건이 같은지부터 확인합니다.</p>
-<h2 id="compare">설치 제안을 비교할 때</h2>
-<ul><li>두 제안의 모듈 용량과 실제 설치 면적이 같은지 확인합니다.</li><li>방향·경사와 음영 등 서로 다른 가정이 있는지 적어 봅니다.</li><li>총 발전량을 전기요금 절감액이나 판매 수익으로 바꾼 과정은 별도로 설명받습니다.</li><li>고정된 수익이나 회수기간만 제시된다면 적용 조건과 근거 자료를 요청합니다.</li></ul>
-<p>발전량을 늘리는 배치를 검토할 때에도 <a href="https://starichdog-collab.github.io/solar-guide/solar-roof-structure.html">기존 지붕의 구조 조건</a>과 유지관리 공간을 함께 고려해야 합니다. 준비할 현장 정보는 <a href="https://starichdog-collab.github.io/solar-guide/solar-installation-checklist.html">설치 체크리스트</a>에 정리했습니다.</p>
-<details><summary>용량만 알려주면 정확한 발전량을 알 수 있나요?</summary><p>용량만으로 정확한 값을 정할 수 없습니다. 현장 위치와 배치, 음영, 장비와 손실 조건이 있어야 의미 있는 예측 자료를 만들 수 있습니다.</p></details>
-<p class="source">참고: <a href="https://pvwatts.nlr.gov/index.php" rel="noopener" target="_blank">PVWatts 발전량 예측 도구와 결과 해석 안내</a>. 예측 결과는 실제 발전량이나 수익을 보장하지 않습니다.</p><p class="source">이 안내는 일반 정보입니다. 개별 현장의 설계·시공과 구조안전 판단은 현장 자료 및 관련 전문가의 검토를 바탕으로 진행합니다.</p><section class="cta"><h2>두자에 현장 조건을 알려주세요</h2><p>현장 주소, 설치 목적, 보유 도면과 희망 일정을 정리하면 필요한 업무 범위를 상담하기 좋습니다.</p><a class="button btn" href="https://dooja.co.kr/services/solar-installation">태양광 설치·시공 상담 안내 →</a></section><p>제안서에 적힌 모듈 출력과 수량은 <a href="https://starichdog-collab.github.io/solar-guide/solar-capacity-calculator.html">태양광 DC 용량 계산기</a>로 확인할 수 있습니다.</p><aside class="related" aria-label="관련 가이드"><h2>함께 확인할 가이드</h2><ul><li><a href="https://starichdog-collab.github.io/solar-guide/solar-installation-checklist.html">설치 전 체크리스트</a></li><li><a href="https://starichdog-collab.github.io/solar-guide/solar-roof-structure.html">건물주 구조안전 안내</a></li></ul></aside></article>]]></description>
+      <description>&lt;article&gt;&lt;h1&gt;태양광 발전량은 무엇에 따라 달라질까요?&lt;/h1&gt;&lt;p class="byline"&gt;운영: &lt;a href="https://dooja.co.kr/"&gt;두자건설(DOOJA)&lt;/a&gt; · 내용 업데이트: &lt;time datetime="2026-10-22"&gt;2026년 10월 22일&lt;/time&gt;&lt;/p&gt;
+&lt;p&gt;같은 용량의 태양광 설비라도 장소와 배치, 운전 상태에 따라 발전량이 달라집니다. 견적에 적힌 연간 수치만 비교하기 전에 &lt;strong&gt;용량의 단위와 예측에 사용한 조건&lt;/strong&gt;부터 확인해 보세요.&lt;/p&gt;&lt;figure class="solar-figure"&gt;&lt;img style="max-width:100%;height:auto" src="https://starichdog-collab.github.io/assets/images/factory-rooftop-solar-1600.webp" width="1600" height="900" alt="공장 금속 지붕 위에 통로를 두고 배치된 태양광 모듈 전경"&gt;&lt;figcaption&gt;공장 지붕 태양광의 배치와 주변 환경을 설명하기 위한 예시 이미지.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id="units"&gt;kW와 kWh는 어떻게 다른가요?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;kW는 전력 또는 설비 용량&lt;/strong&gt;을, &lt;strong&gt;kWh는 일정 기간 생산하거나 사용한 전기에너지&lt;/strong&gt;를 나타냅니다. 모듈의 표시 용량과 한 달 발전량은 서로 다른 값입니다. 모듈 측 직류 용량과 인버터 측 교류 용량 중 어떤 값을 제시했는지도 함께 확인합니다.&lt;/p&gt;
+&lt;h2 id="factors"&gt;발전량 예측에서 확인할 항목&lt;/h2&gt;
+&lt;div class="table-scroll"&gt;&lt;table&gt;&lt;caption&gt;태양광 발전량 예측 조건을 읽는 방법&lt;/caption&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;항목&lt;/th&gt;&lt;th scope="col"&gt;확인할 질문&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;위치와 기상자료&lt;/th&gt;&lt;td&gt;실제 현장 위치에 해당하는 자료인가요? 사용한 기간과 자료의 출처가 있나요?&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;모듈 방향·경사&lt;/th&gt;&lt;td&gt;예측에 입력한 방향과 각도가 실제 배치도와 일치하나요?&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;음영&lt;/th&gt;&lt;td&gt;주변 건물, 수목, 옥상 설비와 모듈 사이의 그림자를 반영했나요?&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;시스템 손실&lt;/th&gt;&lt;td&gt;인버터, 배선, 오염, 가동 중단 등의 가정을 설명했나요?&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;출력 결과&lt;/th&gt;&lt;td&gt;연간 합계 외에 월별 예상 발전량과 산정 조건을 받을 수 있나요?&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;h2 id="prediction"&gt;예상 발전량은 보장값인가요?&lt;/h2&gt;
+&lt;p&gt;예측 도구는 입력한 현장 정보와 기상자료를 바탕으로 발전량을 계산합니다. 실제 날씨와 운전 조건이 달라질 수 있으므로 결과에는 불확실성이 있습니다. PVWatts도 입력으로 표현하지 않은 현장의 특성을 모두 반영하지는 못한다고 안내합니다.&lt;/p&gt;
+&lt;p&gt;월별 자료를 함께 받아두면 한 해의 합계뿐 아니라 계절에 따른 변화도 비교할 수 있습니다. 이후 운영 자료와 비교할 때에는 설비 용량, 비교 기간, 정지 이력과 기상 조건이 같은지부터 확인합니다.&lt;/p&gt;
+&lt;h2 id="compare"&gt;설치 제안을 비교할 때&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;두 제안의 모듈 용량과 실제 설치 면적이 같은지 확인합니다.&lt;/li&gt;&lt;li&gt;방향·경사와 음영 등 서로 다른 가정이 있는지 적어 봅니다.&lt;/li&gt;&lt;li&gt;총 발전량을 전기요금 절감액이나 판매 수익으로 바꾼 과정은 별도로 설명받습니다.&lt;/li&gt;&lt;li&gt;고정된 수익이나 회수기간만 제시된다면 적용 조건과 근거 자료를 요청합니다.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;발전량을 늘리는 배치를 검토할 때에도 &lt;a href="https://starichdog-collab.github.io/solar-guide/solar-roof-structure.html"&gt;기존 지붕의 구조 조건&lt;/a&gt;과 유지관리 공간을 함께 고려해야 합니다. 준비할 현장 정보는 &lt;a href="https://starichdog-collab.github.io/solar-guide/solar-installation-checklist.html"&gt;설치 체크리스트&lt;/a&gt;에 정리했습니다.&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;용량만 알려주면 정확한 발전량을 알 수 있나요?&lt;/summary&gt;&lt;p&gt;용량만으로 정확한 값을 정할 수 없습니다. 현장 위치와 배치, 음영, 장비와 손실 조건이 있어야 의미 있는 예측 자료를 만들 수 있습니다.&lt;/p&gt;&lt;/details&gt;
+&lt;p class="source"&gt;참고: &lt;a href="https://pvwatts.nlr.gov/index.php" rel="noopener" target="_blank"&gt;PVWatts 발전량 예측 도구와 결과 해석 안내&lt;/a&gt;. 예측 결과는 실제 발전량이나 수익을 보장하지 않습니다.&lt;/p&gt;&lt;p class="source"&gt;이 안내는 일반 정보입니다. 개별 현장의 설계·시공과 구조안전 판단은 현장 자료 및 관련 전문가의 검토를 바탕으로 진행합니다.&lt;/p&gt;&lt;section class="cta"&gt;&lt;h2&gt;두자에 현장 조건을 알려주세요&lt;/h2&gt;&lt;p&gt;현장 주소, 설치 목적, 보유 도면과 희망 일정을 정리하면 필요한 업무 범위를 상담하기 좋습니다.&lt;/p&gt;&lt;a class="button btn" href="https://dooja.co.kr/services/solar-installation"&gt;태양광 설치·시공 상담 안내 →&lt;/a&gt;&lt;/section&gt;&lt;p&gt;제안서에 적힌 모듈 출력과 수량은 &lt;a href="https://starichdog-collab.github.io/solar-guide/solar-capacity-calculator.html"&gt;태양광 DC 용량 계산기&lt;/a&gt;로 확인할 수 있습니다.&lt;/p&gt;&lt;aside class="related" aria-label="관련 가이드"&gt;&lt;h2&gt;함께 확인할 가이드&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://starichdog-collab.github.io/solar-guide/solar-installation-checklist.html"&gt;설치 전 체크리스트&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://starichdog-collab.github.io/solar-guide/solar-roof-structure.html"&gt;건물주 구조안전 안내&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/aside&gt;&lt;/article&gt;</description>
     </item>
     <item>
       <title>태양광 설치 전 체크리스트 | 현장·도면·견적 준비 | 두자건설</title>
       <link>https://starichdog-collab.github.io/solar-guide/solar-installation-checklist.html</link>
       <guid isPermaLink="true">https://starichdog-collab.github.io/solar-guide/solar-installation-checklist.html</guid>
-      <description><![CDATA[<article><h1>태양광 설치 전 체크리스트: 현장·도면·견적 준비</h1><p class="byline">운영: <a href="https://dooja.co.kr/">두자건설(DOOJA)</a> · 내용 업데이트: <time datetime="2026-10-22">2026년 10월 22일</time></p>
-<p>태양광 설치를 검토할 때는 희망 용량부터 정하기보다 <strong>설치 목적, 현장 조건, 건물 상태</strong>를 먼저 정리하면 상담이 수월합니다. 아래 표는 설치 가능 여부를 확정하는 기준이 아니라, 견적과 설계를 준비할 때 함께 확인할 질문입니다.</p><figure class="solar-figure"><img style="max-width:100%;height:auto" src="https://starichdog-collab.github.io/assets/images/solar-structural-planning-1600.webp" width="1600" height="900" alt="태양광 지붕을 바라보는 창가 책상에 놓인 건축 도면과 안전모, 측정 도구"><figcaption>태양광 설치·구조검토 준비자료를 설명하기 위한 예시 이미지.</figcaption></figure>
-<h2 id="site">1. 설치 장소와 사용 목적 확인하기</h2>
-<div class="table-scroll"><table><caption>상담 전에 정리할 현장 정보</caption><thead><tr><th scope="col">항목</th><th scope="col">확인할 내용</th><th scope="col">준비할 자료</th></tr></thead><tbody>
-<tr><th scope="row">설치 목적</th><td>현장 전력 사용인지, 전력 판매를 검토하는지</td><td>건물 용도와 전기 사용 현황</td></tr>
-<tr><th scope="row">위치·음영</th><td>주변 건물·나무·옥상 설비의 그림자</td><td>현장 주소와 주변 사진</td></tr>
-<tr><th scope="row">지붕 상태</th><td>누수, 부식, 변형, 지붕 교체 계획</td><td>기존 도면과 보수 이력</td></tr>
-<tr><th scope="row">설치 공간</th><td>모듈 배치와 점검·배수 공간</td><td>지붕 평면도 또는 배치 초안</td></tr>
-<tr><th scope="row">전기 연결</th><td>분전반 위치, 배선 경로, 계통 연계 협의</td><td>보유 전기 도면과 현재 계약 정보</td></tr>
-</tbody></table></div>
-<p>지붕은 면적뿐 아니라 방향, 경사, 주변 음영과 노후 상태를 함께 살펴야 합니다. 사진 한 장으로 계절별 그림자나 지붕의 지지 능력을 모두 알 수는 없습니다.</p>
-<h2 id="process">2. 상담에서 설치까지 확인할 순서</h2>
-<ol><li><strong>현장 정보 정리:</strong> 주소, 설치 목적, 희망 일정과 보유 자료를 공유합니다.</li><li><strong>설치 계획 검토:</strong> 사용 가능한 공간, 배치, 전기 연결과 관리 동선을 확인합니다.</li><li><strong>구조·행정 조건 확인:</strong> 기존 건물과 설비 조건을 검토하고, 해당 현장에 필요한 인허가·계통 연계 절차를 담당 기관에 확인합니다.</li><li><strong>견적 범위 비교:</strong> 설계, 구조검토, 장비, 설치, 보강·방수, 전기 공사 중 포함·별도 항목을 구분합니다.</li><li><strong>운영 준비:</strong> 설치 후 받을 도면, 장비 자료, 점검 방법과 유지관리 연락 창구를 정리합니다.</li></ol>
-<h2 id="questions">3. 견적서에서 물어볼 질문</h2>
-<ul><li>제시한 용량과 모듈 배치는 어떤 현장 자료를 바탕으로 정했나요?</li><li>발전량 예측에 사용한 기상자료와 손실 조건을 볼 수 있나요?</li><li>기존 지붕 보강이나 방수 보수는 견적에 포함되어 있나요?</li><li>현장 확인 후 비용이나 일정이 달라질 수 있는 조건은 무엇인가요?</li></ul>
-<p>두자의 업무 범위와 문의 방법은 <a href="https://dooja.co.kr/services/solar-installation">태양광 설치·시공 안내</a>에서 확인할 수 있습니다. 예상 출력 자료는 <a href="https://starichdog-collab.github.io/solar-guide/solar-generation-factors.html">발전량 가이드</a>, 건물 자료는 <a href="https://starichdog-collab.github.io/solar-guide/solar-roof-structure.html">지붕 구조안전 안내</a>와 함께 살펴보세요.</p>
-<h2>자주 묻는 질문</h2><details><summary>도면이나 설치 용량이 아직 없어도 상담할 수 있나요?</summary><p>현장 주소, 설치 장소 사진, 목적과 현재 보유한 자료를 먼저 정리하세요. 두자 공식 안내에서도 용량과 도면이 미정인 단계의 상담을 안내합니다. 추가 자료와 조사 범위는 현장에 따라 협의합니다.</p></details>
-<details><summary>지붕이 넓으면 원하는 용량을 모두 설치할 수 있나요?</summary><p>면적만으로 확정할 수 없습니다. 음영, 배치 여유, 점검 통로, 전기 연결과 구조 조건을 함께 확인해야 합니다.</p></details>
-<p class="source">참고: <a href="https://www.energy.gov/cmei/systems/homeowners-guide-solar" rel="noopener" target="_blank">미국 에너지부의 지붕·음영 기초 안내</a>. 국내 현장에 적용할 절차와 기준은 별도로 확인합니다.</p><p class="source">이 안내는 일반 정보입니다. 개별 현장의 설계·시공과 구조안전 판단은 현장 자료 및 관련 전문가의 검토를 바탕으로 진행합니다.</p><section class="cta"><h2>두자에 현장 조건을 알려주세요</h2><p>현장 주소, 설치 목적, 보유 도면과 희망 일정을 정리하면 필요한 업무 범위를 상담하기 좋습니다.</p><a class="button btn" href="https://dooja.co.kr/services/solar-installation">태양광 설치·시공 상담 안내 →</a></section><p><a href="https://starichdog-collab.github.io/solar-guide/solar-installation-cost.html">태양광 설치 비용·견적 항목을 비교하는 방법 →</a></p><p><a href="https://starichdog-collab.github.io/solar-guide/solar-construction-handover.html">태양광공사 후 받을 자료·인수인계 목록 →</a></p><aside class="related" aria-label="관련 가이드"><h2>함께 확인할 가이드</h2><ul><li><a href="https://starichdog-collab.github.io/solar-guide/solar-generation-factors.html">발전량과 효율</a></li><li><a href="https://starichdog-collab.github.io/solar-guide/solar-roof-structure.html">건물주 구조안전 안내</a></li></ul></aside></article>]]></description>
+      <description>&lt;article&gt;&lt;h1&gt;태양광 설치 전 체크리스트: 현장·도면·견적 준비&lt;/h1&gt;&lt;p class="byline"&gt;운영: &lt;a href="https://dooja.co.kr/"&gt;두자건설(DOOJA)&lt;/a&gt; · 내용 업데이트: &lt;time datetime="2026-10-22"&gt;2026년 10월 22일&lt;/time&gt;&lt;/p&gt;
+&lt;p&gt;태양광 설치를 검토할 때는 희망 용량부터 정하기보다 &lt;strong&gt;설치 목적, 현장 조건, 건물 상태&lt;/strong&gt;를 먼저 정리하면 상담이 수월합니다. 아래 표는 설치 가능 여부를 확정하는 기준이 아니라, 견적과 설계를 준비할 때 함께 확인할 질문입니다.&lt;/p&gt;&lt;figure class="solar-figure"&gt;&lt;img style="max-width:100%;height:auto" src="https://starichdog-collab.github.io/assets/images/solar-structural-planning-1600.webp" width="1600" height="900" alt="태양광 지붕을 바라보는 창가 책상에 놓인 건축 도면과 안전모, 측정 도구"&gt;&lt;figcaption&gt;태양광 설치·구조검토 준비자료를 설명하기 위한 예시 이미지.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id="site"&gt;1. 설치 장소와 사용 목적 확인하기&lt;/h2&gt;
+&lt;div class="table-scroll"&gt;&lt;table&gt;&lt;caption&gt;상담 전에 정리할 현장 정보&lt;/caption&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;항목&lt;/th&gt;&lt;th scope="col"&gt;확인할 내용&lt;/th&gt;&lt;th scope="col"&gt;준비할 자료&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;설치 목적&lt;/th&gt;&lt;td&gt;현장 전력 사용인지, 전력 판매를 검토하는지&lt;/td&gt;&lt;td&gt;건물 용도와 전기 사용 현황&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;위치·음영&lt;/th&gt;&lt;td&gt;주변 건물·나무·옥상 설비의 그림자&lt;/td&gt;&lt;td&gt;현장 주소와 주변 사진&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;지붕 상태&lt;/th&gt;&lt;td&gt;누수, 부식, 변형, 지붕 교체 계획&lt;/td&gt;&lt;td&gt;기존 도면과 보수 이력&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;설치 공간&lt;/th&gt;&lt;td&gt;모듈 배치와 점검·배수 공간&lt;/td&gt;&lt;td&gt;지붕 평면도 또는 배치 초안&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;전기 연결&lt;/th&gt;&lt;td&gt;분전반 위치, 배선 경로, 계통 연계 협의&lt;/td&gt;&lt;td&gt;보유 전기 도면과 현재 계약 정보&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;지붕은 면적뿐 아니라 방향, 경사, 주변 음영과 노후 상태를 함께 살펴야 합니다. 사진 한 장으로 계절별 그림자나 지붕의 지지 능력을 모두 알 수는 없습니다.&lt;/p&gt;
+&lt;h2 id="process"&gt;2. 상담에서 설치까지 확인할 순서&lt;/h2&gt;
+&lt;ol&gt;&lt;li&gt;&lt;strong&gt;현장 정보 정리:&lt;/strong&gt; 주소, 설치 목적, 희망 일정과 보유 자료를 공유합니다.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;설치 계획 검토:&lt;/strong&gt; 사용 가능한 공간, 배치, 전기 연결과 관리 동선을 확인합니다.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;구조·행정 조건 확인:&lt;/strong&gt; 기존 건물과 설비 조건을 검토하고, 해당 현장에 필요한 인허가·계통 연계 절차를 담당 기관에 확인합니다.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;견적 범위 비교:&lt;/strong&gt; 설계, 구조검토, 장비, 설치, 보강·방수, 전기 공사 중 포함·별도 항목을 구분합니다.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;운영 준비:&lt;/strong&gt; 설치 후 받을 도면, 장비 자료, 점검 방법과 유지관리 연락 창구를 정리합니다.&lt;/li&gt;&lt;/ol&gt;
+&lt;h2 id="questions"&gt;3. 견적서에서 물어볼 질문&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;제시한 용량과 모듈 배치는 어떤 현장 자료를 바탕으로 정했나요?&lt;/li&gt;&lt;li&gt;발전량 예측에 사용한 기상자료와 손실 조건을 볼 수 있나요?&lt;/li&gt;&lt;li&gt;기존 지붕 보강이나 방수 보수는 견적에 포함되어 있나요?&lt;/li&gt;&lt;li&gt;현장 확인 후 비용이나 일정이 달라질 수 있는 조건은 무엇인가요?&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;두자의 업무 범위와 문의 방법은 &lt;a href="https://dooja.co.kr/services/solar-installation"&gt;태양광 설치·시공 안내&lt;/a&gt;에서 확인할 수 있습니다. 예상 출력 자료는 &lt;a href="https://starichdog-collab.github.io/solar-guide/solar-generation-factors.html"&gt;발전량 가이드&lt;/a&gt;, 건물 자료는 &lt;a href="https://starichdog-collab.github.io/solar-guide/solar-roof-structure.html"&gt;지붕 구조안전 안내&lt;/a&gt;와 함께 살펴보세요.&lt;/p&gt;
+&lt;h2&gt;자주 묻는 질문&lt;/h2&gt;&lt;details&gt;&lt;summary&gt;도면이나 설치 용량이 아직 없어도 상담할 수 있나요?&lt;/summary&gt;&lt;p&gt;현장 주소, 설치 장소 사진, 목적과 현재 보유한 자료를 먼저 정리하세요. 두자 공식 안내에서도 용량과 도면이 미정인 단계의 상담을 안내합니다. 추가 자료와 조사 범위는 현장에 따라 협의합니다.&lt;/p&gt;&lt;/details&gt;
+&lt;details&gt;&lt;summary&gt;지붕이 넓으면 원하는 용량을 모두 설치할 수 있나요?&lt;/summary&gt;&lt;p&gt;면적만으로 확정할 수 없습니다. 음영, 배치 여유, 점검 통로, 전기 연결과 구조 조건을 함께 확인해야 합니다.&lt;/p&gt;&lt;/details&gt;
+&lt;p class="source"&gt;참고: &lt;a href="https://www.energy.gov/cmei/systems/homeowners-guide-solar" rel="noopener" target="_blank"&gt;미국 에너지부의 지붕·음영 기초 안내&lt;/a&gt;. 국내 현장에 적용할 절차와 기준은 별도로 확인합니다.&lt;/p&gt;&lt;p class="source"&gt;이 안내는 일반 정보입니다. 개별 현장의 설계·시공과 구조안전 판단은 현장 자료 및 관련 전문가의 검토를 바탕으로 진행합니다.&lt;/p&gt;&lt;section class="cta"&gt;&lt;h2&gt;두자에 현장 조건을 알려주세요&lt;/h2&gt;&lt;p&gt;현장 주소, 설치 목적, 보유 도면과 희망 일정을 정리하면 필요한 업무 범위를 상담하기 좋습니다.&lt;/p&gt;&lt;a class="button btn" href="https://dooja.co.kr/services/solar-installation"&gt;태양광 설치·시공 상담 안내 →&lt;/a&gt;&lt;/section&gt;&lt;p&gt;&lt;a href="https://starichdog-collab.github.io/solar-guide/solar-installation-cost.html"&gt;태양광 설치 비용·견적 항목을 비교하는 방법 →&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://starichdog-collab.github.io/solar-guide/solar-construction-handover.html"&gt;태양광공사 후 받을 자료·인수인계 목록 →&lt;/a&gt;&lt;/p&gt;&lt;aside class="related" aria-label="관련 가이드"&gt;&lt;h2&gt;함께 확인할 가이드&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://starichdog-collab.github.io/solar-guide/solar-generation-factors.html"&gt;발전량과 효율&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://starichdog-collab.github.io/solar-guide/solar-roof-structure.html"&gt;건물주 구조안전 안내&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/aside&gt;&lt;/article&gt;</description>
     </item>
     <item>
       <title>지붕 태양광 설치 가능할까? | 건물주 구조안전 안내 | 두자건설</title>
       <link>https://starichdog-collab.github.io/solar-guide/solar-roof-structure.html</link>
       <guid isPermaLink="true">https://starichdog-collab.github.io/solar-guide/solar-roof-structure.html</guid>
-      <description><![CDATA[<article><h1>지붕 태양광 설치 전, 건물주가 확인할 구조안전</h1><p class="byline">운영: <a href="https://dooja.co.kr/">두자건설(DOOJA)</a> · 내용 업데이트: <time datetime="2026-10-22">2026년 10월 22일</time></p>
-<p>공장·창고·옥상에 태양광을 설치하려면 지붕의 빈 공간뿐 아니라 <strong>설비를 지지할 구조와 건물의 현재 상태</strong>를 확인해야 합니다. 이 글은 건물주가 첫 상담을 준비할 때 살펴볼 사항을 정리한 안내입니다.</p><figure class="solar-figure"><img style="max-width:100%;height:auto" src="https://starichdog-collab.github.io/assets/images/solar-module-mounting-1600.webp" width="1600" height="900" alt="금속 지붕 위 태양광 모듈의 유리 표면과 알루미늄 테두리, 지지부"><figcaption>태양광 모듈과 지지 구조의 구성 예시. 실제 상세는 현장별 설계에 따릅니다.</figcaption></figure>
-<h2 id="condition">지붕의 상태와 구조는 함께 확인합니다</h2>
-<p>누수나 지붕재의 손상은 눈에 보일 수 있지만, 사진만으로 하부 구조의 내력까지 판단하기는 어렵습니다. 기존 도면, 현장 상태, 추가 설비의 무게와 지지 위치를 함께 검토해야 합니다. 지붕 교체나 보수를 계획 중이라면 태양광 설치 일정과 같이 공유하세요.</p>
-<h2 id="loads">추가로 확인하는 세 가지</h2>
-<ul><li><strong>설비의 무게:</strong> 모듈뿐 아니라 지지대와 고정 방식에 따른 하중을 확인합니다.</li><li><strong>자연 조건:</strong> 바람과 눈 등 현장에 적용되는 하중을 함께 검토합니다.</li><li><strong>연결되는 구조:</strong> 설비의 힘이 고정부와 기존 건물에 어떻게 전달되는지 확인합니다.</li></ul>
-<p>모듈 제품의 성능 자료와 건물 전체의 구조검토는 확인 대상이 다릅니다. 제품 사양서를 확보하되, 그 자료만으로 기존 지붕의 설치 가능 여부를 확정하지 않습니다.</p>
-<h2 id="prepare">건물주가 먼저 준비할 자료</h2>
-<div class="table-scroll"><table><caption>처음 상담할 때 도움이 되는 자료</caption><thead><tr><th scope="col">자료</th><th scope="col">정리할 내용</th></tr></thead><tbody>
-<tr><th scope="row">건물 정보</th><td>주소, 용도, 준공 시기와 보유한 건축물 자료</td></tr>
-<tr><th scope="row">도면과 이력</th><td>구조도면, 구조계산서, 증축·보강·지붕 교체 기록</td></tr>
-<tr><th scope="row">현장 상태</th><td>지붕 전경, 보유한 하부 구조 사진, 누수·부식·변형 이력</td></tr>
-<tr><th scope="row">설치 희망</th><td>설치 구역, 희망 일정, 모듈 배치나 용량의 확정 여부</td></tr>
-</tbody></table></div>
-<h2 id="waterproof">방수·배수와 점검 공간도 이야기하세요</h2>
-<p>지붕을 관통하는 고정부가 있는지, 배수구와 점검 동선을 어떻게 유지할지 상담 때 확인합니다. 구조검토와 방수·전기 공사의 담당 범위를 구분해 두면 이후 협의할 사항을 놓치지 않는 데 도움이 됩니다.</p>
-<details><summary>기존 구조도면이 없으면 바로 설치가 불가능한가요?</summary><p>도면이 없다는 사실만으로 가능·불가능을 단정하지 않습니다. 보유 자료를 먼저 공유하고, 기존 구조를 확인하기 위한 자료와 조사 범위를 상담합니다.</p></details>
-<details><summary>지붕에 문제가 없어 보이면 구조검토를 생략해도 되나요?</summary><p>외관은 구조 성능을 판단하는 자료 중 일부입니다. 설치 계획과 기존 구조의 조건을 바탕으로 필요한 검토 범위를 확인하세요.</p></details>
-<p>시공사와 함께 제출할 상세 자료는 <a href="https://starichdog-collab.github.io/solar-structural-review/roof-solar-review.html">공장 지붕 태양광 구조검토 준비자료</a>에서 확인할 수 있습니다.</p>
-<p class="source">참고: <a href="https://www.energy.gov/sites/prod/files/2013/11/f5/rerh_solar_electric_guide.pdf" rel="noopener" target="_blank">미국 에너지부 태양광 준비 건축물 안내(PDF)</a>의 기존 지붕·설비 하중 검토 원칙. 국내 적용 기준과 개별 건물의 안전성은 별도 검토 대상입니다.</p><p class="source">이 안내는 일반 정보입니다. 개별 현장의 설계·시공과 구조안전 판단은 현장 자료 및 관련 전문가의 검토를 바탕으로 진행합니다.</p><section class="cta"><h2>두자에 현장 조건을 알려주세요</h2><p>현장 주소, 설치 목적, 보유 도면과 희망 일정을 정리하면 필요한 업무 범위를 상담하기 좋습니다.</p><a class="button btn" href="https://dooja.co.kr/services/solar-installation">태양광 설치·시공 상담 안내 →</a></section><aside class="related" aria-label="관련 가이드"><h2>함께 확인할 가이드</h2><ul><li><a href="https://starichdog-collab.github.io/solar-guide/solar-installation-checklist.html">설치 전 체크리스트</a></li><li><a href="https://starichdog-collab.github.io/solar-guide/solar-generation-factors.html">발전량과 효율</a></li></ul></aside></article>]]></description>
+      <description>&lt;article&gt;&lt;h1&gt;지붕 태양광 설치 전, 건물주가 확인할 구조안전&lt;/h1&gt;&lt;p class="byline"&gt;운영: &lt;a href="https://dooja.co.kr/"&gt;두자건설(DOOJA)&lt;/a&gt; · 내용 업데이트: &lt;time datetime="2026-10-22"&gt;2026년 10월 22일&lt;/time&gt;&lt;/p&gt;
+&lt;p&gt;공장·창고·옥상에 태양광을 설치하려면 지붕의 빈 공간뿐 아니라 &lt;strong&gt;설비를 지지할 구조와 건물의 현재 상태&lt;/strong&gt;를 확인해야 합니다. 이 글은 건물주가 첫 상담을 준비할 때 살펴볼 사항을 정리한 안내입니다.&lt;/p&gt;&lt;figure class="solar-figure"&gt;&lt;img style="max-width:100%;height:auto" src="https://starichdog-collab.github.io/assets/images/solar-module-mounting-1600.webp" width="1600" height="900" alt="금속 지붕 위 태양광 모듈의 유리 표면과 알루미늄 테두리, 지지부"&gt;&lt;figcaption&gt;태양광 모듈과 지지 구조의 구성 예시. 실제 상세는 현장별 설계에 따릅니다.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id="condition"&gt;지붕의 상태와 구조는 함께 확인합니다&lt;/h2&gt;
+&lt;p&gt;누수나 지붕재의 손상은 눈에 보일 수 있지만, 사진만으로 하부 구조의 내력까지 판단하기는 어렵습니다. 기존 도면, 현장 상태, 추가 설비의 무게와 지지 위치를 함께 검토해야 합니다. 지붕 교체나 보수를 계획 중이라면 태양광 설치 일정과 같이 공유하세요.&lt;/p&gt;
+&lt;h2 id="loads"&gt;추가로 확인하는 세 가지&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;설비의 무게:&lt;/strong&gt; 모듈뿐 아니라 지지대와 고정 방식에 따른 하중을 확인합니다.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;자연 조건:&lt;/strong&gt; 바람과 눈 등 현장에 적용되는 하중을 함께 검토합니다.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;연결되는 구조:&lt;/strong&gt; 설비의 힘이 고정부와 기존 건물에 어떻게 전달되는지 확인합니다.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;모듈 제품의 성능 자료와 건물 전체의 구조검토는 확인 대상이 다릅니다. 제품 사양서를 확보하되, 그 자료만으로 기존 지붕의 설치 가능 여부를 확정하지 않습니다.&lt;/p&gt;
+&lt;h2 id="prepare"&gt;건물주가 먼저 준비할 자료&lt;/h2&gt;
+&lt;div class="table-scroll"&gt;&lt;table&gt;&lt;caption&gt;처음 상담할 때 도움이 되는 자료&lt;/caption&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;자료&lt;/th&gt;&lt;th scope="col"&gt;정리할 내용&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;건물 정보&lt;/th&gt;&lt;td&gt;주소, 용도, 준공 시기와 보유한 건축물 자료&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;도면과 이력&lt;/th&gt;&lt;td&gt;구조도면, 구조계산서, 증축·보강·지붕 교체 기록&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;현장 상태&lt;/th&gt;&lt;td&gt;지붕 전경, 보유한 하부 구조 사진, 누수·부식·변형 이력&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;설치 희망&lt;/th&gt;&lt;td&gt;설치 구역, 희망 일정, 모듈 배치나 용량의 확정 여부&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;h2 id="waterproof"&gt;방수·배수와 점검 공간도 이야기하세요&lt;/h2&gt;
+&lt;p&gt;지붕을 관통하는 고정부가 있는지, 배수구와 점검 동선을 어떻게 유지할지 상담 때 확인합니다. 구조검토와 방수·전기 공사의 담당 범위를 구분해 두면 이후 협의할 사항을 놓치지 않는 데 도움이 됩니다.&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;기존 구조도면이 없으면 바로 설치가 불가능한가요?&lt;/summary&gt;&lt;p&gt;도면이 없다는 사실만으로 가능·불가능을 단정하지 않습니다. 보유 자료를 먼저 공유하고, 기존 구조를 확인하기 위한 자료와 조사 범위를 상담합니다.&lt;/p&gt;&lt;/details&gt;
+&lt;details&gt;&lt;summary&gt;지붕에 문제가 없어 보이면 구조검토를 생략해도 되나요?&lt;/summary&gt;&lt;p&gt;외관은 구조 성능을 판단하는 자료 중 일부입니다. 설치 계획과 기존 구조의 조건을 바탕으로 필요한 검토 범위를 확인하세요.&lt;/p&gt;&lt;/details&gt;
+&lt;p&gt;시공사와 함께 제출할 상세 자료는 &lt;a href="https://starichdog-collab.github.io/solar-structural-review/roof-solar-review.html"&gt;공장 지붕 태양광 구조검토 준비자료&lt;/a&gt;에서 확인할 수 있습니다.&lt;/p&gt;
+&lt;p class="source"&gt;참고: &lt;a href="https://www.energy.gov/sites/prod/files/2013/11/f5/rerh_solar_electric_guide.pdf" rel="noopener" target="_blank"&gt;미국 에너지부 태양광 준비 건축물 안내(PDF)&lt;/a&gt;의 기존 지붕·설비 하중 검토 원칙. 국내 적용 기준과 개별 건물의 안전성은 별도 검토 대상입니다.&lt;/p&gt;&lt;p class="source"&gt;이 안내는 일반 정보입니다. 개별 현장의 설계·시공과 구조안전 판단은 현장 자료 및 관련 전문가의 검토를 바탕으로 진행합니다.&lt;/p&gt;&lt;section class="cta"&gt;&lt;h2&gt;두자에 현장 조건을 알려주세요&lt;/h2&gt;&lt;p&gt;현장 주소, 설치 목적, 보유 도면과 희망 일정을 정리하면 필요한 업무 범위를 상담하기 좋습니다.&lt;/p&gt;&lt;a class="button btn" href="https://dooja.co.kr/services/solar-installation"&gt;태양광 설치·시공 상담 안내 →&lt;/a&gt;&lt;/section&gt;&lt;aside class="related" aria-label="관련 가이드"&gt;&lt;h2&gt;함께 확인할 가이드&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://starichdog-collab.github.io/solar-guide/solar-installation-checklist.html"&gt;설치 전 체크리스트&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://starichdog-collab.github.io/solar-guide/solar-generation-factors.html"&gt;발전량과 효율&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/aside&gt;&lt;/article&gt;</description>
     </item>
     <item>
       <title>태양광 설치 비용 | 견적 비교 항목과 상담 준비 | 두자건설</title>
       <link>https://starichdog-collab.github.io/solar-guide/solar-installation-cost.html</link>
       <guid isPermaLink="true">https://starichdog-collab.github.io/solar-guide/solar-installation-cost.html</guid>
-      <description><![CDATA[<article><h1>태양광 설치 비용, 견적서에서 무엇을 비교할까요?</h1><p class="byline">운영: <a href="https://dooja.co.kr/">두자건설(DOOJA)</a> · 게시: <time datetime="2026-10-22">2026년 10월 22일</time></p><p>태양광 설치비를 비교하려면 <strong>같은 설비 용량과 같은 공사 범위</strong>를 기준으로 견적서를 나란히 살펴보는 것이 좋습니다. 총액만으로 비교하면 구조검토, 지붕 보수, 전기 공사처럼 별도로 청구되는 항목을 놓칠 수 있습니다.</p><figure class="solar-figure"><img style="max-width:100%;height:auto" src="https://starichdog-collab.github.io/assets/images/solar-structural-planning-1600.webp" width="1600" height="900" alt="태양광 지붕을 바라보는 창가 책상에 놓인 건축 도면과 안전모, 측정 도구"><figcaption>태양광 설치·구조검토 준비자료를 설명하기 위한 예시 이미지.</figcaption></figure>
-<p>아래 내용은 실제 견적서를 읽기 위한 확인표입니다. 특정 현장의 시세나 두자의 확정 견적을 제시하는 자료는 아닙니다.</p>
-<nav class="page-toc" aria-label="이 글의 목차"><a href="#cost-items">견적 항목</a><a href="#comparison">비교 순서</a><a href="#questions">문의할 질문</a><a href="#request">상담 준비</a></nav>
-<h2 id="cost-items">태양광 설치비에 포함되는 항목</h2>
-<div class="table-scroll"><table><caption>견적서마다 포함·별도·미정 여부를 표시해 보세요</caption><thead><tr><th scope="col">항목</th><th scope="col">확인할 내용</th><th scope="col">빠뜨리기 쉬운 질문</th></tr></thead><tbody>
-<tr><th scope="row">모듈·인버터</th><td>모델명, 정격출력, 수량과 보증 조건</td><td>모듈 측 DC 용량과 인버터 측 AC 용량을 구분했나요?</td></tr>
-<tr><th scope="row">구조물·고정부</th><td>지지대, 레일, 브래킷과 고정 방식</td><td>최종 배치·구조검토 결과에 따른 변경 비용은 어떻게 정하나요?</td></tr>
-<tr><th scope="row">설계·구조검토</th><td>도면 작성, 기존 건물 검토와 제출 성과품</td><td>자료가 없을 때 추가 조사와 보강 검토도 포함되나요?</td></tr>
-<tr><th scope="row">지붕 보수·보강</th><td>방수, 손상 보수와 필요한 구조 보강</td><td>현재 견적에 포함된 부분과 현장 확인 후 정할 부분은 무엇인가요?</td></tr>
-<tr><th scope="row">전기·연계 공사</th><td>배선, 전기설비와 계통 연계 관련 범위</td><td>기존 전기설비 보완이나 추가 공사비가 별도인가요?</td></tr>
-<tr><th scope="row">현장 작업</th><td>자재 운반, 장비, 작업 공간과 공장 운영 일정</td><td>반입 조건이나 작업 시간 제한에 따른 추가 비용이 있나요?</td></tr>
-<tr><th scope="row">인도·관리</th><td>준공 자료, 점검 안내와 사후관리 범위</td><td>고장 대응 연락처와 유상·무상 범위가 명확한가요?</td></tr>
-</tbody></table></div>
-<p>미국 에너지부도 태양광 설비 비용을 장비 비용과 설계·설치·연계 등 비장비 비용으로 나누어 설명합니다. 해외 비용 비율이나 가격을 국내 현장의 견적에 그대로 적용하기보다, 실제 제안서의 항목과 조건을 확인하세요.</p>
-<h2 id="comparison">견적 두 개를 비교하는 순서</h2>
-<ol><li><strong>용량과 배치를 맞춥니다.</strong> 모듈 사양과 수량이 다르면 총액만 비교하기 어렵습니다. <a href="https://starichdog-collab.github.io/solar-guide/solar-capacity-calculator.html">태양광 용량 계산기</a>에서 모듈 측 용량을 확인할 수 있습니다.</li><li><strong>금액의 기준을 맞춥니다.</strong> 부가세 포함 여부, 제시 금액의 유효기간, 포함·별도 공사를 동일한 기준으로 정리합니다.</li><li><strong>미정 비용을 따로 적습니다.</strong> 보강, 방수 보수, 현장 조사, 연계 공사 등 추후 협의할 항목을 빈칸으로 남기지 말고 ‘미정’으로 표시합니다.</li><li><strong>장비와 관리 조건을 읽습니다.</strong> 교체 가능한 제품의 범위, 보증 대상, 대응 방법과 필요한 제출 자료를 확인합니다.</li><li><strong>일정과 변경 조건을 확인합니다.</strong> 현장 조건이나 설치 계획이 달라질 때 비용·일정을 어떤 방식으로 다시 협의하는지 물어봅니다.</li></ol>
-<h2>총액이 낮은 견적이 항상 유리한가요?</h2>
-<p>비교하는 공사 범위가 같아야 판단할 수 있습니다. 예를 들어 한 제안에 지붕 보수가 포함되고 다른 제안에는 별도라고 적혀 있다면, 두 총액은 같은 작업을 의미하지 않습니다. 먼저 빠진 작업과 추가 비용의 산정 조건을 확인해야 합니다.</p>
-<p>연간 발전량이나 전기요금 절감액도 설치비와 구분해서 읽으세요. 예측의 근거는 <a href="https://starichdog-collab.github.io/solar-guide/solar-generation-factors.html">태양광 발전량과 효율 안내</a>에 정리했습니다.</p>
-<h2 id="questions">업체에 그대로 물어볼 질문</h2>
-<ul><li>이 견적의 모듈 모델, 수량과 총 DC 용량을 알려주세요.</li><li>구조검토, 지붕 보강과 방수 공사의 포함·별도 범위를 알려주세요.</li><li>현재 자료로 확정할 수 없는 비용과 필요한 추가 확인 사항은 무엇인가요?</li><li>공장 가동 중 시공할 경우 협의할 작업 시간과 동선은 무엇인가요?</li><li>설치 후 받을 도면, 장비 자료와 관리 안내 목록을 알려주세요.</li></ul>
-<h2 id="request">두자에 설치 견적을 문의할 때</h2>
-<p><strong>현장 주소, 설치 목적, 지붕·부지 사진, 보유 도면과 희망 일정</strong>을 준비하면 업무 범위를 상담하기 좋습니다. 설치 용량이 아직 정해지지 않았다면 미정이라고 알려주세요. 기존 건축물 자료가 필요한 경우에는 <a href="https://starichdog-collab.github.io/solar-structural-review/roof-solar-review.html">공장 지붕 구조검토 준비자료</a>도 확인할 수 있습니다.</p>
-<p>두자는 공식 홈페이지에서 현장 조건에 맞춘 태양광 구조검토·설계와 설치·시공 상담을 안내합니다. 실제 범위와 금액은 <a href="https://dooja.co.kr/services/solar-installation">두자 태양광 설치·시공 안내</a>를 통해 문의하세요.</p>
-<details><summary>설치비를 kW당 금액으로만 비교해도 되나요?</summary><p>용량당 금액은 참고가 될 수 있지만, 같은 장비 사양과 공사 범위인지 먼저 확인해야 합니다. 기존 건물 상태와 보강·방수·전기 공사 조건에 따라 총비용이 달라질 수 있습니다.</p></details>
-<p class="source">참고: <a href="https://www.energy.gov/cmei/systems/solar-soft-costs-basics" target="_blank" rel="noopener">미국 에너지부 Solar Soft Costs Basics</a>, <a href="https://dooja.co.kr/services/solar-installation">두자 공식 설치·시공 안내</a>.</p>
-<section class="cta"><h2>태양광 설치 계획을 두자와 상의하세요</h2><p>현장 주소, 보유 도면과 희망 일정을 정리해 주세요. 두자건설 공식 홈페이지에서 설치·시공과 구조검토 업무 범위를 확인할 수 있습니다.</p><a class="button" href="https://dooja.co.kr/services/solar-installation">태양광 설치·시공 상담 안내 →</a></section><aside class="related" aria-label="관련 가이드"><h2>함께 확인할 가이드</h2><ul><li><a href="https://starichdog-collab.github.io/solar-guide/solar-installation-checklist.html">태양광 설치 전 체크리스트</a></li><li><a href="https://starichdog-collab.github.io/solar-guide/solar-generation-factors.html">발전량 예측 조건 확인</a></li><li><a href="https://starichdog-collab.github.io/solar-guide/solar-capacity-calculator.html">태양광 용량 계산기</a></li></ul></aside></article>]]></description>
+      <description>&lt;article&gt;&lt;h1&gt;태양광 설치 비용, 견적서에서 무엇을 비교할까요?&lt;/h1&gt;&lt;p class="byline"&gt;운영: &lt;a href="https://dooja.co.kr/"&gt;두자건설(DOOJA)&lt;/a&gt; · 게시: &lt;time datetime="2026-10-22"&gt;2026년 10월 22일&lt;/time&gt;&lt;/p&gt;&lt;p&gt;태양광 설치비를 비교하려면 &lt;strong&gt;같은 설비 용량과 같은 공사 범위&lt;/strong&gt;를 기준으로 견적서를 나란히 살펴보는 것이 좋습니다. 총액만으로 비교하면 구조검토, 지붕 보수, 전기 공사처럼 별도로 청구되는 항목을 놓칠 수 있습니다.&lt;/p&gt;&lt;figure class="solar-figure"&gt;&lt;img style="max-width:100%;height:auto" src="https://starichdog-collab.github.io/assets/images/solar-structural-planning-1600.webp" width="1600" height="900" alt="태양광 지붕을 바라보는 창가 책상에 놓인 건축 도면과 안전모, 측정 도구"&gt;&lt;figcaption&gt;태양광 설치·구조검토 준비자료를 설명하기 위한 예시 이미지.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;아래 내용은 실제 견적서를 읽기 위한 확인표입니다. 특정 현장의 시세나 두자의 확정 견적을 제시하는 자료는 아닙니다.&lt;/p&gt;
+&lt;nav class="page-toc" aria-label="이 글의 목차"&gt;&lt;a href="#cost-items"&gt;견적 항목&lt;/a&gt;&lt;a href="#comparison"&gt;비교 순서&lt;/a&gt;&lt;a href="#questions"&gt;문의할 질문&lt;/a&gt;&lt;a href="#request"&gt;상담 준비&lt;/a&gt;&lt;/nav&gt;
+&lt;h2 id="cost-items"&gt;태양광 설치비에 포함되는 항목&lt;/h2&gt;
+&lt;div class="table-scroll"&gt;&lt;table&gt;&lt;caption&gt;견적서마다 포함·별도·미정 여부를 표시해 보세요&lt;/caption&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;항목&lt;/th&gt;&lt;th scope="col"&gt;확인할 내용&lt;/th&gt;&lt;th scope="col"&gt;빠뜨리기 쉬운 질문&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;모듈·인버터&lt;/th&gt;&lt;td&gt;모델명, 정격출력, 수량과 보증 조건&lt;/td&gt;&lt;td&gt;모듈 측 DC 용량과 인버터 측 AC 용량을 구분했나요?&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;구조물·고정부&lt;/th&gt;&lt;td&gt;지지대, 레일, 브래킷과 고정 방식&lt;/td&gt;&lt;td&gt;최종 배치·구조검토 결과에 따른 변경 비용은 어떻게 정하나요?&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;설계·구조검토&lt;/th&gt;&lt;td&gt;도면 작성, 기존 건물 검토와 제출 성과품&lt;/td&gt;&lt;td&gt;자료가 없을 때 추가 조사와 보강 검토도 포함되나요?&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;지붕 보수·보강&lt;/th&gt;&lt;td&gt;방수, 손상 보수와 필요한 구조 보강&lt;/td&gt;&lt;td&gt;현재 견적에 포함된 부분과 현장 확인 후 정할 부분은 무엇인가요?&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;전기·연계 공사&lt;/th&gt;&lt;td&gt;배선, 전기설비와 계통 연계 관련 범위&lt;/td&gt;&lt;td&gt;기존 전기설비 보완이나 추가 공사비가 별도인가요?&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;현장 작업&lt;/th&gt;&lt;td&gt;자재 운반, 장비, 작업 공간과 공장 운영 일정&lt;/td&gt;&lt;td&gt;반입 조건이나 작업 시간 제한에 따른 추가 비용이 있나요?&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;인도·관리&lt;/th&gt;&lt;td&gt;준공 자료, 점검 안내와 사후관리 범위&lt;/td&gt;&lt;td&gt;고장 대응 연락처와 유상·무상 범위가 명확한가요?&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;미국 에너지부도 태양광 설비 비용을 장비 비용과 설계·설치·연계 등 비장비 비용으로 나누어 설명합니다. 해외 비용 비율이나 가격을 국내 현장의 견적에 그대로 적용하기보다, 실제 제안서의 항목과 조건을 확인하세요.&lt;/p&gt;
+&lt;h2 id="comparison"&gt;견적 두 개를 비교하는 순서&lt;/h2&gt;
+&lt;ol&gt;&lt;li&gt;&lt;strong&gt;용량과 배치를 맞춥니다.&lt;/strong&gt; 모듈 사양과 수량이 다르면 총액만 비교하기 어렵습니다. &lt;a href="https://starichdog-collab.github.io/solar-guide/solar-capacity-calculator.html"&gt;태양광 용량 계산기&lt;/a&gt;에서 모듈 측 용량을 확인할 수 있습니다.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;금액의 기준을 맞춥니다.&lt;/strong&gt; 부가세 포함 여부, 제시 금액의 유효기간, 포함·별도 공사를 동일한 기준으로 정리합니다.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;미정 비용을 따로 적습니다.&lt;/strong&gt; 보강, 방수 보수, 현장 조사, 연계 공사 등 추후 협의할 항목을 빈칸으로 남기지 말고 ‘미정’으로 표시합니다.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;장비와 관리 조건을 읽습니다.&lt;/strong&gt; 교체 가능한 제품의 범위, 보증 대상, 대응 방법과 필요한 제출 자료를 확인합니다.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;일정과 변경 조건을 확인합니다.&lt;/strong&gt; 현장 조건이나 설치 계획이 달라질 때 비용·일정을 어떤 방식으로 다시 협의하는지 물어봅니다.&lt;/li&gt;&lt;/ol&gt;
+&lt;h2&gt;총액이 낮은 견적이 항상 유리한가요?&lt;/h2&gt;
+&lt;p&gt;비교하는 공사 범위가 같아야 판단할 수 있습니다. 예를 들어 한 제안에 지붕 보수가 포함되고 다른 제안에는 별도라고 적혀 있다면, 두 총액은 같은 작업을 의미하지 않습니다. 먼저 빠진 작업과 추가 비용의 산정 조건을 확인해야 합니다.&lt;/p&gt;
+&lt;p&gt;연간 발전량이나 전기요금 절감액도 설치비와 구분해서 읽으세요. 예측의 근거는 &lt;a href="https://starichdog-collab.github.io/solar-guide/solar-generation-factors.html"&gt;태양광 발전량과 효율 안내&lt;/a&gt;에 정리했습니다.&lt;/p&gt;
+&lt;h2 id="questions"&gt;업체에 그대로 물어볼 질문&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;이 견적의 모듈 모델, 수량과 총 DC 용량을 알려주세요.&lt;/li&gt;&lt;li&gt;구조검토, 지붕 보강과 방수 공사의 포함·별도 범위를 알려주세요.&lt;/li&gt;&lt;li&gt;현재 자료로 확정할 수 없는 비용과 필요한 추가 확인 사항은 무엇인가요?&lt;/li&gt;&lt;li&gt;공장 가동 중 시공할 경우 협의할 작업 시간과 동선은 무엇인가요?&lt;/li&gt;&lt;li&gt;설치 후 받을 도면, 장비 자료와 관리 안내 목록을 알려주세요.&lt;/li&gt;&lt;/ul&gt;
+&lt;h2 id="request"&gt;두자에 설치 견적을 문의할 때&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;현장 주소, 설치 목적, 지붕·부지 사진, 보유 도면과 희망 일정&lt;/strong&gt;을 준비하면 업무 범위를 상담하기 좋습니다. 설치 용량이 아직 정해지지 않았다면 미정이라고 알려주세요. 기존 건축물 자료가 필요한 경우에는 &lt;a href="https://starichdog-collab.github.io/solar-structural-review/roof-solar-review.html"&gt;공장 지붕 구조검토 준비자료&lt;/a&gt;도 확인할 수 있습니다.&lt;/p&gt;
+&lt;p&gt;두자는 공식 홈페이지에서 현장 조건에 맞춘 태양광 구조검토·설계와 설치·시공 상담을 안내합니다. 실제 범위와 금액은 &lt;a href="https://dooja.co.kr/services/solar-installation"&gt;두자 태양광 설치·시공 안내&lt;/a&gt;를 통해 문의하세요.&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;설치비를 kW당 금액으로만 비교해도 되나요?&lt;/summary&gt;&lt;p&gt;용량당 금액은 참고가 될 수 있지만, 같은 장비 사양과 공사 범위인지 먼저 확인해야 합니다. 기존 건물 상태와 보강·방수·전기 공사 조건에 따라 총비용이 달라질 수 있습니다.&lt;/p&gt;&lt;/details&gt;
+&lt;p class="source"&gt;참고: &lt;a href="https://www.energy.gov/cmei/systems/solar-soft-costs-basics" target="_blank" rel="noopener"&gt;미국 에너지부 Solar Soft Costs Basics&lt;/a&gt;, &lt;a href="https://dooja.co.kr/services/solar-installation"&gt;두자 공식 설치·시공 안내&lt;/a&gt;.&lt;/p&gt;
+&lt;section class="cta"&gt;&lt;h2&gt;태양광 설치 계획을 두자와 상의하세요&lt;/h2&gt;&lt;p&gt;현장 주소, 보유 도면과 희망 일정을 정리해 주세요. 두자건설 공식 홈페이지에서 설치·시공과 구조검토 업무 범위를 확인할 수 있습니다.&lt;/p&gt;&lt;a class="button" href="https://dooja.co.kr/services/solar-installation"&gt;태양광 설치·시공 상담 안내 →&lt;/a&gt;&lt;/section&gt;&lt;aside class="related" aria-label="관련 가이드"&gt;&lt;h2&gt;함께 확인할 가이드&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://starichdog-collab.github.io/solar-guide/solar-installation-checklist.html"&gt;태양광 설치 전 체크리스트&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://starichdog-collab.github.io/solar-guide/solar-generation-factors.html"&gt;발전량 예측 조건 확인&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://starichdog-collab.github.io/solar-guide/solar-capacity-calculator.html"&gt;태양광 용량 계산기&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/aside&gt;&lt;/article&gt;</description>
     </item>
     <item>
       <title>태양광 용량 계산기 | 모듈 W·수량으로 kW 계산 | 두자건설</title>
       <link>https://starichdog-collab.github.io/solar-guide/solar-capacity-calculator.html</link>
       <guid isPermaLink="true">https://starichdog-collab.github.io/solar-guide/solar-capacity-calculator.html</guid>
-      <description><![CDATA[<article><h1>태양광 용량 계산기: 모듈 출력과 수량 확인</h1><p class="byline">운영: <a href="https://dooja.co.kr/">두자건설(DOOJA)</a> · 게시: <time datetime="2026-10-22">2026년 10월 22일</time></p><p>모듈 한 장의 정격출력과 수량을 알면 태양광 설비의 <strong>모듈 측 직류 정격용량(DC kW)</strong>을 계산할 수 있습니다. 아래 계산기는 같은 정격출력의 모듈을 사용하는 경우를 기준으로 합니다.</p><figure class="solar-figure"><img style="max-width:100%;height:auto" src="https://starichdog-collab.github.io/assets/images/solar-module-mounting-1600.webp" width="1600" height="900" alt="금속 지붕 위 태양광 모듈의 유리 표면과 알루미늄 테두리, 지지부"><figcaption>태양광 모듈과 지지 구조의 구성 예시. 실제 상세는 현장별 설계에 따릅니다.</figcaption></figure>
-<nav class="page-toc" aria-label="이 글의 목차"><a href="#capacity-calculator">용량 계산</a><a href="#panel-count">필요 수량</a><a href="#capacity-example">계산 예시</a><a href="#capacity-meaning">결과 해석</a></nav>
-<section id="capacity-calculator" class="calculator" aria-labelledby="capacity-heading"><h2 id="capacity-heading">모듈 출력과 수량으로 용량 계산</h2><p class="calc-help">제품 사양서의 정격출력(W)과 설치할 모듈 수량을 입력하세요. 출력과 용량은 소수점 셋째 자리까지 입력할 수 있습니다.</p><form id="capacity-form" novalidate><div class="input-grid"><label for="module-watts">모듈 한 장의 정격출력 (W)<input id="module-watts" name="module-watts" type="number" inputmode="decimal" min="0.001" max="1000000" step="0.001" placeholder="예: 550" required aria-describedby="capacity-error"></label><label for="module-count">모듈 수량 (장)<input id="module-count" name="module-count" type="number" inputmode="numeric" min="1" max="1000000" step="1" placeholder="예: 180" required aria-describedby="capacity-error"></label></div><button class="button calc-button" type="submit">용량 계산하기</button><p id="capacity-error" class="calc-error" role="alert"></p><div class="calc-result" aria-live="polite" aria-atomic="true"><p id="capacity-result">정격출력과 수량을 입력하면 결과가 표시됩니다.</p></div></form></section>
-<section id="panel-count" class="calculator" aria-labelledby="count-heading"><h2 id="count-heading">목표 용량에 필요한 모듈 수량</h2><p class="calc-help">목표 DC 용량 이상이 되는 최소 정수 수량을 계산합니다.</p><form id="count-form" novalidate><div class="input-grid"><label for="target-kw">목표 DC 용량 (kW)<input id="target-kw" name="target-kw" type="number" inputmode="decimal" min="0.001" max="1000000" step="0.001" placeholder="예: 100" required aria-describedby="count-error"></label><label for="target-watts">모듈 한 장의 정격출력 (W)<input id="target-watts" name="target-watts" type="number" inputmode="decimal" min="0.001" max="1000000" step="0.001" placeholder="예: 550" required aria-describedby="count-error"></label></div><button class="button calc-button" type="submit">필요 수량 계산하기</button><p id="count-error" class="calc-error" role="alert"></p><div class="calc-result" aria-live="polite" aria-atomic="true"><p id="count-result">목표 용량과 정격출력을 입력하면 결과가 표시됩니다.</p></div></form></section>
-<noscript><p class="note">계산기는 자바스크립트를 켜면 사용할 수 있습니다. 아래 계산식과 예시는 자바스크립트 없이도 볼 수 있습니다.</p></noscript>
-<h2 id="capacity-example">태양광 용량 계산식과 예시</h2>
-<p class="formula"><strong>DC 용량(kW) = 모듈 정격출력(W) × 수량 ÷ 1,000</strong></p>
-<p>예를 들어 정격출력이 550W인 모듈 180장을 계획했다면 550 × 180 ÷ 1,000 = <strong>99kW</strong>입니다. 이는 모듈의 정격출력을 합한 값이며, 시간에 따른 발전량을 나타내지는 않습니다.</p>
-<p>목표가 100kW 이상이고 모듈이 550W라면 100 × 1,000 ÷ 550 = 약 181.82장입니다. 모듈 수량은 정수여야 하므로 <strong>182장, 합계 100.1kW</strong>가 됩니다.</p>
-<div class="table-scroll"><table><caption>550W 모듈을 사용한다고 가정한 단순 계산 예시</caption><thead><tr><th scope="col">모듈 수량</th><th scope="col">모듈 측 DC 용량</th></tr></thead><tbody><tr><td>20장</td><td>11kW</td></tr><tr><td>100장</td><td>55kW</td></tr><tr><td>180장</td><td>99kW</td></tr><tr><td>182장</td><td>100.1kW</td></tr></tbody></table></div>
-<h2 id="capacity-meaning">계산 결과는 무엇을 뜻하나요?</h2>
-<ul><li><strong>발전량(kWh)과 구분:</strong> 실제 생산 전력량은 일사량·음영·방향·온도·설비 손실 등에 따라 달라집니다. <a href="https://starichdog-collab.github.io/solar-guide/solar-generation-factors.html">발전량 예측 조건</a>을 함께 확인하세요.</li><li><strong>인버터 AC 용량과 구분:</strong> 여기서 계산한 값은 모듈 측 DC 용량입니다. 인버터 선정이나 전기 설계는 별도 조건을 바탕으로 검토합니다.</li><li><strong>배치 가능 수량과 구분:</strong> 계산된 모듈 수량이 실제 지붕에 모두 설치된다는 뜻은 아닙니다. 모듈 치수, 음영, 점검 동선과 <a href="https://starichdog-collab.github.io/solar-guide/solar-roof-structure.html">지붕 구조 조건</a>을 확인해야 합니다.</li></ul>
-<h2>견적서와 비교할 때 확인하세요</h2>
-<p>제안서의 모듈 모델, 한 장의 정격출력, 수량과 총 DC 용량이 일치하는지 확인할 수 있습니다. 서로 다른 출력의 모듈을 섞는 경우에는 각 모델의 정격출력과 수량을 따로 곱한 뒤 모두 합산합니다. 모델이 바뀌면 크기와 무게도 함께 확인하세요.</p>
-<p>용량을 확인했다면 <a href="https://starichdog-collab.github.io/solar-guide/solar-installation-cost.html">태양광 설치비·견적 비교 안내</a>와 <a href="https://starichdog-collab.github.io/solar-guide/solar-installation-checklist.html">설치 전 체크리스트</a>로 상담자료를 준비할 수 있습니다.</p>
-<details><summary>목표가 100kW인데 계산 결과가 100.1kW로 나오는 이유는 무엇인가요?</summary><p>같은 출력의 모듈을 한 장 단위로 더하기 때문입니다. 이 계산기는 목표 이상이 되는 최소 수량을 표시합니다. 사업·계약·연계 조건에서 허용하는 용량을 확인한 뒤 최종 설계를 정해야 합니다.</p></details>
-<details><summary>계산 결과로 발전 수익이나 구조안전을 알 수 있나요?</summary><p>이 계산은 정격출력과 수량의 합산만 수행합니다. 발전 수익과 구조안전은 각각의 현장 자료 및 전문 검토가 필요합니다.</p></details>
-<p class="source">DC 용량과 AC 발전량 구분 참고: <a href="https://pvwatts.nlr.gov/index.php" target="_blank" rel="noopener">미국 국립연구소 PVWatts의 System Info·Results 항목</a>. 표의 550W는 계산 방법을 보여주기 위한 예시이며 특정 제품을 추천하는 수치가 아닙니다.</p>
-<section class="cta"><h2>태양광 설치 계획을 두자와 상의하세요</h2><p>현장 주소, 보유 도면과 희망 일정을 정리해 주세요. 두자건설 공식 홈페이지에서 설치·시공과 구조검토 업무 범위를 확인할 수 있습니다.</p><a class="button" href="https://dooja.co.kr/services/solar-installation">태양광 설치·시공 상담 안내 →</a></section><aside class="related" aria-label="관련 가이드"><h2>함께 확인할 가이드</h2><ul><li><a href="https://starichdog-collab.github.io/solar-guide/solar-installation-checklist.html">태양광 설치 전 체크리스트</a></li><li><a href="https://starichdog-collab.github.io/solar-guide/solar-generation-factors.html">발전량 예측 조건 확인</a></li><li><a href="https://starichdog-collab.github.io/solar-guide/solar-installation-cost.html">설치 비용·견적 비교</a></li></ul></aside></article>]]></description>
+      <description>&lt;article&gt;&lt;h1&gt;태양광 용량 계산기: 모듈 출력과 수량 확인&lt;/h1&gt;&lt;p class="byline"&gt;운영: &lt;a href="https://dooja.co.kr/"&gt;두자건설(DOOJA)&lt;/a&gt; · 게시: &lt;time datetime="2026-10-22"&gt;2026년 10월 22일&lt;/time&gt;&lt;/p&gt;&lt;p&gt;모듈 한 장의 정격출력과 수량을 알면 태양광 설비의 &lt;strong&gt;모듈 측 직류 정격용량(DC kW)&lt;/strong&gt;을 계산할 수 있습니다. 아래 계산기는 같은 정격출력의 모듈을 사용하는 경우를 기준으로 합니다.&lt;/p&gt;&lt;figure class="solar-figure"&gt;&lt;img style="max-width:100%;height:auto" src="https://starichdog-collab.github.io/assets/images/solar-module-mounting-1600.webp" width="1600" height="900" alt="금속 지붕 위 태양광 모듈의 유리 표면과 알루미늄 테두리, 지지부"&gt;&lt;figcaption&gt;태양광 모듈과 지지 구조의 구성 예시. 실제 상세는 현장별 설계에 따릅니다.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;nav class="page-toc" aria-label="이 글의 목차"&gt;&lt;a href="#capacity-calculator"&gt;용량 계산&lt;/a&gt;&lt;a href="#panel-count"&gt;필요 수량&lt;/a&gt;&lt;a href="#capacity-example"&gt;계산 예시&lt;/a&gt;&lt;a href="#capacity-meaning"&gt;결과 해석&lt;/a&gt;&lt;/nav&gt;
+&lt;section id="capacity-calculator" class="calculator" aria-labelledby="capacity-heading"&gt;&lt;h2 id="capacity-heading"&gt;모듈 출력과 수량으로 용량 계산&lt;/h2&gt;&lt;p class="calc-help"&gt;제품 사양서의 정격출력(W)과 설치할 모듈 수량을 입력하세요. 출력과 용량은 소수점 셋째 자리까지 입력할 수 있습니다.&lt;/p&gt;&lt;form id="capacity-form" novalidate&gt;&lt;div class="input-grid"&gt;&lt;label for="module-watts"&gt;모듈 한 장의 정격출력 (W)&lt;input id="module-watts" name="module-watts" type="number" inputmode="decimal" min="0.001" max="1000000" step="0.001" placeholder="예: 550" required aria-describedby="capacity-error"&gt;&lt;/label&gt;&lt;label for="module-count"&gt;모듈 수량 (장)&lt;input id="module-count" name="module-count" type="number" inputmode="numeric" min="1" max="1000000" step="1" placeholder="예: 180" required aria-describedby="capacity-error"&gt;&lt;/label&gt;&lt;/div&gt;&lt;button class="button calc-button" type="submit"&gt;용량 계산하기&lt;/button&gt;&lt;p id="capacity-error" class="calc-error" role="alert"&gt;&lt;/p&gt;&lt;div class="calc-result" aria-live="polite" aria-atomic="true"&gt;&lt;p id="capacity-result"&gt;정격출력과 수량을 입력하면 결과가 표시됩니다.&lt;/p&gt;&lt;/div&gt;&lt;/form&gt;&lt;/section&gt;
+&lt;section id="panel-count" class="calculator" aria-labelledby="count-heading"&gt;&lt;h2 id="count-heading"&gt;목표 용량에 필요한 모듈 수량&lt;/h2&gt;&lt;p class="calc-help"&gt;목표 DC 용량 이상이 되는 최소 정수 수량을 계산합니다.&lt;/p&gt;&lt;form id="count-form" novalidate&gt;&lt;div class="input-grid"&gt;&lt;label for="target-kw"&gt;목표 DC 용량 (kW)&lt;input id="target-kw" name="target-kw" type="number" inputmode="decimal" min="0.001" max="1000000" step="0.001" placeholder="예: 100" required aria-describedby="count-error"&gt;&lt;/label&gt;&lt;label for="target-watts"&gt;모듈 한 장의 정격출력 (W)&lt;input id="target-watts" name="target-watts" type="number" inputmode="decimal" min="0.001" max="1000000" step="0.001" placeholder="예: 550" required aria-describedby="count-error"&gt;&lt;/label&gt;&lt;/div&gt;&lt;button class="button calc-button" type="submit"&gt;필요 수량 계산하기&lt;/button&gt;&lt;p id="count-error" class="calc-error" role="alert"&gt;&lt;/p&gt;&lt;div class="calc-result" aria-live="polite" aria-atomic="true"&gt;&lt;p id="count-result"&gt;목표 용량과 정격출력을 입력하면 결과가 표시됩니다.&lt;/p&gt;&lt;/div&gt;&lt;/form&gt;&lt;/section&gt;
+&lt;noscript&gt;&lt;p class="note"&gt;계산기는 자바스크립트를 켜면 사용할 수 있습니다. 아래 계산식과 예시는 자바스크립트 없이도 볼 수 있습니다.&lt;/p&gt;&lt;/noscript&gt;
+&lt;h2 id="capacity-example"&gt;태양광 용량 계산식과 예시&lt;/h2&gt;
+&lt;p class="formula"&gt;&lt;strong&gt;DC 용량(kW) = 모듈 정격출력(W) × 수량 ÷ 1,000&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;예를 들어 정격출력이 550W인 모듈 180장을 계획했다면 550 × 180 ÷ 1,000 = &lt;strong&gt;99kW&lt;/strong&gt;입니다. 이는 모듈의 정격출력을 합한 값이며, 시간에 따른 발전량을 나타내지는 않습니다.&lt;/p&gt;
+&lt;p&gt;목표가 100kW 이상이고 모듈이 550W라면 100 × 1,000 ÷ 550 = 약 181.82장입니다. 모듈 수량은 정수여야 하므로 &lt;strong&gt;182장, 합계 100.1kW&lt;/strong&gt;가 됩니다.&lt;/p&gt;
+&lt;div class="table-scroll"&gt;&lt;table&gt;&lt;caption&gt;550W 모듈을 사용한다고 가정한 단순 계산 예시&lt;/caption&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;모듈 수량&lt;/th&gt;&lt;th scope="col"&gt;모듈 측 DC 용량&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;20장&lt;/td&gt;&lt;td&gt;11kW&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;100장&lt;/td&gt;&lt;td&gt;55kW&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;180장&lt;/td&gt;&lt;td&gt;99kW&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;182장&lt;/td&gt;&lt;td&gt;100.1kW&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;h2 id="capacity-meaning"&gt;계산 결과는 무엇을 뜻하나요?&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;발전량(kWh)과 구분:&lt;/strong&gt; 실제 생산 전력량은 일사량·음영·방향·온도·설비 손실 등에 따라 달라집니다. &lt;a href="https://starichdog-collab.github.io/solar-guide/solar-generation-factors.html"&gt;발전량 예측 조건&lt;/a&gt;을 함께 확인하세요.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;인버터 AC 용량과 구분:&lt;/strong&gt; 여기서 계산한 값은 모듈 측 DC 용량입니다. 인버터 선정이나 전기 설계는 별도 조건을 바탕으로 검토합니다.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;배치 가능 수량과 구분:&lt;/strong&gt; 계산된 모듈 수량이 실제 지붕에 모두 설치된다는 뜻은 아닙니다. 모듈 치수, 음영, 점검 동선과 &lt;a href="https://starichdog-collab.github.io/solar-guide/solar-roof-structure.html"&gt;지붕 구조 조건&lt;/a&gt;을 확인해야 합니다.&lt;/li&gt;&lt;/ul&gt;
+&lt;h2&gt;견적서와 비교할 때 확인하세요&lt;/h2&gt;
+&lt;p&gt;제안서의 모듈 모델, 한 장의 정격출력, 수량과 총 DC 용량이 일치하는지 확인할 수 있습니다. 서로 다른 출력의 모듈을 섞는 경우에는 각 모델의 정격출력과 수량을 따로 곱한 뒤 모두 합산합니다. 모델이 바뀌면 크기와 무게도 함께 확인하세요.&lt;/p&gt;
+&lt;p&gt;용량을 확인했다면 &lt;a href="https://starichdog-collab.github.io/solar-guide/solar-installation-cost.html"&gt;태양광 설치비·견적 비교 안내&lt;/a&gt;와 &lt;a href="https://starichdog-collab.github.io/solar-guide/solar-installation-checklist.html"&gt;설치 전 체크리스트&lt;/a&gt;로 상담자료를 준비할 수 있습니다.&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;목표가 100kW인데 계산 결과가 100.1kW로 나오는 이유는 무엇인가요?&lt;/summary&gt;&lt;p&gt;같은 출력의 모듈을 한 장 단위로 더하기 때문입니다. 이 계산기는 목표 이상이 되는 최소 수량을 표시합니다. 사업·계약·연계 조건에서 허용하는 용량을 확인한 뒤 최종 설계를 정해야 합니다.&lt;/p&gt;&lt;/details&gt;
+&lt;details&gt;&lt;summary&gt;계산 결과로 발전 수익이나 구조안전을 알 수 있나요?&lt;/summary&gt;&lt;p&gt;이 계산은 정격출력과 수량의 합산만 수행합니다. 발전 수익과 구조안전은 각각의 현장 자료 및 전문 검토가 필요합니다.&lt;/p&gt;&lt;/details&gt;
+&lt;p class="source"&gt;DC 용량과 AC 발전량 구분 참고: &lt;a href="https://pvwatts.nlr.gov/index.php" target="_blank" rel="noopener"&gt;미국 국립연구소 PVWatts의 System Info·Results 항목&lt;/a&gt;. 표의 550W는 계산 방법을 보여주기 위한 예시이며 특정 제품을 추천하는 수치가 아닙니다.&lt;/p&gt;
+&lt;section class="cta"&gt;&lt;h2&gt;태양광 설치 계획을 두자와 상의하세요&lt;/h2&gt;&lt;p&gt;현장 주소, 보유 도면과 희망 일정을 정리해 주세요. 두자건설 공식 홈페이지에서 설치·시공과 구조검토 업무 범위를 확인할 수 있습니다.&lt;/p&gt;&lt;a class="button" href="https://dooja.co.kr/services/solar-installation"&gt;태양광 설치·시공 상담 안내 →&lt;/a&gt;&lt;/section&gt;&lt;aside class="related" aria-label="관련 가이드"&gt;&lt;h2&gt;함께 확인할 가이드&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://starichdog-collab.github.io/solar-guide/solar-installation-checklist.html"&gt;태양광 설치 전 체크리스트&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://starichdog-collab.github.io/solar-guide/solar-generation-factors.html"&gt;발전량 예측 조건 확인&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://starichdog-collab.github.io/solar-guide/solar-installation-cost.html"&gt;설치 비용·견적 비교&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/aside&gt;&lt;/article&gt;</description>
     </item>
     <item>
       <title>공장 지붕 태양광 구조검토 | 준비자료·진행 절차 | 두자건설</title>
       <link>https://starichdog-collab.github.io/solar-structural-review/roof-solar-review.html</link>
       <guid isPermaLink="true">https://starichdog-collab.github.io/solar-structural-review/roof-solar-review.html</guid>
-      <description><![CDATA[<article><h1>공장 지붕 태양광 구조검토: 준비자료와 진행 절차</h1><p class="byline">운영: <a href="https://dooja.co.kr/">두자건설(DOOJA)</a> · 내용 업데이트: <time datetime="2026-10-23">2026년 10월 23일</time></p>
-<p>공장 지붕 태양광 구조검토를 의뢰할 때는 <strong>기존 건축물 자료와 새로 설치할 설비 자료</strong>가 함께 필요합니다. 이 글은 시공사·사업자와 건물주가 검토 범위를 협의할 때 사용할 준비 목록입니다.</p><figure class="solar-figure"><img src="https://starichdog-collab.github.io/assets/images/solar-structural-planning-1600.webp" srcset="https://starichdog-collab.github.io/assets/images/solar-structural-planning-640.webp 640w, https://starichdog-collab.github.io/assets/images/solar-structural-planning-1024.webp 1024w, https://starichdog-collab.github.io/assets/images/solar-structural-planning-1600.webp 1600w" sizes="(max-width: 700px) calc(100vw - 96px), (max-width: 1050px) calc(100vw - 112px), 940px" width="1600" height="900" alt="태양광 지붕을 바라보는 창가 책상에 놓인 건축 도면과 안전모, 측정 도구" loading="eager" decoding="async" fetchpriority="high"><figcaption>태양광 설치·구조검토 준비자료를 설명하기 위한 예시 이미지.</figcaption></figure>
-<h2 id="documents">검토자료를 두 묶음으로 준비하세요</h2>
-<div class="table-scroll"><table><caption>공장·창고 태양광 구조검토 준비자료</caption><thead><tr><th scope="col">구분</th><th scope="col">자료</th><th scope="col">확인할 내용</th></tr></thead><tbody>
-<tr><th scope="row">기존 건물</th><td>구조도면·구조계산서</td><td>설치 구역과 기존 구조 형식이 식별되는 자료</td></tr>
-<tr><th scope="row">현재 상태</th><td>현장 사진·변경 이력</td><td>증축, 지붕 교체, 보강, 부식이나 변형 관련 기록</td></tr>
-<tr><th scope="row">설비 배치</th><td>모듈 배치도·제품 사양</td><td>설치 위치, 규격·중량, 높이와 경사</td></tr>
-<tr><th scope="row">지지 구조</th><td>부재·접합부 상세</td><td>지지대, 레일, 브래킷, 고정부의 형식과 위치</td></tr>
-<tr><th scope="row">제출 목적</th><td>필요 성과품·일정</td><td>검토 대상, 요청한 제출 문서와 완료 희망일</td></tr>
-</tbody></table></div>
-<p>자료마다 도면 번호와 작성일을 적어 최신본을 구분하면 검토 도중 다른 배치도나 자재 사양을 사용하는 혼선을 줄일 수 있습니다. 미정인 항목은 임의로 채우지 말고 확정 예정일과 함께 알려주세요.</p>
+      <description>&lt;article&gt;&lt;h1&gt;공장 지붕 태양광 구조검토: 준비자료와 진행 절차&lt;/h1&gt;&lt;p class="byline"&gt;운영: &lt;a href="https://dooja.co.kr/"&gt;두자건설(DOOJA)&lt;/a&gt; · 내용 업데이트: &lt;time datetime="2026-10-23"&gt;2026년 10월 23일&lt;/time&gt;&lt;/p&gt;
+&lt;p&gt;공장 지붕 태양광 구조검토를 의뢰할 때는 &lt;strong&gt;기존 건축물 자료와 새로 설치할 설비 자료&lt;/strong&gt;가 함께 필요합니다. 이 글은 시공사·사업자와 건물주가 검토 범위를 협의할 때 사용할 준비 목록입니다.&lt;/p&gt;&lt;figure class="solar-figure"&gt;&lt;img src="https://starichdog-collab.github.io/assets/images/solar-structural-planning-1600.webp" srcset="https://starichdog-collab.github.io/assets/images/solar-structural-planning-640.webp 640w, https://starichdog-collab.github.io/assets/images/solar-structural-planning-1024.webp 1024w, https://starichdog-collab.github.io/assets/images/solar-structural-planning-1600.webp 1600w" sizes="(max-width: 700px) calc(100vw - 96px), (max-width: 1050px) calc(100vw - 112px), 940px" width="1600" height="900" alt="태양광 지붕을 바라보는 창가 책상에 놓인 건축 도면과 안전모, 측정 도구" loading="eager" decoding="async" fetchpriority="high"&gt;&lt;figcaption&gt;태양광 설치·구조검토 준비자료를 설명하기 위한 예시 이미지.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id="documents"&gt;검토자료를 두 묶음으로 준비하세요&lt;/h2&gt;
+&lt;div class="table-scroll"&gt;&lt;table&gt;&lt;caption&gt;공장·창고 태양광 구조검토 준비자료&lt;/caption&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;구분&lt;/th&gt;&lt;th scope="col"&gt;자료&lt;/th&gt;&lt;th scope="col"&gt;확인할 내용&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;기존 건물&lt;/th&gt;&lt;td&gt;구조도면·구조계산서&lt;/td&gt;&lt;td&gt;설치 구역과 기존 구조 형식이 식별되는 자료&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;현재 상태&lt;/th&gt;&lt;td&gt;현장 사진·변경 이력&lt;/td&gt;&lt;td&gt;증축, 지붕 교체, 보강, 부식이나 변형 관련 기록&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;설비 배치&lt;/th&gt;&lt;td&gt;모듈 배치도·제품 사양&lt;/td&gt;&lt;td&gt;설치 위치, 규격·중량, 높이와 경사&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;지지 구조&lt;/th&gt;&lt;td&gt;부재·접합부 상세&lt;/td&gt;&lt;td&gt;지지대, 레일, 브래킷, 고정부의 형식과 위치&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;제출 목적&lt;/th&gt;&lt;td&gt;필요 성과품·일정&lt;/td&gt;&lt;td&gt;검토 대상, 요청한 제출 문서와 완료 희망일&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;자료마다 도면 번호와 작성일을 적어 최신본을 구분하면 검토 도중 다른 배치도나 자재 사양을 사용하는 혼선을 줄일 수 있습니다. 미정인 항목은 임의로 채우지 말고 확정 예정일과 함께 알려주세요.&lt;/p&gt;
 
-<section id="missing-drawings" aria-labelledby="missing-drawings-title">
-<h2 id="missing-drawings-title">공장 지붕 도면이 없으면 무엇부터 준비하나요?</h2>
-<p><strong>없는 도면을 추정해 채우기보다, 보유한 자료와 확인하지 못한 항목을 구분해 전달하는 것이 먼저입니다.</strong> 도면이 없다는 이유만으로 설치 가능·불가능을 정하거나, 사진만으로 구조안전을 확정하지 않습니다.</p>
-<ol>
-<li><strong>보유 자료 확인:</strong> 건물주·관리자 등이 보유한 도면, 기존 계산서, 증축·보강 및 지붕 교체 기록의 유무를 정리합니다. 자료의 명칭과 작성 시점도 함께 적습니다.</li>
-<li><strong>현재 상태와 연결:</strong> 설치할 건물과 구역을 표시하고, 확보한 사진이 어느 위치를 보여주는지 적습니다. 도면과 다른 부분이나 확인하기 어려운 부분은 따로 표시합니다.</li>
-<li><strong>추가 확인 범위 협의:</strong> 검토 담당자에게 부족한 자료를 전달하고 현장 조사·실측·재료 확인 등의 필요 여부와 담당 범위를 협의합니다. 현장 접근과 조사는 안전한 작업 절차를 갖춘 담당자가 진행합니다.</li>
-</ol>
-</section>
-<section id="scope-and-schedule" aria-labelledby="scope-and-schedule-title">
-<h2 id="scope-and-schedule-title">태양광 구조검토 비용과 기간은 무엇에 따라 달라지나요?</h2>
-<p>같은 설비 용량이라도 기존 건물의 검토 여부, 준비된 자료, 현장 확인과 결과물 범위가 다르면 업무가 달라질 수 있습니다. 금액이나 날짜를 비교할 때는 아래 조건이 같은지 먼저 맞춰 보세요.</p>
-<div class="table-scroll" tabindex="0" role="region" aria-label="구조검토 비용 및 일정 협의 항목"><table>
-<caption>견적과 일정을 협의하기 전에 확인할 범위</caption><thead><tr><th scope="col">항목</th><th scope="col">정리할 내용</th></tr></thead><tbody>
-<tr><th scope="row">검토 대상</th><td>지지대·접합부·기초·기존 건물 중 포함되는 대상과 설치 구역</td></tr>
-<tr><th scope="row">자료 준비</th><td>확정된 도면·제품 사양, 미정 항목과 추가 자료가 준비되는 시점</td></tr>
-<tr><th scope="row">현장 확인</th><td>방문·조사·실측 등의 필요 여부와 별도 수행 범위</td></tr>
-<tr><th scope="row">결과물</th><td>구조계산서·검토서·도면 등 요청 자료, 제출 목적과 형식</td></tr>
-<tr><th scope="row">변경 대응</th><td>설계 변경이나 보완 요청이 생겼을 때 협의할 범위와 일정</td></tr>
-</tbody></table></div>
-<p>두자의 업무 범위와 일정은 <a href="https://dooja.co.kr/services/solar-structural-review">공식 태양광 구조검토 안내</a>를 바탕으로 상담 시 확인해 주세요.</p>
-</section>
-<section id="request-template" class="cta" aria-labelledby="request-template-title">
-<h2 id="request-template-title">태양광 구조검토 상담 준비 양식</h2>
-<p>현장 정보, 보유 도면, 설치 계획과 확인이 필요한 질문을 한 문서에 정리할 수 있는 빈 양식입니다. 미확인 항목은 그대로 표시하고, 준비된 자료만 연결해 작성하세요.</p>
-<a class="button" href="https://starichdog-collab.github.io/solar-structural-review/downloads/solar-structural-review-request.txt" download>상담 준비 양식 내려받기 (.txt)</a>
-<p class="source">컴퓨터에서 작성하는 메모 양식입니다. 이 사이트에 입력하거나 제출하는 기능은 없으며, 구조계산서·검토 결과서 또는 법정 제출 서식을 대신하지 않습니다.</p>
-</section>
-<h2 id="workflow">구조검토는 어떤 순서로 진행하나요?</h2>
-<ol><li><strong>대상 확인:</strong> 검토할 건물과 설치 구역, 현장 위치와 일정을 공유합니다.</li><li><strong>자료·범위 협의:</strong> 보유 자료와 추가 확인이 필요한 항목, 성과품 범위를 정리합니다.</li><li><strong>구조해석·검토:</strong> 합의한 설치 조건과 하중에 따라 지지 구조와 기존 건물을 검토합니다.</li><li><strong>결과 확인:</strong> 검토에 사용한 도면, 조건과 보완 사항을 확인합니다.</li></ol>
-<h2 id="results">검토 결과를 받을 때 확인할 것</h2>
-<ul><li>실제 설치할 배치·모듈·지지대와 검토 대상이 일치하는지</li><li>확정되지 않은 사항이나 별도 조사 조건이 남아 있는지</li><li>보강이 필요한 경우 적용 위치와 후속 협의 범위가 무엇인지</li><li>설치 계획이 변경되면 어떤 자료를 다시 보내야 하는지</li></ul>
-<p>설치 높이, 경사, 배치나 고정부가 바뀌면 이전 검토 결과가 그대로 적용되는지 다시 확인해야 합니다. 관련 하중은 <a href="https://starichdog-collab.github.io/solar-structural-review/wind-load.html">풍하중 안내</a>와 <a href="https://starichdog-collab.github.io/solar-structural-review/snow-load.html">적설하중 안내</a>를 참고하세요.</p>
-<details><summary>지붕 도면이 없으면 어떤 자료부터 보내나요?</summary><p>보유한 건물 자료, 현장 사진과 설치 계획을 먼저 정리합니다. 자료가 부족한 부분의 조사 필요성과 검토 가능 범위는 상담을 통해 정합니다.</p></details>
-<details><summary>구조검토 비용과 기간은 용량으로만 정하나요?</summary><p>용량 외에도 설치 형식, 기존 건물 검토 여부, 자료 준비 상태와 요구 성과품에 따라 업무가 달라집니다. 검토 범위를 정한 뒤 일정과 비용을 협의합니다.</p></details>
-<p class="source">업무 범위와 상담자료: <a href="https://dooja.co.kr/services/solar-structural-review">두자 공식 태양광 구조검토 안내</a>. 건물주용 기초 설명은 <a href="https://starichdog-collab.github.io/solar-guide/solar-roof-structure.html">지붕 구조안전 안내</a>에서 볼 수 있습니다.</p><p class="source">이 안내는 일반 정보입니다. 개별 현장의 설계·시공과 구조안전 판단은 현장 자료 및 관련 전문가의 검토를 바탕으로 진행합니다.</p><section class="cta"><h2>두자에 현장 조건을 알려주세요</h2><p>현장 주소, 설치 목적, 보유 도면과 희망 일정을 정리하면 필요한 업무 범위를 상담하기 좋습니다.</p><a class="button btn" href="https://dooja.co.kr/services/solar-structural-review">태양광 구조검토 상담 안내 →</a></section><p>설치 공사와 함께 견적을 검토한다면 <a href="https://starichdog-collab.github.io/solar-guide/solar-installation-cost.html">설치비 항목별 비교 안내</a>에서 구조검토·보강 공사의 포함 범위를 확인하세요.</p><p><a href="https://starichdog-collab.github.io/solar-structural-review/structural-calculation-report.html">구조계산서와 시공도면 대조 방법 →</a></p><aside class="related" aria-label="관련 가이드"><h2>함께 확인할 가이드</h2><ul><li><a href="https://starichdog-collab.github.io/solar-structural-review/wind-load.html">풍하중 검토</a></li><li><a href="https://starichdog-collab.github.io/solar-structural-review/snow-load.html">적설하중 검토</a></li></ul></aside></article>]]></description>
+&lt;section id="missing-drawings" aria-labelledby="missing-drawings-title"&gt;
+&lt;h2 id="missing-drawings-title"&gt;공장 지붕 도면이 없으면 무엇부터 준비하나요?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;없는 도면을 추정해 채우기보다, 보유한 자료와 확인하지 못한 항목을 구분해 전달하는 것이 먼저입니다.&lt;/strong&gt; 도면이 없다는 이유만으로 설치 가능·불가능을 정하거나, 사진만으로 구조안전을 확정하지 않습니다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;보유 자료 확인:&lt;/strong&gt; 건물주·관리자 등이 보유한 도면, 기존 계산서, 증축·보강 및 지붕 교체 기록의 유무를 정리합니다. 자료의 명칭과 작성 시점도 함께 적습니다.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;현재 상태와 연결:&lt;/strong&gt; 설치할 건물과 구역을 표시하고, 확보한 사진이 어느 위치를 보여주는지 적습니다. 도면과 다른 부분이나 확인하기 어려운 부분은 따로 표시합니다.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;추가 확인 범위 협의:&lt;/strong&gt; 검토 담당자에게 부족한 자료를 전달하고 현장 조사·실측·재료 확인 등의 필요 여부와 담당 범위를 협의합니다. 현장 접근과 조사는 안전한 작업 절차를 갖춘 담당자가 진행합니다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+&lt;section id="scope-and-schedule" aria-labelledby="scope-and-schedule-title"&gt;
+&lt;h2 id="scope-and-schedule-title"&gt;태양광 구조검토 비용과 기간은 무엇에 따라 달라지나요?&lt;/h2&gt;
+&lt;p&gt;같은 설비 용량이라도 기존 건물의 검토 여부, 준비된 자료, 현장 확인과 결과물 범위가 다르면 업무가 달라질 수 있습니다. 금액이나 날짜를 비교할 때는 아래 조건이 같은지 먼저 맞춰 보세요.&lt;/p&gt;
+&lt;div class="table-scroll" tabindex="0" role="region" aria-label="구조검토 비용 및 일정 협의 항목"&gt;&lt;table&gt;
+&lt;caption&gt;견적과 일정을 협의하기 전에 확인할 범위&lt;/caption&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;항목&lt;/th&gt;&lt;th scope="col"&gt;정리할 내용&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;검토 대상&lt;/th&gt;&lt;td&gt;지지대·접합부·기초·기존 건물 중 포함되는 대상과 설치 구역&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;자료 준비&lt;/th&gt;&lt;td&gt;확정된 도면·제품 사양, 미정 항목과 추가 자료가 준비되는 시점&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;현장 확인&lt;/th&gt;&lt;td&gt;방문·조사·실측 등의 필요 여부와 별도 수행 범위&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;결과물&lt;/th&gt;&lt;td&gt;구조계산서·검토서·도면 등 요청 자료, 제출 목적과 형식&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;변경 대응&lt;/th&gt;&lt;td&gt;설계 변경이나 보완 요청이 생겼을 때 협의할 범위와 일정&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;두자의 업무 범위와 일정은 &lt;a href="https://dooja.co.kr/services/solar-structural-review"&gt;공식 태양광 구조검토 안내&lt;/a&gt;를 바탕으로 상담 시 확인해 주세요.&lt;/p&gt;
+&lt;/section&gt;
+&lt;section id="request-template" class="cta" aria-labelledby="request-template-title"&gt;
+&lt;h2 id="request-template-title"&gt;태양광 구조검토 상담 준비 양식&lt;/h2&gt;
+&lt;p&gt;현장 정보, 보유 도면, 설치 계획과 확인이 필요한 질문을 한 문서에 정리할 수 있는 빈 양식입니다. 미확인 항목은 그대로 표시하고, 준비된 자료만 연결해 작성하세요.&lt;/p&gt;
+&lt;a class="button" href="https://starichdog-collab.github.io/solar-structural-review/downloads/solar-structural-review-request.txt" download&gt;상담 준비 양식 내려받기 (.txt)&lt;/a&gt;
+&lt;p class="source"&gt;컴퓨터에서 작성하는 메모 양식입니다. 이 사이트에 입력하거나 제출하는 기능은 없으며, 구조계산서·검토 결과서 또는 법정 제출 서식을 대신하지 않습니다.&lt;/p&gt;
+&lt;/section&gt;
+&lt;h2 id="workflow"&gt;구조검토는 어떤 순서로 진행하나요?&lt;/h2&gt;
+&lt;ol&gt;&lt;li&gt;&lt;strong&gt;대상 확인:&lt;/strong&gt; 검토할 건물과 설치 구역, 현장 위치와 일정을 공유합니다.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;자료·범위 협의:&lt;/strong&gt; 보유 자료와 추가 확인이 필요한 항목, 성과품 범위를 정리합니다.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;구조해석·검토:&lt;/strong&gt; 합의한 설치 조건과 하중에 따라 지지 구조와 기존 건물을 검토합니다.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;결과 확인:&lt;/strong&gt; 검토에 사용한 도면, 조건과 보완 사항을 확인합니다.&lt;/li&gt;&lt;/ol&gt;
+&lt;h2 id="results"&gt;검토 결과를 받을 때 확인할 것&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;실제 설치할 배치·모듈·지지대와 검토 대상이 일치하는지&lt;/li&gt;&lt;li&gt;확정되지 않은 사항이나 별도 조사 조건이 남아 있는지&lt;/li&gt;&lt;li&gt;보강이 필요한 경우 적용 위치와 후속 협의 범위가 무엇인지&lt;/li&gt;&lt;li&gt;설치 계획이 변경되면 어떤 자료를 다시 보내야 하는지&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;설치 높이, 경사, 배치나 고정부가 바뀌면 이전 검토 결과가 그대로 적용되는지 다시 확인해야 합니다. 관련 하중은 &lt;a href="https://starichdog-collab.github.io/solar-structural-review/wind-load.html"&gt;풍하중 안내&lt;/a&gt;와 &lt;a href="https://starichdog-collab.github.io/solar-structural-review/snow-load.html"&gt;적설하중 안내&lt;/a&gt;를 참고하세요.&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;지붕 도면이 없으면 어떤 자료부터 보내나요?&lt;/summary&gt;&lt;p&gt;보유한 건물 자료, 현장 사진과 설치 계획을 먼저 정리합니다. 자료가 부족한 부분의 조사 필요성과 검토 가능 범위는 상담을 통해 정합니다.&lt;/p&gt;&lt;/details&gt;
+&lt;details&gt;&lt;summary&gt;구조검토 비용과 기간은 용량으로만 정하나요?&lt;/summary&gt;&lt;p&gt;용량 외에도 설치 형식, 기존 건물 검토 여부, 자료 준비 상태와 요구 성과품에 따라 업무가 달라집니다. 검토 범위를 정한 뒤 일정과 비용을 협의합니다.&lt;/p&gt;&lt;/details&gt;
+&lt;p class="source"&gt;업무 범위와 상담자료: &lt;a href="https://dooja.co.kr/services/solar-structural-review"&gt;두자 공식 태양광 구조검토 안내&lt;/a&gt;. 건물주용 기초 설명은 &lt;a href="https://starichdog-collab.github.io/solar-guide/solar-roof-structure.html"&gt;지붕 구조안전 안내&lt;/a&gt;에서 볼 수 있습니다.&lt;/p&gt;&lt;p class="source"&gt;이 안내는 일반 정보입니다. 개별 현장의 설계·시공과 구조안전 판단은 현장 자료 및 관련 전문가의 검토를 바탕으로 진행합니다.&lt;/p&gt;&lt;section class="cta"&gt;&lt;h2&gt;두자에 현장 조건을 알려주세요&lt;/h2&gt;&lt;p&gt;현장 주소, 설치 목적, 보유 도면과 희망 일정을 정리하면 필요한 업무 범위를 상담하기 좋습니다.&lt;/p&gt;&lt;a class="button btn" href="https://dooja.co.kr/services/solar-structural-review"&gt;태양광 구조검토 상담 안내 →&lt;/a&gt;&lt;/section&gt;&lt;p&gt;설치 공사와 함께 견적을 검토한다면 &lt;a href="https://starichdog-collab.github.io/solar-guide/solar-installation-cost.html"&gt;설치비 항목별 비교 안내&lt;/a&gt;에서 구조검토·보강 공사의 포함 범위를 확인하세요.&lt;/p&gt;&lt;p&gt;&lt;a href="https://starichdog-collab.github.io/solar-structural-review/structural-calculation-report.html"&gt;구조계산서와 시공도면 대조 방법 →&lt;/a&gt;&lt;/p&gt;&lt;aside class="related" aria-label="관련 가이드"&gt;&lt;h2&gt;함께 확인할 가이드&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://starichdog-collab.github.io/solar-structural-review/wind-load.html"&gt;풍하중 검토&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://starichdog-collab.github.io/solar-structural-review/snow-load.html"&gt;적설하중 검토&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/aside&gt;&lt;/article&gt;</description>
     </item>
     <item>
       <title>태양광 적설하중 검토 | 눈 쌓임·지붕·지지대 확인 | 두자건설</title>
       <link>https://starichdog-collab.github.io/solar-structural-review/snow-load.html</link>
       <guid isPermaLink="true">https://starichdog-collab.github.io/solar-structural-review/snow-load.html</guid>
-      <description><![CDATA[<article><h1>태양광 적설하중 검토: 눈 쌓임과 지붕 조건</h1><p class="byline">운영: <a href="https://dooja.co.kr/">두자건설(DOOJA)</a> · 내용 업데이트: <time datetime="2026-10-22">2026년 10월 22일</time></p>
-<p>태양광 적설하중 검토는 눈이 쌓일 수 있는 조건과 설비·지붕의 지지 능력을 함께 살피는 과정입니다. <strong>지역의 적설 조건, 지붕 형상과 모듈 배열</strong>을 자료로 정리하는 것부터 시작합니다.</p><figure class="solar-figure"><img style="max-width:100%;height:auto" src="https://starichdog-collab.github.io/assets/images/factory-rooftop-solar-1600.webp" width="1600" height="900" alt="공장 금속 지붕 위에 통로를 두고 배치된 태양광 모듈 전경"><figcaption>공장 지붕 태양광의 배치와 주변 환경을 설명하기 위한 예시 이미지.</figcaption></figure>
-<h2 id="conditions">눈이 쌓이는 조건을 기록하세요</h2>
-<p>지붕의 단차나 주변 장애물, 설비 배치에 따라 눈이 쌓이는 모습이 달라질 수 있습니다. 현장에 과거의 적설 사진이나 피해 이력이 있다면 검토 자료와 함께 공유하세요. 사진이나 눈의 깊이만으로 설계하중을 결정하지는 않습니다.</p>
-<div class="table-scroll"><table><caption>적설 검토 상담을 위한 확인 목록</caption><thead><tr><th scope="col">구분</th><th scope="col">공유할 내용</th></tr></thead><tbody>
-<tr><th scope="row">현장</th><td>설치 주소, 주변 지형과 과거 적설 관련 기록</td></tr>
-<tr><th scope="row">지붕</th><td>경사·단차·배수구와 주변 장애물 위치</td></tr>
-<tr><th scope="row">설비</th><td>모듈 경사와 배열, 지지대 형식과 고정 조건</td></tr>
-<tr><th scope="row">기존 구조</th><td>구조도면, 추가 설비와 보강·보수 이력</td></tr>
-</tbody></table></div>
-<h2 id="system">모듈과 지붕을 구분해서 확인합니다</h2>
-<p>눈의 영향을 받는 대상은 모듈만이 아닙니다. 모듈의 지지 조건, 레일과 연결부, 기존 지붕까지 함께 검토해야 합니다. 설비 자체의 무게와 다른 하중을 어떻게 조합할지는 적용 기준과 현장 조건에 따라 전문가가 판단합니다.</p>
-<p>모듈 사양서에 표시된 하중 성능도 시험·고정 조건이 있는 자료입니다. 실제 설치 조건과 비교해서 확인하며, 그 수치를 건물 전체의 허용하중으로 사용하지 않습니다.</p>
-<h2 id="maintenance">운영 계획에서 확인할 질문</h2>
-<ul><li>눈이 쌓이거나 내려오는 위치와 점검 접근 경로를 확인했나요?</li><li>배수구 주변과 설비 아래의 상태를 어떻게 점검하나요?</li><li>손상이나 변형이 발견되면 누구에게 알리고 점검을 요청하나요?</li><li>기존 설치 자료와 보수 이력을 보관할 담당자가 있나요?</li></ul>
-<details><summary>모듈의 경사가 있으면 적설 검토가 필요 없나요?</summary><p>경사만으로 눈이 항상 제거된다고 볼 수 없습니다. 실제 지붕과 설비 조건을 바탕으로 검토 범위를 확인합니다.</p></details>
-<details><summary>눈이 쌓인 지붕에 올라가 직접 확인해야 하나요?</summary><p>미끄러짐·추락과 전기설비 위험이 있으므로 접근 방법은 관리 담당자와 전문 점검업체에 확인하세요. 기존 기록과 안전한 위치에서 확보한 자료를 먼저 전달할 수 있습니다.</p></details>
-<p>다른 하중 조건은 <a href="https://starichdog-collab.github.io/solar-structural-review/wind-load.html">풍하중 검토 안내</a>, 도면 준비 방법은 <a href="https://starichdog-collab.github.io/solar-structural-review/roof-solar-review.html">지붕 태양광 구조검토 자료</a>를 참고하세요.</p>
-<p class="source">참고: <a href="https://www.energy.gov/cmei/femp/solar-photovoltaic-hardening-resilience-winter-weather" rel="noopener" target="_blank">미국 에너지부 태양광 설비의 겨울철 기상 대응 안내</a>. 국내 적용 하중과 구조 안전성은 개별 검토가 필요합니다.</p><p class="source">이 안내는 일반 정보입니다. 개별 현장의 설계·시공과 구조안전 판단은 현장 자료 및 관련 전문가의 검토를 바탕으로 진행합니다.</p><section class="cta"><h2>두자에 현장 조건을 알려주세요</h2><p>현장 주소, 설치 목적, 보유 도면과 희망 일정을 정리하면 필요한 업무 범위를 상담하기 좋습니다.</p><a class="button btn" href="https://dooja.co.kr/services/solar-structural-review">태양광 구조검토 상담 안내 →</a></section><aside class="related" aria-label="관련 가이드"><h2>함께 확인할 가이드</h2><ul><li><a href="https://starichdog-collab.github.io/solar-structural-review/roof-solar-review.html">공장 지붕 검토자료</a></li><li><a href="https://starichdog-collab.github.io/solar-structural-review/wind-load.html">풍하중 검토</a></li></ul></aside></article>]]></description>
+      <description>&lt;article&gt;&lt;h1&gt;태양광 적설하중 검토: 눈 쌓임과 지붕 조건&lt;/h1&gt;&lt;p class="byline"&gt;운영: &lt;a href="https://dooja.co.kr/"&gt;두자건설(DOOJA)&lt;/a&gt; · 내용 업데이트: &lt;time datetime="2026-10-22"&gt;2026년 10월 22일&lt;/time&gt;&lt;/p&gt;
+&lt;p&gt;태양광 적설하중 검토는 눈이 쌓일 수 있는 조건과 설비·지붕의 지지 능력을 함께 살피는 과정입니다. &lt;strong&gt;지역의 적설 조건, 지붕 형상과 모듈 배열&lt;/strong&gt;을 자료로 정리하는 것부터 시작합니다.&lt;/p&gt;&lt;figure class="solar-figure"&gt;&lt;img style="max-width:100%;height:auto" src="https://starichdog-collab.github.io/assets/images/factory-rooftop-solar-1600.webp" width="1600" height="900" alt="공장 금속 지붕 위에 통로를 두고 배치된 태양광 모듈 전경"&gt;&lt;figcaption&gt;공장 지붕 태양광의 배치와 주변 환경을 설명하기 위한 예시 이미지.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id="conditions"&gt;눈이 쌓이는 조건을 기록하세요&lt;/h2&gt;
+&lt;p&gt;지붕의 단차나 주변 장애물, 설비 배치에 따라 눈이 쌓이는 모습이 달라질 수 있습니다. 현장에 과거의 적설 사진이나 피해 이력이 있다면 검토 자료와 함께 공유하세요. 사진이나 눈의 깊이만으로 설계하중을 결정하지는 않습니다.&lt;/p&gt;
+&lt;div class="table-scroll"&gt;&lt;table&gt;&lt;caption&gt;적설 검토 상담을 위한 확인 목록&lt;/caption&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;구분&lt;/th&gt;&lt;th scope="col"&gt;공유할 내용&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;현장&lt;/th&gt;&lt;td&gt;설치 주소, 주변 지형과 과거 적설 관련 기록&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;지붕&lt;/th&gt;&lt;td&gt;경사·단차·배수구와 주변 장애물 위치&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;설비&lt;/th&gt;&lt;td&gt;모듈 경사와 배열, 지지대 형식과 고정 조건&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;기존 구조&lt;/th&gt;&lt;td&gt;구조도면, 추가 설비와 보강·보수 이력&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;h2 id="system"&gt;모듈과 지붕을 구분해서 확인합니다&lt;/h2&gt;
+&lt;p&gt;눈의 영향을 받는 대상은 모듈만이 아닙니다. 모듈의 지지 조건, 레일과 연결부, 기존 지붕까지 함께 검토해야 합니다. 설비 자체의 무게와 다른 하중을 어떻게 조합할지는 적용 기준과 현장 조건에 따라 전문가가 판단합니다.&lt;/p&gt;
+&lt;p&gt;모듈 사양서에 표시된 하중 성능도 시험·고정 조건이 있는 자료입니다. 실제 설치 조건과 비교해서 확인하며, 그 수치를 건물 전체의 허용하중으로 사용하지 않습니다.&lt;/p&gt;
+&lt;h2 id="maintenance"&gt;운영 계획에서 확인할 질문&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;눈이 쌓이거나 내려오는 위치와 점검 접근 경로를 확인했나요?&lt;/li&gt;&lt;li&gt;배수구 주변과 설비 아래의 상태를 어떻게 점검하나요?&lt;/li&gt;&lt;li&gt;손상이나 변형이 발견되면 누구에게 알리고 점검을 요청하나요?&lt;/li&gt;&lt;li&gt;기존 설치 자료와 보수 이력을 보관할 담당자가 있나요?&lt;/li&gt;&lt;/ul&gt;
+&lt;details&gt;&lt;summary&gt;모듈의 경사가 있으면 적설 검토가 필요 없나요?&lt;/summary&gt;&lt;p&gt;경사만으로 눈이 항상 제거된다고 볼 수 없습니다. 실제 지붕과 설비 조건을 바탕으로 검토 범위를 확인합니다.&lt;/p&gt;&lt;/details&gt;
+&lt;details&gt;&lt;summary&gt;눈이 쌓인 지붕에 올라가 직접 확인해야 하나요?&lt;/summary&gt;&lt;p&gt;미끄러짐·추락과 전기설비 위험이 있으므로 접근 방법은 관리 담당자와 전문 점검업체에 확인하세요. 기존 기록과 안전한 위치에서 확보한 자료를 먼저 전달할 수 있습니다.&lt;/p&gt;&lt;/details&gt;
+&lt;p&gt;다른 하중 조건은 &lt;a href="https://starichdog-collab.github.io/solar-structural-review/wind-load.html"&gt;풍하중 검토 안내&lt;/a&gt;, 도면 준비 방법은 &lt;a href="https://starichdog-collab.github.io/solar-structural-review/roof-solar-review.html"&gt;지붕 태양광 구조검토 자료&lt;/a&gt;를 참고하세요.&lt;/p&gt;
+&lt;p class="source"&gt;참고: &lt;a href="https://www.energy.gov/cmei/femp/solar-photovoltaic-hardening-resilience-winter-weather" rel="noopener" target="_blank"&gt;미국 에너지부 태양광 설비의 겨울철 기상 대응 안내&lt;/a&gt;. 국내 적용 하중과 구조 안전성은 개별 검토가 필요합니다.&lt;/p&gt;&lt;p class="source"&gt;이 안내는 일반 정보입니다. 개별 현장의 설계·시공과 구조안전 판단은 현장 자료 및 관련 전문가의 검토를 바탕으로 진행합니다.&lt;/p&gt;&lt;section class="cta"&gt;&lt;h2&gt;두자에 현장 조건을 알려주세요&lt;/h2&gt;&lt;p&gt;현장 주소, 설치 목적, 보유 도면과 희망 일정을 정리하면 필요한 업무 범위를 상담하기 좋습니다.&lt;/p&gt;&lt;a class="button btn" href="https://dooja.co.kr/services/solar-structural-review"&gt;태양광 구조검토 상담 안내 →&lt;/a&gt;&lt;/section&gt;&lt;aside class="related" aria-label="관련 가이드"&gt;&lt;h2&gt;함께 확인할 가이드&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://starichdog-collab.github.io/solar-structural-review/roof-solar-review.html"&gt;공장 지붕 검토자료&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://starichdog-collab.github.io/solar-structural-review/wind-load.html"&gt;풍하중 검토&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/aside&gt;&lt;/article&gt;</description>
     </item>
     <item>
       <title>태양광 풍하중 검토 | 모듈·지지대·앵커 확인사항 | 두자건설</title>
       <link>https://starichdog-collab.github.io/solar-structural-review/wind-load.html</link>
       <guid isPermaLink="true">https://starichdog-collab.github.io/solar-structural-review/wind-load.html</guid>
-      <description><![CDATA[<article><h1>태양광 풍하중 검토: 모듈에서 고정부까지</h1><p class="byline">운영: <a href="https://dooja.co.kr/">두자건설(DOOJA)</a> · 내용 업데이트: <time datetime="2026-10-22">2026년 10월 22일</time></p>
-<p>태양광 구조물에는 바람이 누르는 힘과 들어 올리는 힘이 작용할 수 있습니다. 검토할 때는 모듈의 제품 사양뿐 아니라 <strong>레일·지지대·고정부와 기존 건물로 이어지는 연결 조건</strong>을 함께 살펴봅니다.</p><figure class="solar-figure"><img style="max-width:100%;height:auto" src="https://starichdog-collab.github.io/assets/images/solar-module-mounting-1600.webp" width="1600" height="900" alt="금속 지붕 위 태양광 모듈의 유리 표면과 알루미늄 테두리, 지지부"><figcaption>태양광 모듈과 지지 구조의 구성 예시. 실제 상세는 현장별 설계에 따릅니다.</figcaption></figure>
-<h2 id="conditions">현장 조건이 중요한 이유</h2>
-<p>설치 위치와 주변 환경, 건물 높이, 지붕 형상과 모듈의 배치가 다르면 바람을 받는 조건도 달라질 수 있습니다. 다른 현장의 결과를 그대로 사용하기보다 실제 대상의 자료와 적용할 설계기준을 확인해야 합니다.</p>
-<div class="table-scroll"><table><caption>풍하중 검토를 위해 공유할 정보</caption><thead><tr><th scope="col">정보</th><th scope="col">준비 내용</th></tr></thead><tbody>
-<tr><th scope="row">현장 위치</th><td>주소, 주변 지형과 건물·장애물 현황</td></tr>
-<tr><th scope="row">건축물</th><td>건물 높이, 지붕 형상과 설치 구역</td></tr>
-<tr><th scope="row">모듈 배치</th><td>경사, 설치 높이, 배열과 지붕 가장자리로부터의 위치</td></tr>
-<tr><th scope="row">고정 방식</th><td>레일, 브래킷, 앵커 또는 클램프의 상세와 제품 자료</td></tr>
-</tbody></table></div>
-<h2 id="connections">어느 부분이 힘을 전달하나요?</h2>
-<p>모듈에 작용한 힘은 고정부와 지지 구조를 거쳐 건물 또는 기초로 전달됩니다. 중간 연결부를 포함한 전체 경로가 검토 대상입니다. 제품 시험 성적을 확인할 때에도 실제 설치에 사용하는 고정 위치와 방식이 자료의 조건에 맞는지 확인합니다.</p>
-<p>기존 자료에 “풍속” 숫자가 적혀 있더라도 그 수치의 정의와 적용 조건이 같다는 뜻은 아닙니다. 다른 현장의 수치만 복사하거나 고정부의 간격을 임의로 정하지 말고, 검토자가 기준과 입력자료를 확인하도록 해야 합니다.</p>
-<h2 id="changes">설치 계획이 바뀌면 알려야 할 내용</h2>
-<ul><li>모듈의 크기·수량·경사·설치 높이 변경</li><li>레일이나 지지대 규격, 고정 방식의 변경</li><li>설치 구역 이동 또는 지붕 가장자리 주변의 배치 변경</li><li>기존 지붕이나 연결 부위에서 새로 확인된 손상</li></ul>
-<details><summary>모듈이 시험을 통과하면 지지대도 안전한가요?</summary><p>모듈과 지지대·접합부·기존 건물은 서로 다른 검토 대상입니다. 제품 시험 자료만으로 설치 시스템 전체의 안전성을 확정하지 않습니다.</p></details>
-<p>자료를 묶는 방법은 <a href="https://starichdog-collab.github.io/solar-structural-review/roof-solar-review.html">공장 지붕 구조검토 준비자료</a>를 참고하세요. 바람 외의 조건은 <a href="https://starichdog-collab.github.io/solar-structural-review/snow-load.html">태양광 적설하중 안내</a>와 함께 확인할 수 있습니다.</p>
-<p class="source">참고: <a href="https://www.energy.gov/cmei/femp/severe-weather-resilience-solar-photovoltaic-system-design" rel="noopener" target="_blank">미국 에너지부 태양광 설비의 악천후 대응 설계 안내</a>. 해당 자료의 해외 기준·수치를 국내 현장의 설계값으로 그대로 적용하지 않습니다.</p><p class="source">이 안내는 일반 정보입니다. 개별 현장의 설계·시공과 구조안전 판단은 현장 자료 및 관련 전문가의 검토를 바탕으로 진행합니다.</p><section class="cta"><h2>두자에 현장 조건을 알려주세요</h2><p>현장 주소, 설치 목적, 보유 도면과 희망 일정을 정리하면 필요한 업무 범위를 상담하기 좋습니다.</p><a class="button btn" href="https://dooja.co.kr/services/solar-structural-review">태양광 구조검토 상담 안내 →</a></section><aside class="related" aria-label="관련 가이드"><h2>함께 확인할 가이드</h2><ul><li><a href="https://starichdog-collab.github.io/solar-structural-review/roof-solar-review.html">공장 지붕 검토자료</a></li><li><a href="https://starichdog-collab.github.io/solar-structural-review/snow-load.html">적설하중 검토</a></li></ul></aside></article>]]></description>
+      <description>&lt;article&gt;&lt;h1&gt;태양광 풍하중 검토: 모듈에서 고정부까지&lt;/h1&gt;&lt;p class="byline"&gt;운영: &lt;a href="https://dooja.co.kr/"&gt;두자건설(DOOJA)&lt;/a&gt; · 내용 업데이트: &lt;time datetime="2026-10-22"&gt;2026년 10월 22일&lt;/time&gt;&lt;/p&gt;
+&lt;p&gt;태양광 구조물에는 바람이 누르는 힘과 들어 올리는 힘이 작용할 수 있습니다. 검토할 때는 모듈의 제품 사양뿐 아니라 &lt;strong&gt;레일·지지대·고정부와 기존 건물로 이어지는 연결 조건&lt;/strong&gt;을 함께 살펴봅니다.&lt;/p&gt;&lt;figure class="solar-figure"&gt;&lt;img style="max-width:100%;height:auto" src="https://starichdog-collab.github.io/assets/images/solar-module-mounting-1600.webp" width="1600" height="900" alt="금속 지붕 위 태양광 모듈의 유리 표면과 알루미늄 테두리, 지지부"&gt;&lt;figcaption&gt;태양광 모듈과 지지 구조의 구성 예시. 실제 상세는 현장별 설계에 따릅니다.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id="conditions"&gt;현장 조건이 중요한 이유&lt;/h2&gt;
+&lt;p&gt;설치 위치와 주변 환경, 건물 높이, 지붕 형상과 모듈의 배치가 다르면 바람을 받는 조건도 달라질 수 있습니다. 다른 현장의 결과를 그대로 사용하기보다 실제 대상의 자료와 적용할 설계기준을 확인해야 합니다.&lt;/p&gt;
+&lt;div class="table-scroll"&gt;&lt;table&gt;&lt;caption&gt;풍하중 검토를 위해 공유할 정보&lt;/caption&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;정보&lt;/th&gt;&lt;th scope="col"&gt;준비 내용&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;현장 위치&lt;/th&gt;&lt;td&gt;주소, 주변 지형과 건물·장애물 현황&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;건축물&lt;/th&gt;&lt;td&gt;건물 높이, 지붕 형상과 설치 구역&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;모듈 배치&lt;/th&gt;&lt;td&gt;경사, 설치 높이, 배열과 지붕 가장자리로부터의 위치&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;고정 방식&lt;/th&gt;&lt;td&gt;레일, 브래킷, 앵커 또는 클램프의 상세와 제품 자료&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;h2 id="connections"&gt;어느 부분이 힘을 전달하나요?&lt;/h2&gt;
+&lt;p&gt;모듈에 작용한 힘은 고정부와 지지 구조를 거쳐 건물 또는 기초로 전달됩니다. 중간 연결부를 포함한 전체 경로가 검토 대상입니다. 제품 시험 성적을 확인할 때에도 실제 설치에 사용하는 고정 위치와 방식이 자료의 조건에 맞는지 확인합니다.&lt;/p&gt;
+&lt;p&gt;기존 자료에 “풍속” 숫자가 적혀 있더라도 그 수치의 정의와 적용 조건이 같다는 뜻은 아닙니다. 다른 현장의 수치만 복사하거나 고정부의 간격을 임의로 정하지 말고, 검토자가 기준과 입력자료를 확인하도록 해야 합니다.&lt;/p&gt;
+&lt;h2 id="changes"&gt;설치 계획이 바뀌면 알려야 할 내용&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;모듈의 크기·수량·경사·설치 높이 변경&lt;/li&gt;&lt;li&gt;레일이나 지지대 규격, 고정 방식의 변경&lt;/li&gt;&lt;li&gt;설치 구역 이동 또는 지붕 가장자리 주변의 배치 변경&lt;/li&gt;&lt;li&gt;기존 지붕이나 연결 부위에서 새로 확인된 손상&lt;/li&gt;&lt;/ul&gt;
+&lt;details&gt;&lt;summary&gt;모듈이 시험을 통과하면 지지대도 안전한가요?&lt;/summary&gt;&lt;p&gt;모듈과 지지대·접합부·기존 건물은 서로 다른 검토 대상입니다. 제품 시험 자료만으로 설치 시스템 전체의 안전성을 확정하지 않습니다.&lt;/p&gt;&lt;/details&gt;
+&lt;p&gt;자료를 묶는 방법은 &lt;a href="https://starichdog-collab.github.io/solar-structural-review/roof-solar-review.html"&gt;공장 지붕 구조검토 준비자료&lt;/a&gt;를 참고하세요. 바람 외의 조건은 &lt;a href="https://starichdog-collab.github.io/solar-structural-review/snow-load.html"&gt;태양광 적설하중 안내&lt;/a&gt;와 함께 확인할 수 있습니다.&lt;/p&gt;
+&lt;p class="source"&gt;참고: &lt;a href="https://www.energy.gov/cmei/femp/severe-weather-resilience-solar-photovoltaic-system-design" rel="noopener" target="_blank"&gt;미국 에너지부 태양광 설비의 악천후 대응 설계 안내&lt;/a&gt;. 해당 자료의 해외 기준·수치를 국내 현장의 설계값으로 그대로 적용하지 않습니다.&lt;/p&gt;&lt;p class="source"&gt;이 안내는 일반 정보입니다. 개별 현장의 설계·시공과 구조안전 판단은 현장 자료 및 관련 전문가의 검토를 바탕으로 진행합니다.&lt;/p&gt;&lt;section class="cta"&gt;&lt;h2&gt;두자에 현장 조건을 알려주세요&lt;/h2&gt;&lt;p&gt;현장 주소, 설치 목적, 보유 도면과 희망 일정을 정리하면 필요한 업무 범위를 상담하기 좋습니다.&lt;/p&gt;&lt;a class="button btn" href="https://dooja.co.kr/services/solar-structural-review"&gt;태양광 구조검토 상담 안내 →&lt;/a&gt;&lt;/section&gt;&lt;aside class="related" aria-label="관련 가이드"&gt;&lt;h2&gt;함께 확인할 가이드&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://starichdog-collab.github.io/solar-structural-review/roof-solar-review.html"&gt;공장 지붕 검토자료&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://starichdog-collab.github.io/solar-structural-review/snow-load.html"&gt;적설하중 검토&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/aside&gt;&lt;/article&gt;</description>
     </item>
-  <item><title>태양광 구조계산서 확인법 | 도면 대조·변경 관리 | 두자건설</title><link>https://starichdog-collab.github.io/solar-structural-review/structural-calculation-report.html</link><guid isPermaLink="true">https://starichdog-collab.github.io/solar-structural-review/structural-calculation-report.html</guid><description><![CDATA[<article><h1>태양광 구조계산서, 시공도면과 무엇을 맞춰 볼까요?</h1><p class="byline">운영: <a href="https://dooja.co.kr/">두자건설(DOOJA)</a> · 게시: <time datetime="2026-10-22">2026년 10월 22일</time> · 내용 업데이트: <time datetime="2026-10-23">2026년 10월 23일</time></p><p><strong>태양광 구조계산서는 특정 현장과 설치 조건을 바탕으로 구조부재·접합부 등의 검토 과정과 결과를 정리한 문서입니다.</strong> 건물주나 시공 담당자는 계산을 직접 재현하기보다, 문서가 실제 설치할 설비와 같은 대상을 다루는지 먼저 대조할 수 있습니다. 이 글은 그 대조 순서와 질문 목록입니다.</p><figure class="solar-figure"><img src="https://starichdog-collab.github.io/assets/images/solar-structural-planning-1600.webp" srcset="https://starichdog-collab.github.io/assets/images/solar-structural-planning-640.webp 640w, https://starichdog-collab.github.io/assets/images/solar-structural-planning-1024.webp 1024w, https://starichdog-collab.github.io/assets/images/solar-structural-planning-1600.webp 1600w" sizes="(max-width: 700px) calc(100vw - 96px), (max-width: 1050px) calc(100vw - 112px), 940px" width="1600" height="900" alt="태양광 지붕을 바라보는 창가 책상에 놓인 건축 도면과 안전모, 측정 도구" loading="eager" decoding="async" fetchpriority="high"><figcaption>태양광 설치·구조검토 준비자료를 설명하기 위한 예시 이미지.</figcaption></figure>
-<h2 id="scope">1. 무엇을 검토한 문서인지 확인하세요</h2>
-<p>표지의 현장명·주소·건물 동, 설치 구역을 배치도와 맞춰 보세요. 지지대만 검토한 문서인지, 접합부·기초 또는 기존 건축물까지 포함하는지도 확인합니다. 제목에 ‘태양광’이 적혀 있다는 사실만으로 전체 범위가 포함되었다고 판단하지 않습니다.</p>
-<p>검토에 사용한 구조도면과 태양광 배치도에는 도면 번호·개정번호·작성일을 함께 표시해 두는 것이 좋습니다. 검토 당시 미정이었던 자재나 조사 항목은 별도 목록으로 남겨 담당자에게 확인하세요.</p>
-<h2 id="compare">2. 구조계산서와 시공도면을 나란히 대조하세요</h2>
-<div class="table-scroll" role="region" aria-label="구조계산서 대조표" tabindex="0"><table><caption>건물주·시공 담당자가 확인할 문서 일치 항목</caption><thead><tr><th scope="col">대조 항목</th><th scope="col">문서에서 찾을 내용</th><th scope="col">차이가 있으면 전달할 자료</th></tr></thead><tbody>
-<tr><th scope="row">대상·범위</th><td>현장 주소, 건물 동, 설치 구역, 검토 대상 부재</td><td>최신 배치도와 실제 설치 구역 표시</td></tr>
-<tr><th scope="row">모듈</th><td>제품명, 크기·중량, 수량과 배열</td><td>변경 제품 사양서와 배치도</td></tr>
-<tr><th scope="row">지지 구조</th><td>부재 규격·재질, 지지 위치, 설치 높이·경사</td><td>변경 부위가 표시된 상세도</td></tr>
-<tr><th scope="row">연결부</th><td>볼트·앵커·클램프 등 고정부 형식과 연결 대상</td><td>제품 자료, 접합 상세와 현장 확인 자료</td></tr>
-<tr><th scope="row">기존 건물</th><td>적용 도면, 부재 상태와 보강·변경 사항</td><td>증축·보강 이력, 조사 결과와 사진 위치도</td></tr>
-<tr><th scope="row">결론·조건</th><td>검토 범위의 결론, 보강·추가 확인·시공 조건</td><td>조치 담당자, 반영 도면과 완료 확인 기록</td></tr>
-</tbody></table></div>
-<h2 id="inputs">3. 하중 숫자보다 입력 조건과 적용 근거를 물어보세요</h2>
-<p>설비 자중, 풍하중·적설하중 등은 현장 위치와 구조·배치 조건을 바탕으로 검토합니다. 계산서에 적힌 설계기준의 명칭과 판, 사용한 자료의 출처, 미확인 조건을 담당자에게 설명해 달라고 요청하세요. 이 안내에서는 특정 풍속·적설량이나 허용하중을 모든 현장에 공통으로 제시하지 않습니다.</p>
-<p>제품의 시험성적서는 해당 제품과 시험 조건에 관한 자료입니다. 이것을 기존 지붕이나 전체 설치 시스템의 구조계산서와 같은 의미로 읽지 않도록, 각각의 적용 범위를 확인하세요. 하중의 기초는 <a href="https://starichdog-collab.github.io/solar-structural-review/wind-load.html">풍하중</a>과 <a href="https://starichdog-collab.github.io/solar-structural-review/snow-load.html">적설하중 안내</a>에서 볼 수 있습니다.</p>
-<h2 id="change">4. 변경이 생기면 이전 결론의 적용 여부를 확인하세요</h2>
-<p>제품·배치·지지 위치·고정 방식 중 하나가 바뀌었다면 기존 검토 담당자에게 변경 전후 자료를 전달합니다. 재검토가 필요한지, 기존 문서의 어느 범위까지 유효한지는 담당자가 판단하도록 합니다. 설치 용량(kW)이 같아도 상세 조건까지 같다는 뜻은 아닙니다.</p>
-<div class="table-scroll" role="region" aria-label="설치 변경사항 전달표" tabindex="0"><table><caption>변경사항 전달 양식 — 실제 검토 결과가 아닌 기록용 예시</caption><thead><tr><th scope="col">기록란</th><th scope="col">작성할 내용</th></tr></thead><tbody>
-<tr><th scope="row">문서 기준</th><td>현장명 / 기존 계산서 번호·작성일 / 변경 도면 번호·개정번호</td></tr>
-<tr><th scope="row">변경 내역</th><td>변경 전 → 변경 후 / 변경 이유 / 관련 사양서</td></tr>
-<tr><th scope="row">확인 요청</th><td>재검토 필요 여부 / 추가로 필요한 자료 / 반영할 도면</td></tr>
-<tr><th scope="row">회신 관리</th><td>담당자 / 회신일 / 확인된 조건 / 미결 항목</td></tr>
-</tbody></table></div>
+  <item><title>태양광 구조계산서 확인법 | 도면 대조·변경 관리 | 두자건설</title><link>https://starichdog-collab.github.io/solar-structural-review/structural-calculation-report.html</link><guid isPermaLink="true">https://starichdog-collab.github.io/solar-structural-review/structural-calculation-report.html</guid><description>&lt;article&gt;&lt;h1&gt;태양광 구조계산서, 시공도면과 무엇을 맞춰 볼까요?&lt;/h1&gt;&lt;p class="byline"&gt;운영: &lt;a href="https://dooja.co.kr/"&gt;두자건설(DOOJA)&lt;/a&gt; · 게시: &lt;time datetime="2026-10-22"&gt;2026년 10월 22일&lt;/time&gt; · 내용 업데이트: &lt;time datetime="2026-10-23"&gt;2026년 10월 23일&lt;/time&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;태양광 구조계산서는 특정 현장과 설치 조건을 바탕으로 구조부재·접합부 등의 검토 과정과 결과를 정리한 문서입니다.&lt;/strong&gt; 건물주나 시공 담당자는 계산을 직접 재현하기보다, 문서가 실제 설치할 설비와 같은 대상을 다루는지 먼저 대조할 수 있습니다. 이 글은 그 대조 순서와 질문 목록입니다.&lt;/p&gt;&lt;figure class="solar-figure"&gt;&lt;img src="https://starichdog-collab.github.io/assets/images/solar-structural-planning-1600.webp" srcset="https://starichdog-collab.github.io/assets/images/solar-structural-planning-640.webp 640w, https://starichdog-collab.github.io/assets/images/solar-structural-planning-1024.webp 1024w, https://starichdog-collab.github.io/assets/images/solar-structural-planning-1600.webp 1600w" sizes="(max-width: 700px) calc(100vw - 96px), (max-width: 1050px) calc(100vw - 112px), 940px" width="1600" height="900" alt="태양광 지붕을 바라보는 창가 책상에 놓인 건축 도면과 안전모, 측정 도구" loading="eager" decoding="async" fetchpriority="high"&gt;&lt;figcaption&gt;태양광 설치·구조검토 준비자료를 설명하기 위한 예시 이미지.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id="scope"&gt;1. 무엇을 검토한 문서인지 확인하세요&lt;/h2&gt;
+&lt;p&gt;표지의 현장명·주소·건물 동, 설치 구역을 배치도와 맞춰 보세요. 지지대만 검토한 문서인지, 접합부·기초 또는 기존 건축물까지 포함하는지도 확인합니다. 제목에 ‘태양광’이 적혀 있다는 사실만으로 전체 범위가 포함되었다고 판단하지 않습니다.&lt;/p&gt;
+&lt;p&gt;검토에 사용한 구조도면과 태양광 배치도에는 도면 번호·개정번호·작성일을 함께 표시해 두는 것이 좋습니다. 검토 당시 미정이었던 자재나 조사 항목은 별도 목록으로 남겨 담당자에게 확인하세요.&lt;/p&gt;
+&lt;h2 id="compare"&gt;2. 구조계산서와 시공도면을 나란히 대조하세요&lt;/h2&gt;
+&lt;div class="table-scroll" role="region" aria-label="구조계산서 대조표" tabindex="0"&gt;&lt;table&gt;&lt;caption&gt;건물주·시공 담당자가 확인할 문서 일치 항목&lt;/caption&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;대조 항목&lt;/th&gt;&lt;th scope="col"&gt;문서에서 찾을 내용&lt;/th&gt;&lt;th scope="col"&gt;차이가 있으면 전달할 자료&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;대상·범위&lt;/th&gt;&lt;td&gt;현장 주소, 건물 동, 설치 구역, 검토 대상 부재&lt;/td&gt;&lt;td&gt;최신 배치도와 실제 설치 구역 표시&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;모듈&lt;/th&gt;&lt;td&gt;제품명, 크기·중량, 수량과 배열&lt;/td&gt;&lt;td&gt;변경 제품 사양서와 배치도&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;지지 구조&lt;/th&gt;&lt;td&gt;부재 규격·재질, 지지 위치, 설치 높이·경사&lt;/td&gt;&lt;td&gt;변경 부위가 표시된 상세도&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;연결부&lt;/th&gt;&lt;td&gt;볼트·앵커·클램프 등 고정부 형식과 연결 대상&lt;/td&gt;&lt;td&gt;제품 자료, 접합 상세와 현장 확인 자료&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;기존 건물&lt;/th&gt;&lt;td&gt;적용 도면, 부재 상태와 보강·변경 사항&lt;/td&gt;&lt;td&gt;증축·보강 이력, 조사 결과와 사진 위치도&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;결론·조건&lt;/th&gt;&lt;td&gt;검토 범위의 결론, 보강·추가 확인·시공 조건&lt;/td&gt;&lt;td&gt;조치 담당자, 반영 도면과 완료 확인 기록&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;h2 id="inputs"&gt;3. 하중 숫자보다 입력 조건과 적용 근거를 물어보세요&lt;/h2&gt;
+&lt;p&gt;설비 자중, 풍하중·적설하중 등은 현장 위치와 구조·배치 조건을 바탕으로 검토합니다. 계산서에 적힌 설계기준의 명칭과 판, 사용한 자료의 출처, 미확인 조건을 담당자에게 설명해 달라고 요청하세요. 이 안내에서는 특정 풍속·적설량이나 허용하중을 모든 현장에 공통으로 제시하지 않습니다.&lt;/p&gt;
+&lt;p&gt;제품의 시험성적서는 해당 제품과 시험 조건에 관한 자료입니다. 이것을 기존 지붕이나 전체 설치 시스템의 구조계산서와 같은 의미로 읽지 않도록, 각각의 적용 범위를 확인하세요. 하중의 기초는 &lt;a href="https://starichdog-collab.github.io/solar-structural-review/wind-load.html"&gt;풍하중&lt;/a&gt;과 &lt;a href="https://starichdog-collab.github.io/solar-structural-review/snow-load.html"&gt;적설하중 안내&lt;/a&gt;에서 볼 수 있습니다.&lt;/p&gt;
+&lt;h2 id="change"&gt;4. 변경이 생기면 이전 결론의 적용 여부를 확인하세요&lt;/h2&gt;
+&lt;p&gt;제품·배치·지지 위치·고정 방식 중 하나가 바뀌었다면 기존 검토 담당자에게 변경 전후 자료를 전달합니다. 재검토가 필요한지, 기존 문서의 어느 범위까지 유효한지는 담당자가 판단하도록 합니다. 설치 용량(kW)이 같아도 상세 조건까지 같다는 뜻은 아닙니다.&lt;/p&gt;
+&lt;div class="table-scroll" role="region" aria-label="설치 변경사항 전달표" tabindex="0"&gt;&lt;table&gt;&lt;caption&gt;변경사항 전달 양식 — 실제 검토 결과가 아닌 기록용 예시&lt;/caption&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;기록란&lt;/th&gt;&lt;th scope="col"&gt;작성할 내용&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;문서 기준&lt;/th&gt;&lt;td&gt;현장명 / 기존 계산서 번호·작성일 / 변경 도면 번호·개정번호&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;변경 내역&lt;/th&gt;&lt;td&gt;변경 전 → 변경 후 / 변경 이유 / 관련 사양서&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;확인 요청&lt;/th&gt;&lt;td&gt;재검토 필요 여부 / 추가로 필요한 자료 / 반영할 도면&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;회신 관리&lt;/th&gt;&lt;td&gt;담당자 / 회신일 / 확인된 조건 / 미결 항목&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
 
-<section id="change-examples" aria-labelledby="change-examples-title">
-<h2 id="change-examples-title">설치 용량이 같아도 다시 확인할 변경 예시</h2>
-<p><strong>설비 용량은 모듈의 정격출력을 나타내는 정보이며, 중량·배치·지지 위치가 모두 같다는 뜻은 아닙니다.</strong> 다음은 변경자료를 정리하는 방법을 보여주는 가상 상황입니다. 두자의 실제 프로젝트나 구조검토 결과를 나타내지 않습니다.</p>
-<div class="table-scroll" tabindex="0" role="region" aria-label="태양광 설계 변경자료 정리 예시"><table>
-<caption>변경 전후를 비교해 담당자에게 전달하기</caption><thead><tr><th scope="col">변경 상황</th><th scope="col">함께 보낼 자료</th><th scope="col">담당자에게 확인할 질문</th></tr></thead><tbody>
-<tr><th scope="row">모듈 모델 변경</th><td>기존·변경 제품의 크기·중량·설치 지침과 새 배치도</td><td>기존 검토의 모듈·고정 조건과 달라진 부분은 무엇인가요?</td></tr>
-<tr><th scope="row">지지 위치·고정부 변경</th><td>기존·변경 지지점이 표시된 도면, 부품 사양과 접합 상세</td><td>연결 대상과 지지 조건의 변경을 어느 범위까지 확인해야 하나요?</td></tr>
-<tr><th scope="row">기존 지붕 교체·보강</th><td>공사 범위, 반영 도면, 확보된 완료 기록과 현장 확인 자료</td><td>기존 계산서가 전제한 건물 상태와 일치하나요?</td></tr>
-</tbody></table></div>
-<p>회신을 받으면 담당자·확인일·반영 도면을 함께 기록하고, 미결 항목과 확인된 조건을 구분합니다. 기존 문서를 어느 범위까지 적용할 수 있는지와 추가 검토 여부는 검토 담당자에게 확인하세요.</p>
-<p>처음 의뢰하는 단계라면 <a href="https://starichdog-collab.github.io/solar-structural-review/roof-solar-review.html#request-template">구조검토 상담 준비 양식</a>을, 공사가 끝난 단계라면 <a href="https://starichdog-collab.github.io/solar-guide/solar-construction-handover.html">준공자료 인수인계 안내</a>를 참고할 수 있습니다.</p>
-</section>
-<h2 id="questions">자주 묻는 질문</h2>
-<details><summary>결론이 ‘적합’이면 어떤 배치로 설치해도 되나요?</summary><p>검토 결론은 문서에서 전제한 대상·자료·조건과 함께 읽어야 합니다. 실제 배치와 다른 부분이 있다면 설치 계획에 반영하기 전에 담당자에게 확인하세요.</p></details>
-<details><summary>구조계산서와 구조안전확인서는 같은 서류인가요?</summary><p>계산 과정과 근거를 담는 문서와 제출 목적에 맞춘 확인 문서는 역할과 요구 형식이 다를 수 있습니다. 필요한 서류의 명칭·서식·작성 또는 확인 주체는 해당 제출처와 검토 담당자에게 확인합니다.</p></details>
-<details><summary>문서 검토만으로 시공이 제대로 끝났는지도 알 수 있나요?</summary><p>문서상의 설계 조건과 실제 시공 상태의 확인은 구분해야 합니다. 준공도면·변경 기록·점검 결과를 함께 인계받는 방법은 <a href="https://starichdog-collab.github.io/solar-guide/solar-construction-handover.html">태양광공사 인수인계 안내</a>를 참고하세요.</p></details>
-<h2 id="sources">참고 자료와 적용 범위</h2>
-<p class="source">미국 에너지부의 <a href="https://www.energy.gov/sites/prod/files/2020/04/f73/tech-specs.pdf" target="_blank" rel="noopener">태양광 조달 기술사양 예시(PDF, 본문 20쪽·50~51쪽)</a>는 구조 검토 대상과 도면·준공자료의 구분을 설명합니다. 해외 발주용 예시이므로 그 설계값·자격요건·절차를 국내 현장에 그대로 적용하지 않습니다. 위 대조표는 이 구분을 참고해 정리한 일반 문서관리 안내이며, 개별 구조계산이나 법정 서식을 대신하지 않습니다.</p>
-<p>의뢰 전에 준비할 자료는 <a href="https://starichdog-collab.github.io/solar-structural-review/roof-solar-review.html">공장 지붕 구조검토 준비자료</a>에서, 두자의 실제 업무 범위는 <a href="https://dooja.co.kr/services/solar-structural-review">공식 태양광 구조검토 안내</a>에서 확인할 수 있습니다.</p></article>]]></description><pubDate>Thu, 22 Oct 2026 10:53:20 +0000</pubDate></item>
-<item><title>태양광공사 인수인계 | 준공도면·점검·운영 자료 | 두자건설</title><link>https://starichdog-collab.github.io/solar-guide/solar-construction-handover.html</link><guid isPermaLink="true">https://starichdog-collab.github.io/solar-guide/solar-construction-handover.html</guid><description><![CDATA[<article><h1>태양광공사 인수인계: 설비와 함께 받을 자료</h1><p class="byline">운영: <a href="https://dooja.co.kr/">두자건설(DOOJA)</a> · 게시: <time datetime="2026-10-22">2026년 10월 22일</time></p><p><strong>태양광공사를 마칠 때는 완성된 설비와 함께, 그 설비를 설명하는 최신 도면·제품 자료·검사 및 점검 기록을 인계받는 것이 좋습니다.</strong> 운영 중 문제가 생겼을 때 설치 상태와 변경 이력을 확인할 수 있도록, 착공 전부터 받을 자료와 담당자를 정해 두세요.</p><figure class="solar-figure"><img style="max-width:100%;height:auto" src="https://starichdog-collab.github.io/assets/images/solar-structural-planning-1600.webp" width="1600" height="900" alt="태양광 지붕을 바라보는 창가 책상에 놓인 건축 도면과 안전모, 측정 도구"><figcaption>태양광 설치·구조검토 준비자료를 설명하기 위한 예시 이미지.</figcaption></figure>
-<h2 id="before">1. 착공 전에 인계 목록을 합의하세요</h2>
-<p>견적서의 공사 범위와 함께 어떤 문서를 누가 언제 전달할지 정리합니다. ‘준공서류 일체’라는 문구만 있다면 실제 목록을 요청하세요. 필요한 인허가·사용전검사·계통연계 절차는 설치 목적과 현장 조건에 따라 관계 기관에 확인하고, 일반 인수인계 목록과 구분해 관리합니다.</p>
-<h2 id="documents">2. 받을 자료를 다섯 묶음으로 정리하세요</h2>
-<div class="table-scroll" role="region" aria-label="태양광공사 인수인계 목록" tabindex="0"><table><caption>설비를 인계받을 때 협의할 문서와 기록</caption><thead><tr><th scope="col">자료 묶음</th><th scope="col">포함할 내용</th><th scope="col">확인할 질문</th></tr></thead><tbody>
-<tr><th scope="row">준공도면</th><td>최종 모듈 배치, 지지 구조·고정부, 전기 계통 및 배선 도면</td><td>실제 설치 위치·제품·규격과 같은 최신본인가요?</td></tr>
-<tr><th scope="row">설계·변경</th><td>관련 구조검토 자료, 변경 도면, 검토 회신과 보완 기록</td><td>시공 중 변경이 계산서·도면에 반영되었나요?</td></tr>
-<tr><th scope="row">제품·보증</th><td>모듈·인버터 등 사양서, 매뉴얼, 보증 조건과 제품 식별 정보</td><td>제품·시공·방수 보증의 담당자와 범위가 구분되나요?</td></tr>
-<tr><th scope="row">검사·점검</th><td>해당 현장에 필요한 검사 결과, 시운전·점검 보고서, 미결 항목</td><td>시험일·대상·결과와 후속 조치가 확인되나요?</td></tr>
-<tr><th scope="row">운영·연락</th><td>모니터링 이용 안내, 점검 계획, 이상 발생 시 연락처</td><td>알람을 누가 확인하고 어느 창구에 접수하나요?</td></tr>
-</tbody></table></div>
-<p>미국 에너지부의 시운전 안내도 공사 전에 계획을 세우고 설비 문서와 시험·성능 확인을 함께 다루도록 설명합니다. 실제 시험 항목과 판정은 적용 기준과 제품 지침에 따라 담당 전문가가 정합니다. 이 표는 사용전검사나 전문 점검을 대체하는 합격 판정표가 아닙니다.</p>
-<h2 id="record">3. 현장 사진은 위치와 도면에 연결하세요</h2>
-<p>사진을 전달받을 때는 촬영일과 건물 동·구역, 관련 도면 번호를 함께 기록하도록 요청하세요. 전체 배치 사진과 세부 사진을 구분하면 어느 위치의 기록인지 찾기 쉽습니다. 공사 중 가려지는 부분이나 변경 부위는 시공 담당자에게 기록 범위를 미리 협의할 수 있습니다.</p>
-<p>사진만으로 내부 부재나 연결부의 적정성을 모두 판단할 수는 없습니다. 필요한 검사·현장 확인은 별도로 진행하며, 건물주가 촬영을 위해 지붕에 올라가거나 전기함을 열 필요는 없습니다.</p>
-<h2 id="changes">4. 설계와 시공의 차이는 미결 목록으로 남기세요</h2>
-<p>준공도면을 받았더라도 변경 전 구조계산서가 섞여 있다면 문서 간 일치 여부를 다시 확인해야 합니다. 모듈이나 고정부가 바뀌었다면 변경에 대한 검토 회신도 요청하세요. 대조 방법은 <a href="https://starichdog-collab.github.io/solar-structural-review/structural-calculation-report.html">태양광 구조계산서 확인 안내</a>에 정리했습니다.</p>
-<div class="table-scroll" role="region" aria-label="미결사항 관리 양식" tabindex="0"><table><caption>인수인계 미결사항 기록란</caption><thead><tr><th scope="col">항목</th><th scope="col">작성할 내용</th></tr></thead><tbody>
-<tr><th scope="row">현장·위치</th><td>현장명 / 건물 동·구역 / 도면 번호</td></tr>
-<tr><th scope="row">확인 내용</th><td>누락 자료 또는 도면과 다른 부분 / 관련 사진</td></tr>
-<tr><th scope="row">후속 조치</th><td>확인 담당자 / 회신 예정일 / 필요한 검토·보완</td></tr>
-<tr><th scope="row">완료 기록</th><td>완료일 / 받은 문서의 개정번호 / 확인자</td></tr>
-</tbody></table></div>
-<h2 id="operation">5. 운영 담당자가 자료를 찾을 수 있게 보관하세요</h2>
-<p>도면, 제품, 검사·점검, 변경 기록, 연락처로 폴더를 나누고 최종본의 파일명에 작성일과 개정번호를 넣으세요. 계정 비밀번호는 공개 도면이나 공유 게시물에 쓰지 않고 별도의 안전한 방법으로 인계합니다. 유지관리 담당자가 바뀔 때도 같은 자료 묶음을 전달하면 좋습니다.</p>
-<h2 id="questions">자주 묻는 질문</h2>
-<details><summary>발전량 화면이 나오면 공사 확인은 끝난 건가요?</summary><p>화면에 수치가 나온다는 것만으로 도면 일치, 구조·전기 점검이나 필요한 검사 절차가 모두 확인되는 것은 아닙니다. 담당자가 정한 점검·인계 항목을 별도로 확인하세요.</p></details>
-<details><summary>계약 전에 이 자료를 요청해도 되나요?</summary><p>인계 범위와 시점은 견적·계약 단계에서 협의하면 좋습니다. 포함·별도 공사를 정리하는 방법은 <a href="https://starichdog-collab.github.io/solar-guide/solar-installation-cost.html">설치비용·견적 비교 안내</a>에서 확인할 수 있습니다.</p></details>
-<h2 id="sources">참고 자료와 적용 범위</h2>
-<p class="source">참고: 미국 에너지부 <a href="https://www.energy.gov/cmei/femp/life-cycle-photovoltaic-systems-install-and-commission-photovoltaic-system" target="_blank" rel="noopener">태양광 설치·시운전 안내의 Commissioning Best Practices</a>. 해외의 절차·주기·시험 기준을 국내 현장의 의무로 제시하지 않습니다. 이 글은 일반적인 인수인계 준비 안내이며, 개별 계약과 현장에 필요한 절차는 해당 담당자·기관에 확인합니다.</p>
-<p>설치 전 준비는 <a href="https://starichdog-collab.github.io/solar-guide/solar-installation-checklist.html">현장·도면·견적 체크리스트</a>에서, 두자의 실제 업무 범위는 <a href="https://dooja.co.kr/services/solar-installation">공식 태양광 설치·시공 안내</a>에서 확인하세요.</p></article>]]></description><pubDate>Thu, 22 Oct 2026 10:53:20 +0000</pubDate></item>
+&lt;section id="change-examples" aria-labelledby="change-examples-title"&gt;
+&lt;h2 id="change-examples-title"&gt;설치 용량이 같아도 다시 확인할 변경 예시&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;설비 용량은 모듈의 정격출력을 나타내는 정보이며, 중량·배치·지지 위치가 모두 같다는 뜻은 아닙니다.&lt;/strong&gt; 다음은 변경자료를 정리하는 방법을 보여주는 가상 상황입니다. 두자의 실제 프로젝트나 구조검토 결과를 나타내지 않습니다.&lt;/p&gt;
+&lt;div class="table-scroll" tabindex="0" role="region" aria-label="태양광 설계 변경자료 정리 예시"&gt;&lt;table&gt;
+&lt;caption&gt;변경 전후를 비교해 담당자에게 전달하기&lt;/caption&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;변경 상황&lt;/th&gt;&lt;th scope="col"&gt;함께 보낼 자료&lt;/th&gt;&lt;th scope="col"&gt;담당자에게 확인할 질문&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;모듈 모델 변경&lt;/th&gt;&lt;td&gt;기존·변경 제품의 크기·중량·설치 지침과 새 배치도&lt;/td&gt;&lt;td&gt;기존 검토의 모듈·고정 조건과 달라진 부분은 무엇인가요?&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;지지 위치·고정부 변경&lt;/th&gt;&lt;td&gt;기존·변경 지지점이 표시된 도면, 부품 사양과 접합 상세&lt;/td&gt;&lt;td&gt;연결 대상과 지지 조건의 변경을 어느 범위까지 확인해야 하나요?&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;기존 지붕 교체·보강&lt;/th&gt;&lt;td&gt;공사 범위, 반영 도면, 확보된 완료 기록과 현장 확인 자료&lt;/td&gt;&lt;td&gt;기존 계산서가 전제한 건물 상태와 일치하나요?&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;회신을 받으면 담당자·확인일·반영 도면을 함께 기록하고, 미결 항목과 확인된 조건을 구분합니다. 기존 문서를 어느 범위까지 적용할 수 있는지와 추가 검토 여부는 검토 담당자에게 확인하세요.&lt;/p&gt;
+&lt;p&gt;처음 의뢰하는 단계라면 &lt;a href="https://starichdog-collab.github.io/solar-structural-review/roof-solar-review.html#request-template"&gt;구조검토 상담 준비 양식&lt;/a&gt;을, 공사가 끝난 단계라면 &lt;a href="https://starichdog-collab.github.io/solar-guide/solar-construction-handover.html"&gt;준공자료 인수인계 안내&lt;/a&gt;를 참고할 수 있습니다.&lt;/p&gt;
+&lt;/section&gt;
+&lt;h2 id="questions"&gt;자주 묻는 질문&lt;/h2&gt;
+&lt;details&gt;&lt;summary&gt;결론이 ‘적합’이면 어떤 배치로 설치해도 되나요?&lt;/summary&gt;&lt;p&gt;검토 결론은 문서에서 전제한 대상·자료·조건과 함께 읽어야 합니다. 실제 배치와 다른 부분이 있다면 설치 계획에 반영하기 전에 담당자에게 확인하세요.&lt;/p&gt;&lt;/details&gt;
+&lt;details&gt;&lt;summary&gt;구조계산서와 구조안전확인서는 같은 서류인가요?&lt;/summary&gt;&lt;p&gt;계산 과정과 근거를 담는 문서와 제출 목적에 맞춘 확인 문서는 역할과 요구 형식이 다를 수 있습니다. 필요한 서류의 명칭·서식·작성 또는 확인 주체는 해당 제출처와 검토 담당자에게 확인합니다.&lt;/p&gt;&lt;/details&gt;
+&lt;details&gt;&lt;summary&gt;문서 검토만으로 시공이 제대로 끝났는지도 알 수 있나요?&lt;/summary&gt;&lt;p&gt;문서상의 설계 조건과 실제 시공 상태의 확인은 구분해야 합니다. 준공도면·변경 기록·점검 결과를 함께 인계받는 방법은 &lt;a href="https://starichdog-collab.github.io/solar-guide/solar-construction-handover.html"&gt;태양광공사 인수인계 안내&lt;/a&gt;를 참고하세요.&lt;/p&gt;&lt;/details&gt;
+&lt;h2 id="sources"&gt;참고 자료와 적용 범위&lt;/h2&gt;
+&lt;p class="source"&gt;미국 에너지부의 &lt;a href="https://www.energy.gov/sites/prod/files/2020/04/f73/tech-specs.pdf" target="_blank" rel="noopener"&gt;태양광 조달 기술사양 예시(PDF, 본문 20쪽·50~51쪽)&lt;/a&gt;는 구조 검토 대상과 도면·준공자료의 구분을 설명합니다. 해외 발주용 예시이므로 그 설계값·자격요건·절차를 국내 현장에 그대로 적용하지 않습니다. 위 대조표는 이 구분을 참고해 정리한 일반 문서관리 안내이며, 개별 구조계산이나 법정 서식을 대신하지 않습니다.&lt;/p&gt;
+&lt;p&gt;의뢰 전에 준비할 자료는 &lt;a href="https://starichdog-collab.github.io/solar-structural-review/roof-solar-review.html"&gt;공장 지붕 구조검토 준비자료&lt;/a&gt;에서, 두자의 실제 업무 범위는 &lt;a href="https://dooja.co.kr/services/solar-structural-review"&gt;공식 태양광 구조검토 안내&lt;/a&gt;에서 확인할 수 있습니다.&lt;/p&gt;&lt;/article&gt;</description><pubDate>Thu, 22 Oct 2026 10:53:20 +0000</pubDate></item>
+<item><title>태양광공사 인수인계 | 준공도면·점검·운영 자료 | 두자건설</title><link>https://starichdog-collab.github.io/solar-guide/solar-construction-handover.html</link><guid isPermaLink="true">https://starichdog-collab.github.io/solar-guide/solar-construction-handover.html</guid><description>&lt;article&gt;&lt;h1&gt;태양광공사 인수인계: 설비와 함께 받을 자료&lt;/h1&gt;&lt;p class="byline"&gt;운영: &lt;a href="https://dooja.co.kr/"&gt;두자건설(DOOJA)&lt;/a&gt; · 게시: &lt;time datetime="2026-10-22"&gt;2026년 10월 22일&lt;/time&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;태양광공사를 마칠 때는 완성된 설비와 함께, 그 설비를 설명하는 최신 도면·제품 자료·검사 및 점검 기록을 인계받는 것이 좋습니다.&lt;/strong&gt; 운영 중 문제가 생겼을 때 설치 상태와 변경 이력을 확인할 수 있도록, 착공 전부터 받을 자료와 담당자를 정해 두세요.&lt;/p&gt;&lt;figure class="solar-figure"&gt;&lt;img style="max-width:100%;height:auto" src="https://starichdog-collab.github.io/assets/images/solar-structural-planning-1600.webp" width="1600" height="900" alt="태양광 지붕을 바라보는 창가 책상에 놓인 건축 도면과 안전모, 측정 도구"&gt;&lt;figcaption&gt;태양광 설치·구조검토 준비자료를 설명하기 위한 예시 이미지.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id="before"&gt;1. 착공 전에 인계 목록을 합의하세요&lt;/h2&gt;
+&lt;p&gt;견적서의 공사 범위와 함께 어떤 문서를 누가 언제 전달할지 정리합니다. ‘준공서류 일체’라는 문구만 있다면 실제 목록을 요청하세요. 필요한 인허가·사용전검사·계통연계 절차는 설치 목적과 현장 조건에 따라 관계 기관에 확인하고, 일반 인수인계 목록과 구분해 관리합니다.&lt;/p&gt;
+&lt;h2 id="documents"&gt;2. 받을 자료를 다섯 묶음으로 정리하세요&lt;/h2&gt;
+&lt;div class="table-scroll" role="region" aria-label="태양광공사 인수인계 목록" tabindex="0"&gt;&lt;table&gt;&lt;caption&gt;설비를 인계받을 때 협의할 문서와 기록&lt;/caption&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;자료 묶음&lt;/th&gt;&lt;th scope="col"&gt;포함할 내용&lt;/th&gt;&lt;th scope="col"&gt;확인할 질문&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;준공도면&lt;/th&gt;&lt;td&gt;최종 모듈 배치, 지지 구조·고정부, 전기 계통 및 배선 도면&lt;/td&gt;&lt;td&gt;실제 설치 위치·제품·규격과 같은 최신본인가요?&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;설계·변경&lt;/th&gt;&lt;td&gt;관련 구조검토 자료, 변경 도면, 검토 회신과 보완 기록&lt;/td&gt;&lt;td&gt;시공 중 변경이 계산서·도면에 반영되었나요?&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;제품·보증&lt;/th&gt;&lt;td&gt;모듈·인버터 등 사양서, 매뉴얼, 보증 조건과 제품 식별 정보&lt;/td&gt;&lt;td&gt;제품·시공·방수 보증의 담당자와 범위가 구분되나요?&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;검사·점검&lt;/th&gt;&lt;td&gt;해당 현장에 필요한 검사 결과, 시운전·점검 보고서, 미결 항목&lt;/td&gt;&lt;td&gt;시험일·대상·결과와 후속 조치가 확인되나요?&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;운영·연락&lt;/th&gt;&lt;td&gt;모니터링 이용 안내, 점검 계획, 이상 발생 시 연락처&lt;/td&gt;&lt;td&gt;알람을 누가 확인하고 어느 창구에 접수하나요?&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;미국 에너지부의 시운전 안내도 공사 전에 계획을 세우고 설비 문서와 시험·성능 확인을 함께 다루도록 설명합니다. 실제 시험 항목과 판정은 적용 기준과 제품 지침에 따라 담당 전문가가 정합니다. 이 표는 사용전검사나 전문 점검을 대체하는 합격 판정표가 아닙니다.&lt;/p&gt;
+&lt;h2 id="record"&gt;3. 현장 사진은 위치와 도면에 연결하세요&lt;/h2&gt;
+&lt;p&gt;사진을 전달받을 때는 촬영일과 건물 동·구역, 관련 도면 번호를 함께 기록하도록 요청하세요. 전체 배치 사진과 세부 사진을 구분하면 어느 위치의 기록인지 찾기 쉽습니다. 공사 중 가려지는 부분이나 변경 부위는 시공 담당자에게 기록 범위를 미리 협의할 수 있습니다.&lt;/p&gt;
+&lt;p&gt;사진만으로 내부 부재나 연결부의 적정성을 모두 판단할 수는 없습니다. 필요한 검사·현장 확인은 별도로 진행하며, 건물주가 촬영을 위해 지붕에 올라가거나 전기함을 열 필요는 없습니다.&lt;/p&gt;
+&lt;h2 id="changes"&gt;4. 설계와 시공의 차이는 미결 목록으로 남기세요&lt;/h2&gt;
+&lt;p&gt;준공도면을 받았더라도 변경 전 구조계산서가 섞여 있다면 문서 간 일치 여부를 다시 확인해야 합니다. 모듈이나 고정부가 바뀌었다면 변경에 대한 검토 회신도 요청하세요. 대조 방법은 &lt;a href="https://starichdog-collab.github.io/solar-structural-review/structural-calculation-report.html"&gt;태양광 구조계산서 확인 안내&lt;/a&gt;에 정리했습니다.&lt;/p&gt;
+&lt;div class="table-scroll" role="region" aria-label="미결사항 관리 양식" tabindex="0"&gt;&lt;table&gt;&lt;caption&gt;인수인계 미결사항 기록란&lt;/caption&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope="col"&gt;항목&lt;/th&gt;&lt;th scope="col"&gt;작성할 내용&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;현장·위치&lt;/th&gt;&lt;td&gt;현장명 / 건물 동·구역 / 도면 번호&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;확인 내용&lt;/th&gt;&lt;td&gt;누락 자료 또는 도면과 다른 부분 / 관련 사진&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;후속 조치&lt;/th&gt;&lt;td&gt;확인 담당자 / 회신 예정일 / 필요한 검토·보완&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;완료 기록&lt;/th&gt;&lt;td&gt;완료일 / 받은 문서의 개정번호 / 확인자&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;h2 id="operation"&gt;5. 운영 담당자가 자료를 찾을 수 있게 보관하세요&lt;/h2&gt;
+&lt;p&gt;도면, 제품, 검사·점검, 변경 기록, 연락처로 폴더를 나누고 최종본의 파일명에 작성일과 개정번호를 넣으세요. 계정 비밀번호는 공개 도면이나 공유 게시물에 쓰지 않고 별도의 안전한 방법으로 인계합니다. 유지관리 담당자가 바뀔 때도 같은 자료 묶음을 전달하면 좋습니다.&lt;/p&gt;
+&lt;h2 id="questions"&gt;자주 묻는 질문&lt;/h2&gt;
+&lt;details&gt;&lt;summary&gt;발전량 화면이 나오면 공사 확인은 끝난 건가요?&lt;/summary&gt;&lt;p&gt;화면에 수치가 나온다는 것만으로 도면 일치, 구조·전기 점검이나 필요한 검사 절차가 모두 확인되는 것은 아닙니다. 담당자가 정한 점검·인계 항목을 별도로 확인하세요.&lt;/p&gt;&lt;/details&gt;
+&lt;details&gt;&lt;summary&gt;계약 전에 이 자료를 요청해도 되나요?&lt;/summary&gt;&lt;p&gt;인계 범위와 시점은 견적·계약 단계에서 협의하면 좋습니다. 포함·별도 공사를 정리하는 방법은 &lt;a href="https://starichdog-collab.github.io/solar-guide/solar-installation-cost.html"&gt;설치비용·견적 비교 안내&lt;/a&gt;에서 확인할 수 있습니다.&lt;/p&gt;&lt;/details&gt;
+&lt;h2 id="sources"&gt;참고 자료와 적용 범위&lt;/h2&gt;
+&lt;p class="source"&gt;참고: 미국 에너지부 &lt;a href="https://www.energy.gov/cmei/femp/life-cycle-photovoltaic-systems-install-and-commission-photovoltaic-system" target="_blank" rel="noopener"&gt;태양광 설치·시운전 안내의 Commissioning Best Practices&lt;/a&gt;. 해외의 절차·주기·시험 기준을 국내 현장의 의무로 제시하지 않습니다. 이 글은 일반적인 인수인계 준비 안내이며, 개별 계약과 현장에 필요한 절차는 해당 담당자·기관에 확인합니다.&lt;/p&gt;
+&lt;p&gt;설치 전 준비는 &lt;a href="https://starichdog-collab.github.io/solar-guide/solar-installation-checklist.html"&gt;현장·도면·견적 체크리스트&lt;/a&gt;에서, 두자의 실제 업무 범위는 &lt;a href="https://dooja.co.kr/services/solar-installation"&gt;공식 태양광 설치·시공 안내&lt;/a&gt;에서 확인하세요.&lt;/p&gt;&lt;/article&gt;</description><pubDate>Thu, 22 Oct 2026 10:53:20 +0000</pubDate></item>
 </channel>
 </rss>

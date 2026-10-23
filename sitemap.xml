@@ -9,7 +9,7 @@
   </url>
   <url>
     <loc>https://starichdog-collab.github.io/solar-guide/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <image:image>
       <image:loc>https://starichdog-collab.github.io/assets/images/factory-rooftop-solar-1600.webp</image:loc>
     </image:image>
@@ -90,5 +90,10 @@
     <image:image>
       <image:loc>https://starichdog-collab.github.io/assets/images/solar-structural-planning-1600.webp</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>https://starichdog-collab.github.io/solar-guide/solar-review.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <image:image><image:loc>https://starichdog-collab.github.io/assets/images/solar-structural-planning-1600.webp</image:loc></image:image>
   </url>
 </urlset>
