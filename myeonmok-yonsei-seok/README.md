@@ -1,0 +1,27 @@
+# 면목연세석내과 홍보 안내 사이트
+
+- 공개 주소: https://starichdog-collab.github.io/myeonmok-yonsei-seok/
+- 연결하는 공식 홈페이지: https://www.xn--vb0bn4ecstcd77y.com/
+- 정보 확인일: 2026-10-27
+
+순수 HTML/CSS/JavaScript로 작성한 반응형 안내 페이지입니다. 기존 GitHub Pages 저장소의 별도 경로에서 제공하며, 전화 문의·공식 홈페이지·지도 검색 연결과 주소 복사 기능을 포함합니다. 서버, 입력 폼, 개인정보 수집, 추적 스크립트는 없습니다.
+
+## 수정 및 배포
+
+이 디렉터리의 `index.html`, `styles.css`, `script.js`, `assets/`를 수정한 뒤 기존 Pages 배포 브랜치 `main`에 반영합니다. 별도의 빌드 단계는 필요하지 않습니다. URL은 페이지 canonical·OG·JSON-LD 및 루트 sitemap.xml에서 함께 관리합니다.
+
+## 정보 및 사진 출처
+
+진료 정보와 아래 사진은 병원 공식 홈페이지의 공개 안내를 토대로 구성했습니다. 홍보 안내 페이지임을 하단에 표시합니다. 원본 사진은 그대로 사용하며, 화면의 사진 영역만 CSS로 조정합니다.
+
+- 기본 정보·진료시간: https://www.xn--vb0bn4ecstcd77y.com/
+- 의료진: https://www.xn--vb0bn4ecstcd77y.com/index
+- 내과 진료: https://www.xn--vb0bn4ecstcd77y.com/15
+- 신장질환: https://www.xn--vb0bn4ecstcd77y.com/16
+- 초음파: https://www.xn--vb0bn4ecstcd77y.com/17
+- 인공신장실: https://www.xn--vb0bn4ecstcd77y.com/18
+- 인공신장실 사진 1: https://cdn.imweb.me/thumbnail/20240327/7e4a3fdf10678.jpg
+- 인공신장실 사진 2: https://cdn.imweb.me/thumbnail/20240327/986aaef345300.jpg
+- 의료진 소개 원본 이미지: https://cdn.imweb.me/thumbnail/20240329/6261d3f4a9f85.png
+
+외래 접수 마감, 투석 일정, 검사 가능 항목은 별도 확정하지 않고 전화 문의로 안내합니다. 후기·치료 효과 보장·비용·주차 정보 등 확인되지 않은 내용은 넣지 않았습니다. 변경 시 병원의 실제 안내와 대조하고 정보 확인일을 갱신합니다.
