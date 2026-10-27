@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://starichdog-collab.github.io/sitemap.xml
+Sitemap: https://starichdog-collab.github.io/myeonmok-yonsei-seok/sitemap.xml

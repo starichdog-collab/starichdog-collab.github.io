@@ -36,7 +36,7 @@
     window.clearTimeout(toastTimeout);
     toastTimeout = window.setTimeout(() => toast.classList.remove('visible'), 4200);
   }
-  copyButton.addEventListener('click', async () => {
+  copyButton?.addEventListener('click', async () => {
     const address = '서울특별시 중랑구 면목로 398 스마트빌딩 (외래 2층, 인공신장실 5·6층)';
     try {
       if (!navigator.clipboard || !window.isSecureContext) throw new Error('Clipboard unavailable');
