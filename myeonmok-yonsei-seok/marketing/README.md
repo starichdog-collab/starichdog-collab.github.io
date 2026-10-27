@@ -42,3 +42,12 @@
 - https://developers.google.com/search/docs/appearance/video
 - https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap
 - https://developers.google.com/search/docs/crawling-indexing/ask-google-to-recrawl
+
+## 2026-10-27 일반 내과 검색 안내 보강
+
+- 신규 안내: https://starichdog-collab.github.io/myeonmok-yonsei-seok/myeonmok-internal-medicine/
+- 홈페이지 제목·설명·첫 화면과 내과 안내를 보강하고, 기존 신장투석·영상 페이지를 유지했습니다.
+- 진료 분야·의료진·외래시간·위치·방문 준비를 하나의 원본 안내 페이지에 모았습니다.
+- 공식 병원 내과·신장·초음파·인공신장실·의료진 페이지에 문맥형 링크를 추가했습니다. 같은 GitHub 도메인에서 제공하는 링크이며 제3자 블로그·카페에 게시한 것은 아닙니다.
+- 새 가로/세로 홍보 일러스트를 WebP로 게시하고, 이미지 대체 텍스트·OG·ImageObject·사이트맵에 반영했습니다.
+- 도메인 변경은 별도 승인 대기 중입니다. Google Search Console 등록은 사용자가 직접 진행합니다.
