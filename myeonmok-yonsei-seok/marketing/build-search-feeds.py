@@ -16,9 +16,20 @@ def full_content(source, page_url):
     content = re.search(r"<main\b[^>]*>(.*?)</main>", source, re.S).group(1)
     # The feed exposes readable content, not interactive UI or inline icons.
     content = re.sub(r"<(button|svg|script)\b[^>]*>.*?</\1>", "", content, flags=re.S)
+    content = re.sub(r"<input\b[^>]*>", "", content)
+    content = re.sub(r"<output\b[^>]*>.*?</output>", "", content, flags=re.S)
     def absolute(match):
         return f'{match[1]}="{escape(urljoin(page_url, unescape(match[2])), quote=True)}"'
-    return re.sub(r'(href|src|poster)="([^"]*)"', absolute, content)
+    content = re.sub(r'(href|src|poster)="([^"]*)"', absolute, content)
+    def absolute_srcset(match):
+        candidates = []
+        for candidate in unescape(match[1]).split(","):
+            parts = candidate.strip().split()
+            if parts:
+                parts[0] = urljoin(page_url, parts[0])
+                candidates.append(" ".join(parts))
+        return 'srcset="' + escape(", ".join(candidates), quote=True) + '"'
+    return re.sub(r'srcset="([^"]*)"', absolute_srcset, content)
 
 
 def build():

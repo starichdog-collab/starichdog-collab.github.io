@@ -13,6 +13,8 @@
 
 ## 제출 주소
 
+- 진료시간·방문 준비: https://starichdog-collab.github.io/myeonmok-yonsei-seok/visit/
+
 - 만성질환 안내: https://starichdog-collab.github.io/myeonmok-yonsei-seok/chronic-care/
 
 - 병원 안내: https://starichdog-collab.github.io/myeonmok-yonsei-seok/
