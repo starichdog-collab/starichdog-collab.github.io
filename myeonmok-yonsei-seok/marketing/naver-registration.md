@@ -13,6 +13,8 @@
 
 ## 제출 주소
 
+- 만성질환 안내: https://starichdog-collab.github.io/myeonmok-yonsei-seok/chronic-care/
+
 - 병원 안내: https://starichdog-collab.github.io/myeonmok-yonsei-seok/
 - 사이트맵: https://starichdog-collab.github.io/myeonmok-yonsei-seok/sitemap.xml
 - RSS: https://starichdog-collab.github.io/myeonmok-yonsei-seok/feed.xml
@@ -36,7 +38,7 @@ IndexNow는 병원 하위 경로에 둔 공개 키의 `keyLocation`을 명시하
 python marketing/build-search-feeds.py
 ```
 
-GitHub Pages 배포와 공개 키의 정상 응답을 확인한 뒤, 아래 명령으로 네이버에 한 번 알립니다. 스크립트는 공개 키를 읽을 수 있는지 확인하고 4개 안내 URL만 전송합니다. `--submit` 없이 실행하면 미리보기만 출력합니다.
+GitHub Pages 배포와 공개 키의 정상 응답을 확인한 뒤, 아래 명령으로 네이버에 한 번 알립니다. 스크립트는 공개 키를 읽을 수 있는지 확인하고 사이트맵에 있는 안내 URL만 전송합니다. `--submit` 없이 실행하면 미리보기만 출력합니다.
 
 ```sh
 python marketing/notify-indexnow.py --submit
