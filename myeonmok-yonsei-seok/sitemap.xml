@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <image:image>
       <image:loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/assets/myeonmok-internal-medicine-guide.webp</image:loc>
     </image:image>
@@ -21,7 +21,7 @@
   </url>
   <url>
     <loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/jungnang-dialysis/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <image:image>
       <image:loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/assets/jungnang-dialysis-guide.webp</image:loc>
     </image:image>
@@ -31,7 +31,7 @@
   </url>
   <url>
     <loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/video/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <image:image>
       <image:loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/assets/jungnang-dialysis-guide.webp</image:loc>
     </image:image>
@@ -47,7 +47,7 @@
   </url>
   <url>
     <loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/myeonmok-internal-medicine/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <image:image>
       <image:loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/assets/myeonmok-internal-medicine-guide.webp</image:loc>
     </image:image>
@@ -57,7 +57,7 @@
   </url>
   <url>
     <loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/chronic-care/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <image:image>
       <image:loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/assets/myeonmok-chronic-care-guide.webp</image:loc>
     </image:image>
@@ -67,6 +67,7 @@
   </url>
   <url>
     <loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/visit/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-30</lastmod>
   </url>
+  <url><loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/dialysis-consultation/</loc><lastmod>2026-10-30</lastmod></url>
 </urlset>

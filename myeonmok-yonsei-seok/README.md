@@ -1,4 +1,18 @@
-# 면목연세석내과 홍보 안내 사이트
+# 면목연세석내과 진료·방문 안내
+
+중랑구 면목동의 실제 병원 위치와 혈액투석 상담 준비를 확인하는 공개 자료입니다. 공식 진료 정보와 방문 안내를 연결합니다.
+
+| 필요한 정보 | 바로가기 |
+| --- | --- |
+| 지역별 방문 | [중랑구·면목동·상봉동·망우동·용마산 안내](https://starichdog-collab.github.io/myeonmok-yonsei-seok/jungnang-dialysis/) |
+| 첫 상담·전원 | [일정·기록·보호자 동행 준비](https://starichdog-collab.github.io/myeonmok-yonsei-seok/dialysis-consultation/) |
+| 연락처·외래시간 | [진료시간과 병원 위치](https://starichdog-collab.github.io/myeonmok-yonsei-seok/visit/) |
+| 시설 정보 | [공식 인공신장실 소개](https://www.xn--vb0bn4ecstcd77y.com/18) |
+| 의료진 | [공식 의료진 소개](https://www.xn--vb0bn4ecstcd77y.com/index) |
+
+병원은 서울 중랑구 면목로 398 스마트빌딩에 있습니다. 외래는 2층, 인공신장실은 5·6층이며 문의 전화는 **02-437-0808**입니다. 상담·치료 가능 여부와 실제 일정은 병원에 확인하세요.
+
+## 사이트 소스와 관리 기록
 
 - 공개 주소: https://starichdog-collab.github.io/myeonmok-yonsei-seok/
 - 연결하는 공식 홈페이지: https://www.xn--vb0bn4ecstcd77y.com/
