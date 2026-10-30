@@ -9,6 +9,7 @@
 | 연락처·외래시간 | [진료시간과 병원 위치](https://starichdog-collab.github.io/myeonmok-yonsei-seok/visit/) |
 | 시설 정보 | [공식 인공신장실 소개](https://www.xn--vb0bn4ecstcd77y.com/18) |
 | 의료진 | [공식 의료진 소개](https://www.xn--vb0bn4ecstcd77y.com/index) |
+| 가족과 공유할 자료 | [한 장 방문 안내 PDF·질문표·영상](assets/README.md) |
 
 병원은 서울 중랑구 면목로 398 스마트빌딩에 있습니다. 외래는 2층, 인공신장실은 5·6층이며 문의 전화는 **02-437-0808**입니다. 상담·치료 가능 여부와 실제 일정은 병원에 확인하세요.
 

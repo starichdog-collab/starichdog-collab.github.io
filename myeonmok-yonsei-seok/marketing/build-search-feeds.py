@@ -37,6 +37,8 @@ def build():
     base = urls[0]
     if not all(url.startswith(base) and urlsplit(url).netloc == urlsplit(base).netloc for url in urls):
         raise ValueError("The feed must contain only clinic URLs under its base directory")
+    # Sitemaps may also contain downloadable PDFs. RSS uses only HTML articles.
+    html_urls = [url for url in urls if urlsplit(url).path.endswith("/") or Path(urlsplit(url).path).suffix.lower() in (".html", ".htm")]
     rss = ET.Element("rss", {"version": "2.0"})
     channel = ET.SubElement(rss, "channel")
     for name, value in {
@@ -47,9 +49,11 @@ def build():
         "lastBuildDate": format_datetime(datetime.now(timezone.utc)),
     }.items():
         ET.SubElement(channel, name).text = value
-    for url in urls:
+    for url in html_urls:
         relative = url[len(base):]
-        page = ROOT / relative / "index.html"
+        page = ROOT / relative
+        if urlsplit(url).path.endswith("/"):
+            page = page / "index.html"
         source = page.read_text(encoding="utf-8")
         item = ET.SubElement(channel, "item")
         ET.SubElement(item, "title").text = unescape(re.search(r"<title>(.*?)</title>", source, re.S).group(1))
@@ -58,7 +62,7 @@ def build():
         ET.SubElement(item, "description").text = full_content(source, url)
     ET.indent(rss)
     ET.ElementTree(rss).write(ROOT / "feed.xml", encoding="utf-8", xml_declaration=True)
-    print(f"Built feed.xml with {len(urls)} complete pages")
+    print(f"Built feed.xml with {len(html_urls)} complete pages")
 
 
 if __name__ == "__main__":

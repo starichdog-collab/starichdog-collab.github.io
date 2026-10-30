@@ -1,6 +1,15 @@
 # 공식 홈페이지 반영용 SEO 문안
 
-작성: 2026-10-28. **이 파일은 적용안이며 공식 홈페이지 관리자 화면에 저장한 결과가 아닙니다.** 현재 직접 배포한 대상은 GitHub 홍보 안내 사이트입니다.
+작성: 2026-10-28 · 재점검: 2026-10-30. **이 파일은 적용안이며 공식 홈페이지 관리자 화면에 저장한 결과가 아닙니다.** 현재 직접 배포한 대상은 GitHub 홍보 안내 사이트입니다.
+
+## 2026-10-30 우선 수정할 항목
+
+1. **대표주소 통일:** HTTPS로 접속한 `/`, `/15`, `/18`의 canonical이 HTTP 주소를 가리키고 있습니다. 사이트맵은 HTTPS 주소를 사용합니다. 관리 도구에서 HTTPS 대표주소를 설정하고 HTTP 방문을 해당 HTTPS 경로로 301 또는 308 이동시키는 구성을 확인하세요. canonical 하나, 사이트맵과 내부 링크까지 동일한 대표주소를 사용합니다.
+2. **검색 제목·설명 구분:** 위 3개 페이지가 모두 제목 `면목연세석내과`와 같은 설명을 사용합니다. 아래 페이지별 문안을 적용하세요.
+3. **사진 설명 교체:** `/18` 시설 사진 3장의 대체 텍스트에 `VITAE TELLUS IN / ₩ 80,000`, `WHITE PLATES / ₩ 50,000`, `POCELAIN / ₩ 60,000`이 남아 있습니다. 실제 사진을 확인하고 해당 장면을 설명하는 문장으로 교체하세요. 금액은 치료비로 해석될 수 있으므로 이미지 설명에 유지하지 않습니다.
+4. **보이는 본문 추가:** `/15`의 핵심 진료 안내는 이미지 중심입니다. 실제 진료 내용과 일치하는 설명을 일반 본문으로도 제공하세요. 페이지의 H1은 실제 대표 제목 하나로 정리합니다.
+
+이 항목들은 공개 HTML과 HTTP 응답에서 확인한 사항입니다. 관리자 설정값이나 검색 순위 하락의 직접 원인을 확인했다는 뜻은 아닙니다.
 
 ## 확인한 개선 여지
 
@@ -48,6 +57,8 @@
   <a href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/visit/">진료시간·오시는 길과 준비물 체크리스트</a>
   <a href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/chronic-care/">당뇨·고지혈증·고혈압 진료 방문 준비</a>
   <a href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/jungnang-dialysis/">신장투석 상담 전 확인할 내용</a>
+  <a href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/dialysis-consultation/">혈액투석 첫 방문·전원 상담 질문표</a>
+  <a href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/assets/myeonmok-visit-guide.pdf">가족과 공유하는 한 장 방문 안내 PDF</a>
 </nav>
 ```
 
