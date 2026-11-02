@@ -11,6 +11,8 @@
 | 의료진 | [공식 의료진 소개](https://www.xn--vb0bn4ecstcd77y.com/index) |
 | 가족과 공유할 자료 | [한 장 방문 안내 PDF·질문표·영상](assets/README.md) |
 
+진료·방문 안내는 [简体中文](https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/), [Монгол](https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/), [English](https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/)로도 볼 수 있습니다. 각 언어의 내과·혈액투석·오시는 길 안내와 영상 자막이 연결됩니다.
+
 병원은 서울 중랑구 면목로 398 스마트빌딩에 있습니다. 외래는 2층, 인공신장실은 5·6층이며 문의 전화는 **02-437-0808**입니다. 상담·치료 가능 여부와 실제 일정은 병원에 확인하세요.
 
 ## 사이트 소스와 관리 기록
@@ -24,6 +26,13 @@
 ## 수정 및 배포
 
 이 디렉터리의 `index.html`, `styles.css`, `script.js`, `assets/`를 수정한 뒤 기존 Pages 배포 브랜치 `main`에 반영합니다. 별도의 빌드 단계는 필요하지 않습니다. URL은 페이지 canonical·OG·JSON-LD 및 루트 sitemap.xml에서 함께 관리합니다.
+
+다국어 원고와 공통 HTML 틀은 `marketing/languages/`에서 관리합니다. 수정 후 아래 두 명령을 실행하고 생성된 파일도 함께 배포합니다. 언어별 HTML은 빌드 없이 바로 열리며, 한국어 RSS는 기존 구독자를 위해 한국어 글만 제공합니다.
+
+```sh
+python3 marketing/build-languages.py
+python3 marketing/build-search-feeds.py
+```
 
 ## 정보 및 사진 출처
 

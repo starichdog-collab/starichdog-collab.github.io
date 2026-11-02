@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build a full-content RSS feed from the clinic's canonical HTML pages."""
+"""Build the Korean-language RSS feed from the clinic's canonical HTML pages."""
 from datetime import datetime, timezone
 from email.utils import format_datetime
 from html import escape, unescape
@@ -55,6 +55,8 @@ def build():
         if urlsplit(url).path.endswith("/"):
             page = page / "index.html"
         source = page.read_text(encoding="utf-8")
+        if not re.search(r'<html\b[^>]*\blang="ko(?:-[a-z0-9-]+)?"', source, re.I):
+            continue
         item = ET.SubElement(channel, "item")
         ET.SubElement(item, "title").text = unescape(re.search(r"<title>(.*?)</title>", source, re.S).group(1))
         ET.SubElement(item, "link").text = url
@@ -62,7 +64,7 @@ def build():
         ET.SubElement(item, "description").text = full_content(source, url)
     ET.indent(rss)
     ET.ElementTree(rss).write(ROOT / "feed.xml", encoding="utf-8", xml_declaration=True)
-    print(f"Built feed.xml with {len(html_urls)} complete pages")
+    print(f"Built feed.xml with {len(channel.findall('item'))} Korean pages")
 
 
 if __name__ == "__main__":
