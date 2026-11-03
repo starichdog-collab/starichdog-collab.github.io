@@ -1,0 +1,16 @@
+/* Language links are ordinary anchors, including on the original Korean pages. */
+.clinic-language {background:#eaf0e7;border-bottom:1px solid #d8e3d8;color:#274c48}
+.clinic-language .container {display:flex;align-items:center;justify-content:flex-end;gap:16px;flex-wrap:wrap;padding-block:5px}
+.clinic-language .language-label {display:inline-flex;align-items:center;gap:7px;font-size:.75rem}
+.clinic-language ul {list-style:none;display:flex;gap:3px;align-items:center;flex-wrap:wrap;margin:0;padding:0}
+.clinic-language a {display:inline-block;text-decoration:none;padding:4px 10px;border-radius:4px;font:500 .78rem/1.5 system-ui,sans-serif;color:inherit}
+.clinic-language a[aria-current="page"] {background:#214d48;color:#fff}
+.clinic-language a:hover {text-decoration:underline;text-underline-offset:.22em}
+@media (max-width:600px) {
+  .clinic-language .container {gap:3px;justify-content:center}
+  .clinic-language .language-label {display:none}
+  .clinic-language a {padding:5px 8px}
+}
+@media print {
+  .clinic-language {display:none}
+}

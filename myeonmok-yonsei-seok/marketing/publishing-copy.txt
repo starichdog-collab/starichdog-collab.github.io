@@ -59,3 +59,16 @@ https://starichdog-collab.github.io/myeonmok-yonsei-seok/video/
 병원과 관련 있는 실제 운영 채널에 맞춰 문장을 조정해 사용하세요.
 외부 게시와 유튜브 업로드는 이 작업에서 실행하지 않았습니다.
 유료·협찬 게시라면 해당 플랫폼 표시 규정에 맞게 광고·협찬 사실을 표시하세요.
+
+[병원 블로그·플레이스 소식 게시용 원고 / 2026-11-04]
+제목: 외국어로 길을 찾고, 한국어로 접수하는 면목동 내과 방문 카드
+
+면목연세석내과에 처음 오는 분이 운전자나 접수 직원에게 보여줄 수 있도록 중국어·몽골어·영어 방문 카드를 준비했습니다. 한글 주소와 외래·인공신장실 층수, 접수에서 물어볼 네 가지 문장이 한국어와 함께 적혀 있습니다.
+
+병원은 서울 중랑구 면목로 398 스마트빌딩에 있습니다. 외래는 2층, 인공신장실은 5·6층입니다. 방문 카드의 QR코드를 누르거나 스캔하면 선택한 언어로 오시는 길과 첫 혈액투석 상담 준비를 볼 수 있습니다. 진료·투석 일정과 통역 지원 여부는 방문 전에 02-437-0808로 문의하세요.
+
+중국어 방문 안내: https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/visit/
+몽골어 방문 안내: https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/visit/
+영어 방문 안내: https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/visit/
+
+#면목연세석내과 #면목동내과 #중랑구혈액투석 #다국어방문안내

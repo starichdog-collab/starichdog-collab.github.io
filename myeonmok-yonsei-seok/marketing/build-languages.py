@@ -82,10 +82,11 @@ def hours_table(u):
             f'<table aria-labelledby="outpatient-hours"><tbody>{body}</tbody></table><p>{u["hoursNote"]}</p></section>')
 
 
-def checklist(u, items, assets):
+def checklist(u, items, assets, folder):
     rows = "\n".join(f'<label><input type="checkbox"><span>{escape(item)}</span></label>' for item in items)
     return (f'<section class="guide-section guide-check"><h2>{u["checklist"]}</h2>{rows}'
             f'<div class="guide-actions"><button type="button" onclick="window.print()">{u["print"]}</button>'
+            f'<a class="guide-body-link" href="{assets}arrival-card-{folder}.pdf">{u["arrivalCard"]}</a>'
             f'<a class="guide-body-link" href="{assets}myeonmok-visit-guide.pdf">{u["pdf"]}</a></div></section>')
 
 
@@ -129,6 +130,14 @@ def render(lang, topic, data, template):
     section_html = []
     for s in page["sections"]:
         section_html.append(f'<section class="guide-section"><h2>{escape(s["heading"])}</h2><p>{escape(s["text"])}</p></section>')
+    official_services = {
+        "myeonmok-internal-medicine": ("15", "officialMedicine"),
+        "chronic-care": ("15", "officialMedicine"),
+        "jungnang-dialysis": ("18", "officialDialysis"),
+    }
+    if topic in official_services:
+        path, label = official_services[topic]
+        section_html.append(f'<p><a class="guide-body-link" href="{OFFICIAL}{path}" hreflang="ko">{u[label]} {ARROW}</a></p>')
     topic_links = []
     for other in TOPICS:
         if topic != other:
@@ -150,7 +159,7 @@ def render(lang, topic, data, template):
     form = ""
     if topic in ("visit", "dialysis-consultation"):
         items = data["visitChecklist"] if topic == "visit" else data["consultQuestions"]
-        form = checklist(u, items, assets)
+        form = checklist(u, items, assets, LANGS[lang][0])
     player, transcript = "", ""
     if topic == "video":
         player = (f'<figure class="guide-player"><video controls playsinline preload="metadata" width="1280" height="720" '
@@ -184,7 +193,7 @@ def replace_block(source, name, markup, before):
 
 def korean_page(topic, source):
     root = relative(route("ko", topic), "")
-    head = alternates(topic) + f'\n  <link rel="stylesheet" href="{root}languages.css">'
+    head = alternates(topic) + f'\n  <link rel="stylesheet" href="{root}language-menu.css">'
     source = replace_block(source, "language-pages", head, "</head>")
     source = replace_block(source, "language-menu", switcher("ko", topic, "언어 선택"), "<header")
     if topic == "video":
@@ -247,8 +256,9 @@ def build(when):
                 result = render(lang, topic, data, template)
             if write_changed(path, result):
                 changed.add(url)
+    cards = [BASE + f"assets/arrival-card-{folder}.pdf" for folder, _ in LANGS.values() if folder]
     for sitemap in (ROOT / "sitemap.xml", ROOT.parent / "sitemap.xml"):
-        update_sitemap(sitemap, all_urls, changed, when)
+        update_sitemap(sitemap, all_urls + cards, changed, when)
     print(f"{len(all_urls)} pages in {len(LANGS)} languages; {len(changed)} page(s) changed.")
 
 
