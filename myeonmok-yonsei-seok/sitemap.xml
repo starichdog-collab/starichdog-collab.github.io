@@ -1,8 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<urlset xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/</loc>
     <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/"/>
+    <xhtml:link rel="alternate" hreflang="mn" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/"/>
     <image:image>
       <image:loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/assets/myeonmok-internal-medicine-guide.webp</image:loc>
     </image:image>
@@ -22,6 +27,11 @@
   <url>
     <loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/jungnang-dialysis/</loc>
     <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/jungnang-dialysis/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/jungnang-dialysis/"/>
+    <xhtml:link rel="alternate" hreflang="mn" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/jungnang-dialysis/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/jungnang-dialysis/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/jungnang-dialysis/"/>
     <image:image>
       <image:loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/assets/jungnang-dialysis-guide.webp</image:loc>
     </image:image>
@@ -32,6 +42,11 @@
   <url>
     <loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/video/</loc>
     <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/video/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/video/"/>
+    <xhtml:link rel="alternate" hreflang="mn" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/video/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/video/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/video/"/>
     <image:image>
       <image:loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/assets/jungnang-dialysis-guide.webp</image:loc>
     </image:image>
@@ -48,6 +63,11 @@
   <url>
     <loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/myeonmok-internal-medicine/</loc>
     <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/myeonmok-internal-medicine/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/myeonmok-internal-medicine/"/>
+    <xhtml:link rel="alternate" hreflang="mn" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/myeonmok-internal-medicine/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/myeonmok-internal-medicine/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/myeonmok-internal-medicine/"/>
     <image:image>
       <image:loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/assets/myeonmok-internal-medicine-guide.webp</image:loc>
     </image:image>
@@ -58,6 +78,11 @@
   <url>
     <loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/chronic-care/</loc>
     <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/chronic-care/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/chronic-care/"/>
+    <xhtml:link rel="alternate" hreflang="mn" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/chronic-care/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/chronic-care/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/chronic-care/"/>
     <image:image>
       <image:loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/assets/myeonmok-chronic-care-guide.webp</image:loc>
     </image:image>
@@ -68,92 +93,207 @@
   <url>
     <loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/visit/</loc>
     <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/visit/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/visit/"/>
+    <xhtml:link rel="alternate" hreflang="mn" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/visit/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/visit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/visit/"/>
   </url>
-  <url><loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/dialysis-consultation/</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/dialysis-consultation/</loc><lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/dialysis-consultation/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/dialysis-consultation/"/>
+    <xhtml:link rel="alternate" hreflang="mn" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/dialysis-consultation/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/dialysis-consultation/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/dialysis-consultation/"/></url>
   <url><loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/assets/myeonmok-visit-guide.pdf</loc><lastmod>2026-10-30</lastmod></url>
   <url>
     <loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/</loc>
     <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/"/>
+    <xhtml:link rel="alternate" hreflang="mn" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/"/>
   </url>
   <url>
     <loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/myeonmok-internal-medicine/</loc>
     <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/myeonmok-internal-medicine/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/myeonmok-internal-medicine/"/>
+    <xhtml:link rel="alternate" hreflang="mn" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/myeonmok-internal-medicine/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/myeonmok-internal-medicine/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/myeonmok-internal-medicine/"/>
   </url>
   <url>
     <loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/chronic-care/</loc>
     <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/chronic-care/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/chronic-care/"/>
+    <xhtml:link rel="alternate" hreflang="mn" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/chronic-care/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/chronic-care/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/chronic-care/"/>
   </url>
   <url>
     <loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/jungnang-dialysis/</loc>
     <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/jungnang-dialysis/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/jungnang-dialysis/"/>
+    <xhtml:link rel="alternate" hreflang="mn" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/jungnang-dialysis/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/jungnang-dialysis/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/jungnang-dialysis/"/>
   </url>
   <url>
     <loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/dialysis-consultation/</loc>
     <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/dialysis-consultation/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/dialysis-consultation/"/>
+    <xhtml:link rel="alternate" hreflang="mn" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/dialysis-consultation/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/dialysis-consultation/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/dialysis-consultation/"/>
   </url>
   <url>
     <loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/visit/</loc>
     <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/visit/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/visit/"/>
+    <xhtml:link rel="alternate" hreflang="mn" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/visit/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/visit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/visit/"/>
   </url>
   <url>
     <loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/video/</loc>
     <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/video/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/video/"/>
+    <xhtml:link rel="alternate" hreflang="mn" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/video/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/video/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/video/"/>
   </url>
   <url>
     <loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/</loc>
     <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/"/>
+    <xhtml:link rel="alternate" hreflang="mn" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/"/>
   </url>
   <url>
     <loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/myeonmok-internal-medicine/</loc>
     <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/myeonmok-internal-medicine/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/myeonmok-internal-medicine/"/>
+    <xhtml:link rel="alternate" hreflang="mn" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/myeonmok-internal-medicine/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/myeonmok-internal-medicine/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/myeonmok-internal-medicine/"/>
   </url>
   <url>
     <loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/chronic-care/</loc>
     <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/chronic-care/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/chronic-care/"/>
+    <xhtml:link rel="alternate" hreflang="mn" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/chronic-care/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/chronic-care/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/chronic-care/"/>
   </url>
   <url>
     <loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/jungnang-dialysis/</loc>
     <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/jungnang-dialysis/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/jungnang-dialysis/"/>
+    <xhtml:link rel="alternate" hreflang="mn" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/jungnang-dialysis/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/jungnang-dialysis/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/jungnang-dialysis/"/>
   </url>
   <url>
     <loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/dialysis-consultation/</loc>
     <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/dialysis-consultation/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/dialysis-consultation/"/>
+    <xhtml:link rel="alternate" hreflang="mn" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/dialysis-consultation/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/dialysis-consultation/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/dialysis-consultation/"/>
   </url>
   <url>
     <loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/visit/</loc>
     <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/visit/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/visit/"/>
+    <xhtml:link rel="alternate" hreflang="mn" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/visit/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/visit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/visit/"/>
   </url>
   <url>
     <loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/video/</loc>
     <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/video/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/video/"/>
+    <xhtml:link rel="alternate" hreflang="mn" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/video/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/video/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/video/"/>
   </url>
   <url>
     <loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/</loc>
     <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/"/>
+    <xhtml:link rel="alternate" hreflang="mn" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/"/>
   </url>
   <url>
     <loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/myeonmok-internal-medicine/</loc>
     <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/myeonmok-internal-medicine/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/myeonmok-internal-medicine/"/>
+    <xhtml:link rel="alternate" hreflang="mn" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/myeonmok-internal-medicine/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/myeonmok-internal-medicine/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/myeonmok-internal-medicine/"/>
   </url>
   <url>
     <loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/chronic-care/</loc>
     <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/chronic-care/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/chronic-care/"/>
+    <xhtml:link rel="alternate" hreflang="mn" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/chronic-care/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/chronic-care/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/chronic-care/"/>
   </url>
   <url>
     <loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/jungnang-dialysis/</loc>
     <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/jungnang-dialysis/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/jungnang-dialysis/"/>
+    <xhtml:link rel="alternate" hreflang="mn" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/jungnang-dialysis/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/jungnang-dialysis/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/jungnang-dialysis/"/>
   </url>
   <url>
     <loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/dialysis-consultation/</loc>
     <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/dialysis-consultation/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/dialysis-consultation/"/>
+    <xhtml:link rel="alternate" hreflang="mn" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/dialysis-consultation/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/dialysis-consultation/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/dialysis-consultation/"/>
   </url>
   <url>
     <loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/visit/</loc>
     <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/visit/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/visit/"/>
+    <xhtml:link rel="alternate" hreflang="mn" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/visit/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/visit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/visit/"/>
   </url>
   <url>
     <loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/video/</loc>
     <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/video/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/video/"/>
+    <xhtml:link rel="alternate" hreflang="mn" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/video/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/video/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://starichdog-collab.github.io/myeonmok-yonsei-seok/video/"/>
   </url>
   <url>
     <loc>https://starichdog-collab.github.io/myeonmok-yonsei-seok/assets/arrival-card-zh.pdf</loc>

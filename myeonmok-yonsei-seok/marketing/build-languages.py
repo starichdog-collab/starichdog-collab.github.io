@@ -217,15 +217,33 @@ def write_changed(path, text):
 
 def update_sitemap(path, all_urls, changed, when):
     text = path.read_text(encoding="utf-8")
+    # Mirror the same-topic HTML alternates in both discovery sitemaps.
+    # PDFs are downloads, not equivalent translations of these HTML pages.
+    language_groups = {}
+    for topic in TOPICS:
+        pairs = [(lang, BASE + route(lang, topic)) for lang in LANGS]
+        pairs.append(("x-default", BASE + route("ko", topic)))
+        for lang in LANGS:
+            language_groups[BASE + route(lang, topic)] = pairs
+    if 'xmlns:xhtml=' not in text:
+        text = text.replace('<urlset ', '<urlset xmlns:xhtml="http://www.w3.org/1999/xhtml" ', 1)
     existing = set(re.findall(r"<loc>([^<]+)</loc>", text))
+    def annotate(block, url):
+        if url not in language_groups:
+            return block
+        block = re.sub(r'\s*<xhtml:link\b[^>]*/>', '', block)
+        links = ''.join(f'\n    <xhtml:link rel="alternate" hreflang="{code}" href="{escape(target, quote=True)}"/>'
+                        for code, target in language_groups[url])
+        return re.sub(r'(<lastmod>[^<]+</lastmod>|<loc>[^<]+</loc>(?!\s*<lastmod>))',
+                      lambda m: m[0] + links, block, count=1)
     def update(match):
         block = match[0]
         url = re.search(r"<loc>([^<]+)</loc>", block)[1]
         if url in changed:
-            return re.sub(r"<lastmod>[^<]+</lastmod>", f"<lastmod>{when}</lastmod>", block)
-        return block
+            block = re.sub(r"<lastmod>[^<]+</lastmod>", f"<lastmod>{when}</lastmod>", block)
+        return annotate(block, url)
     text = re.sub(r"<url>.*?</url>", update, text, flags=re.S)
-    extra = "".join(f"  <url>\n    <loc>{url}</loc>\n    <lastmod>{when}</lastmod>\n  </url>\n"
+    extra = "".join(annotate(f"  <url>\n    <loc>{url}</loc>\n    <lastmod>{when}</lastmod>\n  </url>\n", url)
                     for url in all_urls if url not in existing)
     write_changed(path, text.replace("</urlset>", extra+"</urlset>"))
 
