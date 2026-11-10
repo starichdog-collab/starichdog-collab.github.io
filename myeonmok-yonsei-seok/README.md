@@ -13,6 +13,15 @@
 
 진료·방문 안내는 [简体中文](https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/), [Монгол](https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/), [English](https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/)로도 볼 수 있습니다. 각 언어의 내과·혈액투석·오시는 길 안내와 영상 자막이 연결됩니다.
 
+혈액투석을 알아보고 있다면 해당 언어의 투석 안내로 바로 이동하세요.
+
+| 언어 | 혈액투석 안내 |
+| --- | --- |
+| 한국어 | [혈액투석·인공신장실·투석 시간과 비용 질문](https://starichdog-collab.github.io/myeonmok-yonsei-seok/jungnang-dialysis/#hemodialysis) |
+| 简体中文 | [中浪区面牧洞血液透析室](https://starichdog-collab.github.io/myeonmok-yonsei-seok/zh/jungnang-dialysis/) |
+| Монгол | [Жүннан дүүргийн Мёнмок дахь гемодиализын тасаг](https://starichdog-collab.github.io/myeonmok-yonsei-seok/mn/jungnang-dialysis/) |
+| English | [Hemodialysis in Jungnang-gu, Seoul](https://starichdog-collab.github.io/myeonmok-yonsei-seok/en/jungnang-dialysis/) |
+
 병원은 서울 중랑구 면목로 398 스마트빌딩에 있습니다. 외래는 2층, 인공신장실은 5·6층이며 문의 전화는 **02-437-0808**입니다. 상담·치료 가능 여부와 실제 일정은 병원에 확인하세요.
 
 ## 사이트 소스와 관리 기록

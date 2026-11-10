@@ -129,7 +129,14 @@ def render(lang, topic, data, template):
     visit = escape(pages["visit"]["label"])
     section_html = []
     for s in page["sections"]:
-        section_html.append(f'<section class="guide-section"><h2>{escape(s["heading"])}</h2><p>{escape(s["text"])}</p></section>')
+        source = ""
+        if "source" in s:
+            citation = s["source"]
+            if not citation["url"].startswith("https://"):
+                raise ValueError("A health-information source must use HTTPS")
+            source = (f'<p><a class="guide-body-link" href="{escape(citation["url"], quote=True)}" '
+                      f'hreflang="ko">{escape(citation["label"])} {ARROW}</a></p>')
+        section_html.append(f'<section class="guide-section"><h2>{escape(s["heading"])}</h2><p>{escape(s["text"])}</p>{source}</section>')
     official_services = {
         "myeonmok-internal-medicine": ("15", "officialMedicine"),
         "chronic-care": ("15", "officialMedicine"),

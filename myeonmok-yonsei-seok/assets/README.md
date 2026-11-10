@@ -27,6 +27,7 @@
 - [공식 신장전문클리닉](https://www.xn--vb0bn4ecstcd77y.com/16): 신장질환 진료 안내
 - [공식 인공신장실](https://www.xn--vb0bn4ecstcd77y.com/18): 혈액투석과 시설 안내
 - [공식 의료진 소개](https://www.xn--vb0bn4ecstcd77y.com/index): 공개 의료진 약력
+- [혈액투석·인공신장실·시간·비용 질문](https://starichdog-collab.github.io/myeonmok-yonsei-seok/jungnang-dialysis/#hemodialysis): 자료를 내려받기 전에 읽는 기본 안내
 - [첫 방문·전원 상담 준비](https://starichdog-collab.github.io/myeonmok-yonsei-seok/dialysis-consultation/): 상담 일정·기록·보호자 동행 확인표
 - [진료시간·오시는 길](https://starichdog-collab.github.io/myeonmok-yonsei-seok/visit/): 외래시간과 실제 병원 위치
 

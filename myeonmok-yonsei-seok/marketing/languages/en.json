@@ -80,6 +80,14 @@
       "h1": "Hemodialysis in Jungnang-gu",
       "intro": "The clinic’s dialysis unit is at 398 Myeonmok-ro in Myeonmok-dong, near Myeonmok Station. Call before visiting to ask about a first consultation or a transfer.",
       "sections": [
+        {
+          "heading": "Hemodialysis and your treatment schedule",
+          "text": "Hemodialysis filters blood through a machine outside the body to remove waste and excess fluid. This page describes the clinic’s publicly listed hemodialysis service. Ask the clinic about treatment times, evening or holiday availability, and costs before visiting.",
+          "source": {
+            "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6465",
+            "label": "General health information: KDCA hemodialysis guide (Korean)"
+          }
+        },
         {"heading": "Which entrance and floor?", "text": "Set your map destination to 면목연세석내과 or use the Korean street address below. Outpatient reception is on floor 2 and the dialysis unit occupies floors 5 and 6. When you arrange your visit, ask which floor to go to first."},
         {"heading": "From Sangbong-dong, Mangu-dong or Yongmasan", "text": "Choose your home address or departure station as the starting point on the map. If you start near Yongmasan Station, keep Myeonmok Station as the landmark for the clinic. Ask about drop-off or step-free access if you need it."},
         {"heading": "Confirming a dialysis appointment", "text": "The outpatient timetable does not give dialysis session times. Ask the unit about availability for the date you need, the records it wants to review and when it can confirm an appointment."}
