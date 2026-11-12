@@ -28,6 +28,9 @@
     "arrivalCard": "Visit card in English and Korean (PDF)",
     "officialMedicine": "Internal medicine at the clinic (Korean)",
     "officialDialysis": "See the clinic’s dialysis unit (Korean)",
+    "officialKidney": "Kidney clinic: services and information (Korean)",
+    "officialCareHeading": "Read the clinic’s official information",
+    "officialCareNote": "For kidney consultations and dialysis facilities, see the clinic’s own service pages. Both links below open information in Korean.",
     "pdf": "One-page visit guide (PDF in Korean)",
     "guideNote": "This patient guide uses publicly available clinic information. The clinic can confirm appointments, availability and test preparation.",
     "read": "Read the guide",
@@ -40,7 +43,7 @@
   "pages": {
     "home": {
       "label": "Clinic guide",
-      "title": "Internal medicine and dialysis in Seoul | Myeonmok Yonsei Seok",
+      "title": "Seoul dialysis & internal medicine | Myeonmok Yonsei Seok",
       "description": "Find Myeonmok Yonsei Seok Internal Medicine near Myeonmok Station in Jungnang-gu, Seoul. Check outpatient hours, dialysis enquiries and directions in English.",
       "h1": "Internal medicine and dialysis in Myeonmok, Seoul",
       "intro": "Myeonmok Yonsei Seok is an internal medicine clinic in Jungnang-gu. Outpatient visits take place on the second floor. The dialysis unit is on the fifth and sixth floors of the same building.",
@@ -51,8 +54,8 @@
     },
     "myeonmok-internal-medicine": {
       "label": "Internal medicine",
-      "title": "Internal medicine near Myeonmok Station | Myeonmok Yonsei Seok",
-      "description": "Plan a visit to the second-floor internal medicine clinic in Myeonmok-dong. Find guidance on checkup results, ongoing care and questions to ask before an ultrasound.",
+      "title": "Internal medicine, Myeonmok | Myeonmok Yonsei Seok",
+      "description": "Visit the internal medicine clinic in Myeonmok, Seoul. Check outpatient hours, what to bring and questions to ask before tests.",
       "h1": "Seeing an internal medicine doctor in Myeonmok-dong",
       "intro": "The outpatient clinic is on the second floor of the Smart Building in Jungnang-gu. It offers internal medicine consultations, including follow-up for chronic conditions.",
       "sections": [
@@ -63,7 +66,7 @@
     },
     "chronic-care": {
       "label": "Diabetes and chronic care",
-      "title": "Diabetes, blood pressure and cholesterol care | Myeonmok Yonsei Seok",
+      "title": "Diabetes & cholesterol care | Myeonmok Yonsei Seok",
       "description": "Prepare for a diabetes, hypertension or high cholesterol visit in Jungnang-gu, Seoul. See which existing test results, home readings and prescriptions to bring.",
       "h1": "Preparing for a diabetes, blood pressure or cholesterol visit",
       "intro": "If you are following up on a health screening or continuing treatment in Myeonmok-dong, bring dated results and a list of medicines you currently take.",
@@ -76,7 +79,7 @@
     "jungnang-dialysis": {
       "label": "Dialysis in Jungnang-gu",
       "title": "Hemodialysis in Jungnang-gu, Seoul | Myeonmok Yonsei Seok",
-      "description": "Find the hemodialysis unit in Myeonmok-dong and plan a visit from Sangbong-dong, Mangu-dong or Yongmasan. Check the address, floors and how to ask about sessions.",
+      "description": "Find hemodialysis in Myeonmok, Jungnang-gu. Check the unit's address, floors, visit preparation and how to ask about treatment schedules.",
       "h1": "Hemodialysis in Jungnang-gu",
       "intro": "The clinic’s dialysis unit is at 398 Myeonmok-ro in Myeonmok-dong, near Myeonmok Station. Call before visiting to ask about a first consultation or a transfer.",
       "sections": [
@@ -95,8 +98,8 @@
     },
     "dialysis-consultation": {
       "label": "First visit or transfer",
-      "title": "First dialysis consultation or transfer in Seoul | Myeonmok Yonsei Seok",
-      "description": "Questions to ask before your first hemodialysis consultation or a transfer to the clinic in Myeonmok-dong. Includes records, dates, reception and a printable checklist.",
+      "title": "Dialysis consultation & transfers | Myeonmok Yonsei Seok",
+      "description": "Prepare for a first dialysis visit or transfer in Myeonmok, Seoul. Check records, dates, reception and a printable consultation checklist.",
       "h1": "Planning a first dialysis consultation or a transfer",
       "intro": "When you call, say whether you are seeking an initial kidney consultation or already receive hemodialysis at another unit. This helps reception direct your enquiry.",
       "sections": [
@@ -107,7 +110,7 @@
     },
     "visit": {
       "label": "Hours and directions",
-      "title": "Hours and directions from Myeonmok Station | Myeonmok Yonsei Seok",
+      "title": "Hours & directions | Myeonmok Yonsei Seok, Seoul",
       "description": "Visit Myeonmok Yonsei Seok at 398 Myeonmok-ro, Seoul, near Exit 2 of Myeonmok Station. Find outpatient hours, the Korean address and the clinic phone number.",
       "h1": "Outpatient hours and directions",
       "intro": "The Smart Building stands opposite the Myeonmok Bon-dong Community Service Center. Use the Korean address below in a map app or show it to your driver.",
@@ -118,7 +121,7 @@
     },
     "video": {
       "label": "Clinic film",
-      "title": "Dialysis unit video with English captions | Myeonmok Yonsei Seok",
+      "title": "Dialysis unit video | Myeonmok Yonsei Seok",
       "description": "Watch a 30-second introduction to Myeonmok Yonsei Seok in Jungnang-gu, with English captions, dialysis unit photographs and a written transcript.",
       "h1": "A 30-second look at the clinic",
       "intro": "See the dialysis unit and the building layout before you visit. The film has Korean on-screen text with selectable captions and a transcript below.",

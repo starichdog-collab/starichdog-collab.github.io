@@ -140,8 +140,13 @@ def render(lang, topic, data, template):
     official_services = {
         "myeonmok-internal-medicine": ("15", "officialMedicine"),
         "chronic-care": ("15", "officialMedicine"),
-        "jungnang-dialysis": ("18", "officialDialysis"),
     }
+    if topic in ("jungnang-dialysis", "dialysis-consultation"):
+        links = "".join(f'<p><a class="guide-body-link" href="{OFFICIAL}{path}" hreflang="ko">'
+                        f'{u[label]} {ARROW}</a></p>'
+                        for path, label in (("16", "officialKidney"), ("18", "officialDialysis")))
+        section_html.append(f'<section class="guide-section" id="official-care">'
+                            f'<h2>{u["officialCareHeading"]}</h2><p>{u["officialCareNote"]}</p>{links}</section>')
     if topic in official_services:
         path, label = official_services[topic]
         section_html.append(f'<p><a class="guide-body-link" href="{OFFICIAL}{path}" hreflang="ko">{u[label]} {ARROW}</a></p>')
